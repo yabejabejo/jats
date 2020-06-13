@@ -155,7 +155,7 @@ rtp://@239.1.2.222:9256
 
 ==
 
-#EXTINF:-1 tvg-logo="http://i.ibb.co/YRykgvL/donghantv.png" group-title="Gen Entertainment",500 HGTV
+#EXTINF:-1 tvg-logo="http://10.6.47.36:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",500 HGTV
 rtp://@239.1.1.210:9506
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" group-title="Gen Entertainment",501 Blue Ant Extreme
 rtp://@239.1.1.134:8778
