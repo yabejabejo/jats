@@ -594,9 +594,9 @@ rtp://@239.1.2.244:9078
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Gen Entertainment",967 BLUE ANT ENT HD
 rtp://@239.1.2.76:9310
 
-#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Gen Entertainment",968 Star Chinese Movies HD
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Movie",968 Star Chinese Movies HD
 rtp://@239.1.2.231:9336
-#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Gen Entertainment",969 TVN Movie HD
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Movie",969 TVN Movie HD
 
 rtp://@239.1.2.72:8408
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sport",970 Bein1 HD
