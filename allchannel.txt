@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
-#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/UseeTV#/media/Berkas%3AUseeTV.png" group-title="Local Channel",80 Ruang Trampil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Local Channel",80 Ruang Trampil
 rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Sport",85 USee Sports
 rtp://@239.1.2.42:8194
