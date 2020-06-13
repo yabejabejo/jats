@@ -48,7 +48,7 @@ rtp://@239.1.1.197:9156
 rtp://@239.1.1.183:9072
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Local Channel",116 Jak TV
 rtp://@239.1.1.107:8616
-#EXTINF:-1 tvg-logo="" group-title="Local Channel",117 MNC Lifestyle
+#EXTINF:-1 tvg-logo="http://10.6.47.36:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Local Channel",117 MNC Lifestyle
 rtp://@239.1.2.54:8298
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="Local Channel",118 RTV
 rtp://@239.1.1.69:8388
@@ -211,7 +211,7 @@ rtp://@239.1.1.147:8856
 rtp://@239.1.1.115:8664
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradrama_big.png" group-title="Gen Entertainment",534 Citra Drama
 rtp://@239.1.1.44:8238
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradanddut_big.png" group-title="Gen Entertainment",535 Citra Dangdut
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradangdut_big.png" group-title="Gen Entertainment",535 Citra Dangdut
 rtp://@239.1.1.143:8832"
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Gen Entertainment",536 Sony Gem
 rtp://@239.1.1.86:8154
@@ -221,7 +221,7 @@ rtp://@239.1.1.172:9006
 rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",539 Shenzen International
 rtp://@239.1.1.156:8910
-#EXTINF:-1 tvg-logo="http://10.6.47.36:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="HD Channel",540 ETTV Asia
+#EXTINF:-1 tvg-logo="http://10.6.47.36:8080/iptvepg/images/markurl/mark_1554382859752.png" group-title="Gen Entertainment",540 ETTV Asia
 rtp://@239.1.2.196:9406
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gPvFwQm/kungfutv.png" group-title="Gen Entertainment",541 NewTV
 rtp://@239.1.2.40:8206
