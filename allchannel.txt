@@ -123,7 +123,7 @@ rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="http://i.ibb.co/N7j4QZg/kakutv.png" group-title="Kids",313 Kaku TV
 rtp://@239.1.1.214:9514
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spacetoonplus_big1.png" group-title="Kids",314 Spacetoon
-rtp://@239.1.1.254:9338
+#rtp://@239.1.1.254:9338
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horee_big.png" group-title="Kids",315 Horee!
 rtp://@239.1.1.68:8382
 
@@ -149,7 +149,7 @@ rtp://@239.1.1.173:9012
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music",453 Prambors
 rtp://@239.1.1.227:9336
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_allegro_big1.png" group-title="Music",454 T Music
-rtp://@239.1.1.163:8952
+#rtp://@239.1.1.163:8952
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Music",459 i Konser
 rtp://@239.1.2.222:9256
 
@@ -332,7 +332,7 @@ rtp://@239.1.2.92:9490
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_alquran_big1.png" group-title="Religious",850 AlQuran Karim
 rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_khazanah_big1.png" group-title="Religious",851 Khazanah
-rtp://@239.1.1.230:9356
+#rtp://@239.1.1.230:9356
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rodjatv_big1.png" group-title="Religious",852 Rodja TV
 rtp://@239.1.1.224:9320
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mtatv_big1.png" group-title="Religious",853 MT@ TV
