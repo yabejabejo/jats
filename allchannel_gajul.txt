@@ -264,7 +264,7 @@ rtp://@239.1.1.226:9332
 rtp://@239.1.1.71:8400
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_imc_big.png" group-title="Movie",620 IMC
 rtp://@239.1.2.20:8094
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",621 Galaxy Movie Prenium
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",621 Galaxy Movie Premium
 rtp://@239.1.2.240:9390
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Movie",622 Star Chinese Movie
 rtp://@239.1.1.131:8760
