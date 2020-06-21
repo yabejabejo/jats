@@ -161,7 +161,7 @@ rtp://@239.1.1.210:9506
 rtp://@239.1.1.134:8778
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="Gen Entertainment",502 Animax
 rtp://@239.1.1.64:8358
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_insert_big1.png" group-title="Local Channel",503 Insert
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Local Channel",503 Insert
 rtp://@239.1.1.113:8652
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",504 Foxlife
 rtp://@239.1.1.171:9000
