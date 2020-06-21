@@ -209,7 +209,7 @@ rtp://@239.1.1.33:8172
 rtp://@239.1.1.147:8856
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cctv4_big1.png" group-title="Gen Entertainment",533 CCTV4
 rtp://@239.1.1.115:8664
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradrama_big.png" group-title="Gen Entertainment",534 Citra Drama
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/General-Entertainment/CitraDrama.png" group-title="Gen Entertainment",534 Citra Drama
 rtp://@239.1.1.44:8238
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradangdut_big.png" group-title="Gen Entertainment",535 Citra Dangdut
 rtp://@239.1.1.143:8832"
@@ -225,7 +225,7 @@ rtp://@239.1.1.156:8910
 rtp://@239.1.2.196:9406
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gPvFwQm/kungfutv.png" group-title="Gen Entertainment",541 NewTV
 rtp://@239.1.2.40:8206
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Gen Entertainment",542 Chinese Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xLLBnJq/chinesedrama-big.png" group-title="Gen Entertainment",542 Chinese Drama
 rtp://@239.1.2.10:8306
 
 ==
