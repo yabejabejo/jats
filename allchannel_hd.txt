@@ -294,9 +294,9 @@ rtp://@239.1.1.123:8712
 rtp://@239.1.1.73:8412
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duck_big1.png" group-title="Kids",  Duck TV (309)
 rtp://@239.1.1.63:8352
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  Dream Work (310)
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWorks (310)
 rtp://@239.1.1.139:8808
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWork HD (932)
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWorks HD (932)
 rtp://@239.1.1.234:9222
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_babyfirst_big1.png" group-title="Kids",  Baby First (311)
 rtp://@239.1.1.157:8916
@@ -318,8 +318,6 @@ rtp://@239.1.1.5:8004
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" group-title="Music",  Channel [V] (452)
 rtp://@239.1.1.173:9012
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradangdut_big.png" group-title="Music",  Citra Dangdut (535)
-rtp://@239.1.1.143:8832"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" group-title="Music",  Channel [V] HD (942)
 rtp://@239.1.2.235:9342
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music",  Prambors (453)
@@ -330,6 +328,8 @@ rtp://@239.1.1.227:9336
 rtp://@239.1.2.222:9256
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbwhRKD/ikonser.jpg" group-title="Music",  i Konser HD (949)
 rtp://@239.1.2.221:9250
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_citradangdut_big.png" group-title="Music",  Citra Dangdut (535)
+rtp://@239.1.1.143:8832"
 
 ===
 
