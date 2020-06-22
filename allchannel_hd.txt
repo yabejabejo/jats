@@ -432,7 +432,7 @@ rtp://@239.1.1.14:8058
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="HD Channel",949 i Konser HD
 rtp://@239.1.2.221:9250
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HD Channel",950 FOXlife
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HD Channel",950 FOX Life HD
 rtp://@239.1.1.209:9228
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HD Channel",951 FOX HD
 rtp://@239.1.1.247:9440
@@ -596,7 +596,7 @@ rtp://@239.1.1.14:8058
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Music",949 i Konser HD
 rtp://@239.1.2.221:9250
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",950 FOXlife HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",950 FOX Life HD
 rtp://@239.1.1.209:9228
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="Gen Entertainment",951 FOX HD
 rtp://@239.1.1.247:9440
