@@ -154,8 +154,6 @@ rtp://@239.1.1.65:8364
 rtp://@239.1.1.195:9144
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" group-title="News",  France24 (806)
 rtp://@239.1.1.191:9120
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Gen Entertainment",  NHK World Japan (807)
-rtp://@239.1.1.236:9390
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News",  DW (808)
 rtp://@239.1.1.187:9096
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="News",  TVBS (809)
@@ -268,6 +266,8 @@ rtp://@239.1.1.167:8976
 rtp://@239.1.1.117:8676
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big1.png" group-title="Gen Entertainment",  NHK World Premium (519)
 rtp://@239.1.1.165:8964
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Gen Entertainment",  NHK World Japan (807)
+rtp://@239.1.1.236:9390
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_wakuwaku_big.png" group-title="Gen Entertainment",  Wakuwaku Japan (520)
 rtp://@239.1.1.75:8424
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Gen Entertainment",  Star Chinese (521)
