@@ -301,6 +301,18 @@ rtp://@239.1.2.217:9232
 rtp://@239.1.2.219:9244
 
 ==
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="News",101 Metro TV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="News",102 CNN Indonesia
+rtp://@239.1.1.241:9362
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="News",103 TV One
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="News",115 Berita Satu
+rtp://@239.1.1.183:9072
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="News",119 IDX Channel
+rtp://@239.1.2.248:9398
+#EXTINF:-1 tvg-logo="https://i.ibb.co/847D14H/antara.jpg" group-title="News",124 Antara
+rtp://@239.1.1.128:9218
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_euronews_big1.png" group-title="News",800 Euronews
 rtp://@239.1.1.193:9132
@@ -515,22 +527,8 @@ rtp://@239.1.1.190:9116
 
 ===
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="News",101 Metro TV
-rtp://@239.1.1.19:8088
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="News",102 CNN Indonesia
-rtp://@239.1.1.241:9362
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="News",103 TV One
-rtp://@239.1.1.31:8160
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="News",115 Berita Satu
-rtp://@239.1.1.183:9072
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="News",119 IDX Channel
-rtp://@239.1.2.248:9398
-#EXTINF:-1 tvg-logo="https://i.ibb.co/847D14H/antara.jpg" group-title="News",124 Antara
-rtp://@239.1.1.128:9218
-
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Local Channel",900 Ruang Trampil HD
 rtp://@239.1.1.111:8640
-
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Sport",905 Usee Sports HD
 rtp://@239.1.2.44:8122
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Sport",906 Usee Sports 2 HD
