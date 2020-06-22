@@ -93,7 +93,7 @@ rtp://@239.1.1.57:8316
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="Knowledge",207 Discovery
 rtp://@239.1.2.30:8154
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Knowledge",208 Lingua Trial
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhSwFxG/lingua.png" group-title="Knowledge",208 Lingua Trial
 rtp://@239.1.2.90:9500
 
 ==
@@ -150,7 +150,7 @@ rtp://@239.1.1.173:9012
 rtp://@239.1.1.227:9336
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_allegro_big1.png" group-title="Music",454 T Music
 #rtp://@239.1.1.163:8952
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Music",459 i Konser
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbwhRKD/ikonser.jpg" group-title="Music",459 i Konser
 rtp://@239.1.2.222:9256
 
 ==
