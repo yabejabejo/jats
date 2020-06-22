@@ -121,9 +121,9 @@ rtp://@239.1.1.157:8916
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" group-title="Kids",312 Dunia Anak
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="http://i.ibb.co/N7j4QZg/kakutv.png" group-title="Kids",313 Kaku TV
-rtp://@239.1.1.214:9514
+#rtp://@239.1.1.214:9514
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spacetoonplus_big1.png" group-title="Kids",314 Spacetoon
-#rtp://@239.1.1.254:9338
+rtp://@239.1.1.254:9338
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horee_big.png" group-title="Kids",315 Horee!
 rtp://@239.1.1.68:8382
 
