@@ -483,8 +483,12 @@ rtp://@239.1.2.13:8052
 rtp://@239.1.1.229:9350
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="Lifestyle",  Fashion TV (404)
 rtp://@239.1.1.79:8448
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="Lifestyle",  Natgeo People (405)
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="Lifestyle",  Fashion TV HD (940)
+rtp://@239.1.2.237:9348
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="Lifestyle",  Nat Geo People (405)
 rtp://@239.1.1.67:8376
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="Lifestyle",  Nat Geo People HD (941)
+rtp://@239.1.2.229:9330
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="Lifestyle",  Fashion One (408)
 rtp://@239.1.1.127:8736
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="Lifestyle",  Fashion One HD (947)
