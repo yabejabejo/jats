@@ -57,6 +57,8 @@ rtp://@239.1.1.162:8946
 rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  TV Edukasi (127)
 rtp://@239.1.1.39:8208
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  Nusantara TV (128)
+rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",  RRI Net (130)
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",  JITV (131)
@@ -390,6 +392,8 @@ rtp://@239.1.1.167:8976
 rtp://@239.1.1.13:8052
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Gen Entertainment",  Aniplus (518)
 rtp://@239.1.1.117:8676
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Gen Entertainment",  Aniplus HD (929)
+rtp://@239.1.2.104:9526
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big1.png" group-title="Gen Entertainment",  NHK World Premium (519)
 rtp://@239.1.1.165:8964
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Gen Entertainment",  NHK World Premium HD (953)
