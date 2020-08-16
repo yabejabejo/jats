@@ -131,6 +131,8 @@ rtp://@239.1.1.239:9276
 rtp://@239.1.2.20:8094
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy Movie Premium (621)
 rtp://@239.1.2.240:9390
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy Movie Premium HD (926)
+rtp://@239.1.2.100:9518
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Movie",  Star Chinese Movie (622)
 rtp://@239.1.1.131:8760
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Movie",  Star Chinese Movie HD (968)
