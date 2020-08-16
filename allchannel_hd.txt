@@ -57,7 +57,7 @@ rtp://@239.1.1.162:8946
 rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  TV Edukasi (127)
 rtp://@239.1.1.39:8208
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  Nusantara TV (128)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDGT2bG/nusantara-tv.jpg" group-title="Local Channel",  Nusantara TV (128)
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",  RRI Net (130)
 rtp://@239.1.2.74:8420
