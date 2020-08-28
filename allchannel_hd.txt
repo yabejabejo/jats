@@ -487,6 +487,10 @@ rtp://@239.1.1.220:9522
 ===
 
 #Lifestyle
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbf8gq0/indihome-shopping.jpg" group-title="Lifestyle",  Indihome Shopping (99)
+rtp://@239.1.2.98:9514
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbf8gq0/indihome-shopping.jpg" group-title="Lifestyle",  Indihome Shopping HD (919)
+rtp://@239.1.2.96:9510
 #EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Lifestyle",  Lejel Home Shopping (106)
 rtp://@239.1.2.3:7992
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Lifestyle",  MNC Shop (110)
