@@ -61,6 +61,8 @@ rtp://@239.1.1.69:8388
 rtp://@239.1.2.248:9398
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",  Daai TV (120)
 rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MthTJ6/atv.jpg" group-title="Local Channel",  ATV (121)
+rtsp://10.6.41.20:554/live/ch20050515541243694190.sdp
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",  Bali TV (122)
 rtp://@239.1.1.72:8406
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",  JTV (123)
@@ -147,6 +149,8 @@ rtp://@239.1.1.71:8400
 rtp://@239.1.1.239:9276
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_imc_big.png" group-title="Movie",  IMC (620)
 rtp://@239.1.2.20:8094
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_imc_big.png" group-title="Movie",  IMC HD (989)
+rtp://@239.1.1.145:8844
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy Movie Premium (621)
 rtp://@239.1.2.240:9390
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy Movie Premium HD (926)
@@ -527,9 +531,9 @@ rtp://@239.1.1.14:8058
 rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Usee",  Ruang Trampil HD (900)
 rtp://@239.1.1.111:8640
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idku2_big.png" group-title="Usee",  .idku (87)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Rqf71/sea-today.jpg" group-title="Usee",  SEA TODAY (87)
 rtp://@239.1.2.68:8384
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idku2_big.png" group-title="Usee",  .idku HD (907)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Rqf71/sea-today.jpg" group-title="Usee",  SEA TODAY HD (907)
 rtp://@239.1.2.70:8396
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="Usee",  USee Prime (88)
 rtp://@239.1.1.216:9270
