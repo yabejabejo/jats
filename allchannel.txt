@@ -35,8 +35,6 @@ rtp://@239.1.1.69:8388
 rtp://@239.1.2.248:9398
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",  Daai TV (120)
 rtp://@239.1.1.179:9048
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MthTJ6/atv.jpg" group-title="Local Channel",  ATV (121)
-rtsp://10.6.41.20:554/live/ch20050515541243694190.sdp
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",  Bali TV (122)
 rtp://@239.1.1.72:8406
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",  JTV (123)
@@ -160,7 +158,7 @@ rtp://@239.1.1.187:9096
 rtp://@239.1.2.118:9410
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",  TRT World Trial (810)
 rtp://@239.1.2.84:8296
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia Trial (811)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia (811)
 rtp://@239.1.2.92:9490
 
 ==
@@ -351,7 +349,7 @@ rtp://@239.1.1.127:8736
 ==
 
 #Usee
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil.png" group-title="Usee",  Ruang Trampil (80)
+#EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Usee",  Ruang Trampil (80)
 rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Rqf71/sea-today.jpg" group-title="Usee",  SEA TODAY (87)
 rtp://@239.1.2.68:8384
