@@ -446,8 +446,12 @@ rtp://@239.1.1.115:8664
 rtp://@239.1.1.44:8238
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Gen Entertainment",  Sony Gem (536)
 rtp://@239.1.1.86:8154
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sgem_big1.png" group-title="Gen Entertainment",  Sony Gem HD (946)
+rtp://@239.1.2.18:8082
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Gen Entertainment",  Sony One (537)
 rtp://@239.1.1.172:9006
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sone_big1.png" group-title="Gen Entertainment",  Sony One HD (945)
+rtp://@239.1.2.21:8100
 #EXTINF:-1 tvg-logo="https://i.ibb.co/njf0YZ6/zhejiang.jpg" group-title="Gen Entertainment",  Zhejiang International (538)
 rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9NbxqYY/shenzen.jpg" group-title="Gen Entertainment",  Shenzen International (539)
