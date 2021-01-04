@@ -42,7 +42,7 @@ rtp://@239.1.1.6:8010
 #EXTINF:-1 tvg-logo="https://i.ibb.co/847D14H/antara.jpg" group-title="Local Channel",  Antara (124)
 rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",  MYTV (125)
-rtp://@239.1.1.162:8946
+#rtp://@239.1.1.162:8946
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVwHGW/r-channel.png" group-title="Local Channel",  R Channel (126)
 rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  TV Edukasi (127)
@@ -335,6 +335,8 @@ rtp://@239.1.2.3:7992
 rtp://@239.1.1.3:7992
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Lifestyle",  MNC Lifestyle (117)
 rtp://@239.1.2.54:8298
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MthTJ6/atv.jpg" group-title="Lifestyle",  ATV (121)
+rtp://@239.1.2.88:8308
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="Lifestyle",  AFN (402)
 rtp://@239.1.2.12:8046
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_eatgo_big1.png" group-title="Lifestyle",  Eat & Go (403)
