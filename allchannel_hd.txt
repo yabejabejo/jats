@@ -29,22 +29,24 @@ rtp://@239.1.2.58:8324
 rtp://@239.1.1.15:8064
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel",  Indosiar (109)
 rtp://@239.1.1.17:8076
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7mZjmf/rcti.png" group-title="Local Channel",  RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
+#https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7mZjmf/rcti.png" group-title="Local Channel",  RCTI HD
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHFmr4F/mnctv.png" group-title="Local Channel",  MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
+#https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHFmr4F/mnctv.png" group-title="Local Channel",  MNC TV HD
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRFkd3d/gtv.png" group-title="Local Channel",  Global TV 
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
+#https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRFkd3d/gtv.png" group-title="Local Channel",  Global TV HD
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9sHbVq/inews.png" group-title="Local Channel",  iNews TV
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9sHbVq/inews.png" group-title="Local Channel",  iNews TV HD
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",  Net TV (112)
 rtp://@239.1.1.119:8688
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",  Net TV HD (910)
@@ -68,7 +70,7 @@ rtp://@239.1.1.6:8010
 #EXTINF:-1 tvg-logo="https://i.ibb.co/847D14H/antara.jpg" group-title="Local Channel",  Antara (124)
 rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",  MYTV (125)
-rtp://@239.1.1.162:8946
+#:rtp://@239.1.1.162:8946
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVwHGW/r-channel.png" group-title="Local Channel",  R Channel (126)
 rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  TV Edukasi (127)
@@ -139,6 +141,8 @@ rtp://@239.1.1.189:9108
 rtp://@239.1.2.80:8578
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy (617)
 rtp://@239.1.1.184:8778
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy HD (923)
+rtp://@239.1.1.136:8790
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bioskopindonesia_big1.png" group-title="Movie",  Bioskop Indonesia (618)
 rtp://@239.1.1.226:9332
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" group-title="Movie",  Flik (619)
@@ -288,7 +292,7 @@ rtp://@239.1.1.208:9502
 rtp://@239.1.2.30:8154
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1TwVsY/discovery.jpg" group-title="Knowledge",  Discovery Channel HD (927)
 rtp://@239.1.2.78:7984
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhSwFxG/lingua.png" group-title="Knowledge",  Lingua Trial (208)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhSwFxG/lingua.png" group-title="Knowledge",  Lingua (208)
 rtp://@239.1.2.90:9500
 
 ===
@@ -300,6 +304,8 @@ rtp://@239.1.1.45:8244
 rtp://@239.1.1.201:9180
 #EXTINF:-1 tvg-logo="http://i.ibb.co/vBtnK3c/disneyjunior.png" group-title="Kids",  Disney Junior (302)
 rtp://@239.1.1.47:8256
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vBtnK3c/disneyjunior.png" group-title="Kids",  Disney Junior HD (931)
+rtp://@239.1.2.75:8426
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_davinci_big1.png" group-title="Kids",  Da Vinci Learning (303)
 rtp://@239.1.1.99:8568
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids",  Nickelodeon (304)
@@ -362,6 +368,8 @@ rtp://@239.1.1.134:8778
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="Gen Entertainment",  Animax (502)
 rtp://@239.1.1.64:8358
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="Gen Entertainment",  Animax HD (928)
+#rtp://@239.1.1.64:8358
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",  Foxlife (504)
 rtp://@239.1.1.171:9000
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="Gen Entertainment",  FOXlife HD (950)
@@ -506,7 +514,7 @@ rtp://@239.1.1.3:7992
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Lifestyle",  MNC Lifestyle (117)
 rtp://@239.1.2.54:8298
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MthTJ6/atv.jpg" group-title="Lifestyle",  ATV (121)
-rtsp://10.6.41.20:554/live/ch20050515541243694190.sdp
+rtp://@239.1.2.88:8308
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="Lifestyle",  AFN (402)
 rtp://@239.1.2.12:8046
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="Lifestyle",  AFN HD (943)
