@@ -22,9 +22,9 @@ rtp://@239.1.1.194:9138
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local Channel",  Trans 7 HD (912)
 rtp://@239.1.1.222:9306
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",  SCTV (107)
-#rtp://@239.1.1.21:8100
+rtp://@239.1.1.21:8100
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",  SCTV HD (914)
-rtp://@239.1.2.58:8324
+#rtp://@239.1.2.58:8324
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Local Channel",  ANTV (108)
 rtp://@239.1.1.15:8064
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel",  Indosiar (109)
