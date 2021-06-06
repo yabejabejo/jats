@@ -44,23 +44,29 @@ rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",  MYTV (125)
 #rtp://@239.1.1.162:8946
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVwHGW/r-channel.png" group-title="Local Channel",  R Channel (126)
-rtp://@239.1.2.86:8304
+#rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  TV Edukasi (127)
 rtp://@239.1.1.39:8208
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDGT2bG/nusantara-tv.jpg" group-title="Local Channel",  Nusantara TV (128)
+rtp://@239.1.2.102:9522
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9sHbVq/inews.png" group-title="Local Channel",  iNEWS (129)
+rtp://@239.1.1.212:8967
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",  RRI Net (130)
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",  JITV (131)
-rtp://@239.1.1.238:9400
+#rtp://@239.1.1.238:9400
 #EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",  Jowo (137)
 rtp://@239.1.2.6:8000
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Local Channel",  Insert (503)
 rtp://@239.1.1.113:8652
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Local Channel",  CNBC Indonesia (811)
+rtp://@239.1.2.92:9490
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrp5QZn/mnc-news.png" group-title="Local Channel",  MNC NEWS (812)
+rtp://@239.1.1.146:7985
 
 ===
 
 #Movie
-#EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Movie",  Movies Indihome (2) 
-rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO (601)
 rtp://@239.1.1.95:8544
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",  HBO Signature (602)
@@ -137,6 +143,7 @@ rtp://@239.1.2.217:9232
 rtp://@239.1.2.219:9244
 
 ===
+
 #News
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_euronews_big1.png" group-title="News",  Euronews (800)
 rtp://@239.1.1.193:9132
@@ -156,12 +163,11 @@ rtp://@239.1.1.191:9120
 rtp://@239.1.1.187:9096
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="News",  TVBS (809)
 rtp://@239.1.2.118:9410
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",  TRT World Trial (810)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",  TRT World (810)
 rtp://@239.1.2.84:8296
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia (811)
-rtp://@239.1.2.92:9490
 
 ==
+
 #Kids
 #EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" group-title="Kids",  Disney Channel (301)
 rtp://@239.1.1.45:8244
@@ -178,7 +184,7 @@ rtp://@239.1.1.123:8712
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_boomerang_big.png" group-title="Kids",  Boomerang (308)
 rtp://@239.1.1.73:8412
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duck_big1.png" group-title="Kids",  Duck TV (309)
-rtp://@239.1.1.63:8352
+#rtp://@239.1.1.63:8352
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWorks (310)
 rtp://@239.1.1.139:8808
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_babyfirst_big1.png" group-title="Kids",  Baby First (311)
@@ -188,11 +194,12 @@ rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids",  MY KIDZ (313)
 rtp://@239.1.1.254:9338
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_spacetoonplus_big1.png" group-title="Kids",  Spacetoon (314)
-rtp://@239.1.1.254:9338
+#rtp://@239.1.1.254:9338
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horee_big.png" group-title="Kids",  Horee! (315)
 rtp://@239.1.1.68:8382
 
 ==
+
 #Music
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="Music",  MTV Live (450)
 rtp://@239.1.1.5:8004
@@ -224,7 +231,7 @@ rtp://@239.1.1.57:8316
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="Knowledge",  Discovery (207)
 rtp://@239.1.2.30:8154
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhSwFxG/lingua.png" group-title="Knowledge",  Lingua Trial (208)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhSwFxG/lingua.png" group-title="Knowledge",  Lingua (208)
 rtp://@239.1.2.90:9500
 
 ==
@@ -255,7 +262,7 @@ rtp://@239.1.1.43:8232
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="Gen Entertainment",  Fox Crime (513)
 rtp://@239.1.1.161:8940
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX (514)
-rtp://@239.1.1.1:7980
+#rtp://@239.1.1.1:7980
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="Gen Entertainment",  TVN (516)
 rtp://@239.1.1.135:8784
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="Gen Entertainment",  KBS World (517)
@@ -328,6 +335,7 @@ rtp://@239.1.1.78:8442
 rtp://@239.1.1.220:9522
 
 =====
+
 #Lifestyle
 #EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Lifestyle",  Lejel Home Shopping (106)
 rtp://@239.1.2.3:7992
@@ -346,11 +354,13 @@ rtp://@239.1.1.79:8448
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="Lifestyle",  Natgeo People (405)
 rtp://@239.1.1.67:8376
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="Lifestyle",  Fashion One (408)
-rtp://@239.1.1.127:8736
+#rtp://@239.1.1.127:8736
 
 ==
 
 #Usee
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Usee",  Movies Indihome (2) 
+rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Usee",  Ruang Trampil (80)
 rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Rqf71/sea-today.jpg" group-title="Usee",  SEA TODAY (87)
