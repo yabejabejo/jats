@@ -22,31 +22,13 @@ rtp://@239.1.1.194:9138
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local Channel",  Trans 7 HD (912)
 rtp://@239.1.1.222:9306
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",  SCTV (107)
-rtp://@239.1.1.21:8100
+#rtp://@239.1.1.21:8100
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",  SCTV HD (914)
-#rtp://@239.1.2.58:8324
+rtp://@239.1.2.58:8324
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Local Channel",  ANTV (108)
 rtp://@239.1.1.15:8064
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel",  Indosiar (109)
 rtp://@239.1.1.17:8076
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7mZjmf/rcti.png" group-title="Local Channel",  RCTI
-#https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7mZjmf/rcti.png" group-title="Local Channel",  RCTI HD
-#https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CHFmr4F/mnctv.png" group-title="Local Channel",  MNC TV
-#https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CHFmr4F/mnctv.png" group-title="Local Channel",  MNC TV HD
-#https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DRFkd3d/gtv.png" group-title="Local Channel",  Global TV 
-#https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_600000=4-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DRFkd3d/gtv.png" group-title="Local Channel",  Global TV HD
-#https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V9sHbVq/inews.png" group-title="Local Channel",  iNews TV
-#https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V9sHbVq/inews.png" group-title="Local Channel",  iNews TV HD
-#https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",  Net TV (112)
 #rtp://@239.1.1.119:8688
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",  Net TV HD (910)
@@ -72,15 +54,17 @@ rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",  MYTV (125)
 #:rtp://@239.1.1.162:8946
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVwHGW/r-channel.png" group-title="Local Channel",  R Channel (126)
-rtp://@239.1.2.86:8304
+#rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",  TV Edukasi (127)
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nDGT2bG/nusantara-tv.jpg" group-title="Local Channel",  Nusantara TV (128)
 rtp://@239.1.2.102:9522
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9sHbVq/inews.png" group-title="Local Channel",  iNEWS (129)
+rtp://@239.1.1.212:8967
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",  RRI Net (130)
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",  JITV (131)
-rtp://@239.1.1.238:9400
+#rtp://@239.1.1.238:9400
 #EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",  Jowo (137)
 #rtp://@239.1.2.6:8000
 #EXTINF:-1 tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",  Jowo HD (917)
@@ -91,8 +75,6 @@ rtp://@239.1.1.113:8652
 ===
 
 #Movie
-#EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Movie",  Movies Indihome (2)
-rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO (601)
 #rtp://@239.1.1.95:8544
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO HD (991)
@@ -263,7 +245,8 @@ rtp://@239.1.2.84:8296
 #rtp://@239.1.2.92:9490
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia HD (983)
 rtp://@239.1.2.94:9448
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrp5QZn/mnc-news.png" group-title="News",  MNC NEWS (812)
+rtp://@239.1.1.146:7985
 
 ===
 
@@ -317,7 +300,7 @@ rtp://@239.1.1.123:8712
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_boomerang_big.png" group-title="Kids",  Boomerang (308)
 rtp://@239.1.1.73:8412
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duck_big1.png" group-title="Kids",  Duck TV (309)
-rtp://@239.1.1.63:8352
+#rtp://@239.1.1.63:8352
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWorks (310)
 #rtp://@239.1.1.139:8808
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWorks HD (932)
@@ -407,7 +390,7 @@ rtp://@239.1.2.225:9318
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX (514)
 #rtp://@239.1.1.1:7980
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="Gen Entertainment",  FX HD (957)
-rtp://@239.1.2.227:9324
+#rtp://@239.1.2.227:9324
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="Gen Entertainment",  TVN (516)
 #rtp://@239.1.1.135:8784
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="Gen Entertainment",  TVN HD (955)
@@ -532,11 +515,13 @@ rtp://@239.1.2.229:9330
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="Lifestyle",  Fashion One (408)
 #rtp://@239.1.1.127:8736
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="Lifestyle",  Fashion One HD (947)
-rtp://@239.1.1.14:8058
+#rtp://@239.1.1.14:8058
 
 ===
 
 #Usee
+#EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Usee",  Movies Indihome (2)
+rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Usee",  Ruang Trampil (80)
 #rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Usee",  Ruang Trampil HD (900)
