@@ -39,6 +39,8 @@ rtp://@239.1.1.72:8406
 rtp://@239.1.1.6:8010
 #EXTINF:-1 tvg-logo="https://i.ibb.co/847D14H/antara.jpg" group-title="Local",  Antara (124)
 rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzn6NkB/ochannel.png" group-title="Local",  O Channel (125)
+rtp://@239.1.1.144:8845
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local",  TV Edukasi (127)
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nDGT2bG/nusantara-tv.jpg" group-title="Local",  Nusantara TV (128)
@@ -119,6 +121,10 @@ rtp://@239.1.1.221:9300
 #rtp://@239.1.1.223:9312
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sport",  Fight Sport (704)
 rtp://@239.1.1.177:9036
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rb6hMpn/spotv.png" group-title="Sport",  Spo TV (705)
+rtp://@239.1.1.132:8761
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znkBXqN/spotv2.jpg" group-title="Sport",  Spo TV2 (706)
+rtp://@239.1.1.198:9157
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="Sport",  NBA TV (708)
 rtp://@239.1.1.49:8268
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_egg_big1.png" group-title="Sport",  EGG (709)
@@ -175,6 +181,8 @@ rtp://@239.1.1.47:9338
 rtp://@239.1.1.45:8244
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horee_big.png" group-title="Kids",  Horee! (315)
 rtp://@239.1.1.68:8382
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yy1FL58/mentari-tv.jpg" group-title="Kids",  Mentari TV (316)
+rtp://@239.1.1.127:8815
 
 ==
 
