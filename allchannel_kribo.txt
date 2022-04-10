@@ -41,6 +41,8 @@ rtp://@239.1.1.6:8010
 rtp://@239.1.1.128:9218
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gzn6NkB/ochannel.png" group-title="Local",  O Channel (125)
 rtp://@239.1.1.144:8845
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B26dCXb/LBS-Drama.png" group-title="Local",  Drama Korea LBS (126)
+rtp://@239.1.2.101:9521
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local",  TV Edukasi (127)
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nDGT2bG/nusantara-tv.jpg" group-title="Local",  Nusantara TV (128)
@@ -49,6 +51,8 @@ rtp://@239.1.2.102:9522
 rtp://@239.1.1.212:8967
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local",  RRI Net (130)
 rtp://@239.1.2.74:8420
+#EXTINF:-1 tvg-logo="https://i.ibb.co/myp3RHp/Garuda-TV.jpg" group-title="Local",  Garuda TV (133)
+rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local",  Jowo (137)
 rtp://@239.1.2.6:8000
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0nJwzzG/indonesiana.jpg" group-title="Local",  IndonesianaTV (200)
@@ -113,12 +117,12 @@ rtp://@239.1.1.151:8880
 rtp://@239.1.1.101:8580
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Sport",  Usee Sports 2 (86)
 rtp://@239.1.1.53:8292
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sport",  Bein1 (701)
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sport",  Bein Sports 1 (701)
 rtp://@239.1.1.217:9204
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sport",  Bein2 (702)
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sport",  Bein Sports 2 (702)
+#rtp://@239.1.1.221:9300
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sport",  Bein Sports 3 (703)
 rtp://@239.1.1.221:9300
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sport",  Bein3 (703)
-#rtp://@239.1.1.223:9312
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sport",  Fight Sport (704)
 rtp://@239.1.1.177:9036
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rb6hMpn/spotv.png" group-title="Sport",  Spo TV (705)
@@ -252,7 +256,7 @@ rtp://@239.1.1.165:8964
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="Gen Entertainment",  NHK World Japan (807)
 rtp://@239.1.1.236:9390
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_wakuwaku_big.png" group-title="Gen Entertainment",  Wakuwaku Japan (520)
-rtp://@239.1.1.75:8424
+#rtp://@239.1.1.75:8424
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Gen Entertainment",  Star Chinese (521)
 rtp://@239.1.1.153:8892
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="Gen Entertainment",  K+ (523)
