@@ -218,8 +218,8 @@ http://rr.dens.tv/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="Entertainment",Star Chinese
 http://rr3.dens.tv/s/s94/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="Entertainment",Style TV5Monde 
-http://rr1.dens.tv/s/s24/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="Entertainment", Style TV5Monde
+http://rr1.dens.tv/h/h01/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg" group-title="Entertainment",TBN
 http://rr2.dens.tv/s/s39/01.m3u8
@@ -227,8 +227,8 @@ http://rr2.dens.tv/s/s39/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title="Entertainment",TVE
 http://rr.dens.tv/h/h158/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg" group-title="Entertainment",TV5Monde
-http://rr1.dens.tv/h/h01/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg" group-title="Entertainment",TV5Monde Asie
+http://rr1.dens.tv/s/s24/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Telenovela_Channel.png" group-title="Entertainment",Telenovela
 http://rr.dens.tv/h/h153/index2.m3u8
