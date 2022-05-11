@@ -127,6 +127,9 @@ http://rr3.dens.tv/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rt.png" group-title="News",RT English
 #http://rr3.dens.tv/s/s23/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="News",TRT World
+http://rr.dens.tv/h/h156/index2.m3u8
+
 ## Sports
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Sports",TVRI Sport
@@ -220,9 +223,6 @@ http://rr1.dens.tv/s/s24/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg" group-title="Entertainment",TBN
 http://rr2.dens.tv/s/s39/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="News",TRT World
-http://rr.dens.tv/h/h156/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title="Entertainment",TVE
 http://rr.dens.tv/h/h158/index2.m3u8
