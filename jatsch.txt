@@ -16,7 +16,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 http://rr2.dens.tv/s/s13/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Lokal",Elshinta TV
-http://rr2.dens.tv/s/s10/01.m3u8
+#http://rr2.dens.tv/s/s10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GTV
 #https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_600000=5.m3u8
@@ -100,25 +100,25 @@ http://rr2.dens.tv/s/s32/01.m3u8
 
 ## News
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg" group-title="News",Aljazeera
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg" group-title="News",Al Jazeera World
 http://rr2.dens.tv/s/s16/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera English
 http://rr2.dens.tv/s/s17/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.mapalus.xyz/logo/channel/Bloomberg.png" group-title="News",Bloomberg
+#EXTINF:-1 tvg-logo="https://img.mapalus.xyz/logo/channel/Bloomberg.png" group-title="News",Bloomberg TV Asia
 http://rr1.dens.tv/h/h03/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="News",Channel News Asia
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="News",CNA
 http://rr.dens.tv/h/h29/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/81.jpg" group-title="News",DW English
 #http://rr2.dens.tv/s/s26/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.mapalus.xyz/logo/channel/euronews.png" group-title="News",Euro News
-http://rr3.dens.tv/s/s72/01.m3u8
+#http://rr3.dens.tv/s/s72/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="News",France24
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="News",France 24 English
 http://rr2.dens.tv/s/s22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/2560px-Rai_Italia_-_Logo_2017.svg.png" group-title="News",Rai Italia
@@ -158,7 +158,7 @@ http://rr1.dens.tv/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="Entertainment",AXN
 http://rr1.dens.tv/h/h141/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="Entertainment",CCTV4
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="Entertainment",CCTV 4 Asia
 http://rr2.dens.tv/s/s19/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg" group-title="Entertainment",Dens Food Channel
@@ -176,6 +176,9 @@ http://rr.dens.tv/h/h152/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Filmy
 #http://rr.dens.tv/h/h154/index2.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="Entertainment",Gem
+http://rr.dens.tv/h/h19/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="Entertainment",HITS
 http://rr1.dens.tv/h/h37/01.m3u8
 
@@ -191,8 +194,11 @@ http://rr.dens.tv/h/h151/index2.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg" group-title="Entertainment",Lifestyle
 #http://rr1.dens.tv/h/h28/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="Entertainment",NHK World
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="Entertainment",NHK World Premium
 http://rr.dens.tv/h/h23/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg" group-title="Entertainment",One
+http://rr.dens.tv/h/h143/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/1280px-Phoenix_InfoNews.svg.png" group-title="Entertainment",Phoenix
 http://rr2.dens.tv/s/s21/01.m3u8
@@ -209,15 +215,6 @@ http://rr1.dens.tv/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://s317consulting.com/wp-content/uploads/bfi_thumb/rtp-2xnm99evu047dam356rmq860uflkbw03jb8xb44cn1cfc1xzc.png" group-title="Entertainment",RTP
 http://rr2.dens.tv/s/s38/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="Entertainment",Sony Gem
-http://rr.dens.tv/h/h19/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg" group-title="Entertainment",Sony One
-http://rr.dens.tv/h/h143/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="Entertainment",Star Chinese
-http://rr3.dens.tv/s/s94/index2.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="Entertainment", Style TV5Monde
 http://rr1.dens.tv/h/h01/01.m3u8
 
@@ -227,11 +224,11 @@ http://rr2.dens.tv/s/s39/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title="Entertainment",TVE
 http://rr.dens.tv/h/h158/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg" group-title="Entertainment",TV5Monde Asie
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg" group-title="Entertainment",TV5 Monde Asie
 http://rr1.dens.tv/s/s24/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Telenovela_Channel.png" group-title="Entertainment",Telenovela
-http://rr.dens.tv/h/h153/index2.m3u8
+#http://rr.dens.tv/h/h153/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg" group-title="Entertainment",tvN
 http://rr1.dens.tv/h/h20/01.m3u8
@@ -241,6 +238,9 @@ http://rr.dens.tv/h/h101/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg" group-title="Entertainment",Wion
 #http://rr.dens.tv/h/h91/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png" group-title="Entertainment",Xing Kong TV
+http://rr3.dens.tv/s/s94/index2.m3u8
 
 ## Music
 
@@ -282,7 +282,7 @@ http://rr2.dens.tv/s/s50/01.m3u8
 
 ## Religi
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg" group-title="Religi",Quran TV
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg" group-title="Religi",Al Quran Al Kareem TV
 http://rr2.dens.tv/s/s28/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="Religi",Rodja TV
