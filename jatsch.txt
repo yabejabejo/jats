@@ -66,6 +66,21 @@ http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="Lokal",TVRI
 http://rr2.dens.tv/s/s11/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png" group-title="Lokal",TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jakarta-id.png" group-title="Lokal",TVRI DKI Jakarta
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-barat-id.png" group-title="Lokal",TVRI Jawa Barat
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-tengah-id.png" group-title="Lokal",TVRI Jawa Tengah
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-timur-id.png" group-title="Lokal",TVRI Jawa Timur
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
 ## Movies
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="Movies",Celestial Movies
@@ -100,7 +115,7 @@ http://rr2.dens.tv/s/s32/01.m3u8
 
 ## News
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg" group-title="News",Al Jazeera World
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg" group-title="News",Aljazeera
 http://rr2.dens.tv/s/s16/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera English
@@ -132,9 +147,6 @@ http://rr.dens.tv/h/h156/index2.m3u8
 
 ## Sports
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Sports",TVRI Sport
-#http://rr2.dens.tv/s/s107/01.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="Sports",eGG Network
 http://rr.dens.tv/h/h22/01.m3u8
 
@@ -146,6 +158,9 @@ http://rr1.dens.tv/h/h05/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg" group-title="Sports",Motorvision
 http://rr.dens.tv/h/h09/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="Sports",TVRI Sport
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 ## Entertainment
 
@@ -274,10 +289,10 @@ http://rr.dens.tv/h/h97/index.m3u8
 
 ## Kids
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="Kids",MKidz
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="Kids",My Kidz
 http://rr.dens.tv/h/h191/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg" group-title="Kids",ToonzKids
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg" group-title="Kids",Toonz Kids
 http://rr2.dens.tv/s/s50/01.m3u8
 
 ## Religi
@@ -293,3 +308,4 @@ http://rr2.dens.tv/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg" group-title="Religi",U Channel
 http://rr3.dens.tv/s/s73/S4/mnf.m3u8
+
