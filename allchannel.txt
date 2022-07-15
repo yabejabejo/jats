@@ -195,7 +195,7 @@ rtp://@239.1.1.127:8815
 #Music
 #EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="Music",  MTV Live (450)
 rtp://@239.1.1.5:8004
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1656754989-.png" group-title="Music",  Musik Indonesia (451)
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1655919958-.png" group-title="Music",  Musik Indonesia (451)
 rtp://@239.1.2.108:9523
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_prambors_big1.png" group-title="Music",  Prambors (453)
 rtp://@239.1.1.227:9336
@@ -235,7 +235,7 @@ rtp://@239.1.1.210:9506
 rtp://@239.1.1.134:8778
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="Gen Entertainment",  Animax (502)
 rtp://@239.1.1.64:8358
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1656754989-.png" group-title="Gen Entertainment",  Seru (504)
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1655920002-.jpg" group-title="Gen Entertainment",  Seru (504)
 rtp://@239.1.2.109:9524
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="Gen Entertainment",  Lifetime (505)
 rtp://@239.1.1.181:9266
