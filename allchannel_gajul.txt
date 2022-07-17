@@ -136,7 +136,7 @@ rtp://@239.1.1.49:8268
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_egg_big1.png" group-title="Sport",  EGG (709)
 rtp://@239.1.1.50:8274
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_golfplus_big1.png" group-title="Sport",  Golf+ (711)
-rtp://@239.1.1.140:8814
+#rtp://@239.1.1.140:8814
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Tz8f6H/horizon-sport.png" group-title="Sport",  Horizon Sports (714)
 rtp://@239.1.1.103:8592
 
@@ -296,7 +296,7 @@ rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xLLBnJq/chinesedrama-big.png" group-title="Gen Entertainment",  Chinese Drama (542)
 rtp://@239.1.2.10:8306
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37HZ5JP/tvbsasia.png" group-title="Gen Entertainment",  TVBS Asia (543)
-rtp://@239.1.1.114:8658
+#rtp://@239.1.1.114:8658
 
 ===
 
