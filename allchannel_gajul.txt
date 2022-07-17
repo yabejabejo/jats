@@ -182,7 +182,7 @@ rtp://@239.1.1.157:8916
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" group-title="Kids",  Dunia Anak (312)
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids",  MY KIDZ (313)
-rtp://@239.1.1.47:9338
+rtp://@239.1.1.47:8256
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvyBMxG/indikids.png" group-title="Kids",  Indi Kids (314)
 rtp://@239.1.1.45:8244
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horee_big.png" group-title="Kids",  Horee! (315)
