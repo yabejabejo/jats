@@ -295,8 +295,6 @@ rtp://@239.1.2.196:9406
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xLLBnJq/chinesedrama-big.png" group-title="Gen Entertainment",  Chinese Drama (542)
 rtp://@239.1.2.10:8306
-#EXTINF:-1 tvg-logo="https://i.ibb.co/37HZ5JP/tvbsasia.png" group-title="Gen Entertainment",  TVBS Asia (543)
-#rtp://@239.1.1.114:8658
 
 ===
 
