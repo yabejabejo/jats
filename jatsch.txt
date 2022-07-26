@@ -179,13 +179,13 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 ## Entertainment
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="Entertainment",Animax
-http://rr1.dens.tv/h/h144/01.m3u8
+#http://rr1.dens.tv/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="Entertainment",Aniplus
 http://rr1.dens.tv/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="Entertainment",AXN
-http://rr1.dens.tv/h/h141/01.m3u8
+#http://rr1.dens.tv/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="Entertainment",CCTV 4 Asia
 http://rr2.dens.tv/s/s19/01.m3u8
@@ -344,39 +344,39 @@ http://rr3.dens.tv/s/s73/S4/mnf.m3u8
 ## Astro Malaysia
 
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="Astro Malaysia",Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" tvg-url="" group-title="Astro Malaysia",TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
         
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv2.png" tvg-url="" group-title="Astro Malaysia",TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-url="" group-title="Astro Malaysia",TV3
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" tvg-url="" group-title="Astro Malaysia",TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" tvg-url="" group-title="Astro Malaysia",TV7
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" tvg-url="" group-title="Astro Malaysia",TV8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png" tvg-url="" group-title="Astro Malaysia",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" tvg-url="" group-title="Astro Malaysia",TV Hijrah
 #https://alhijrahmedia.com/tv-alhijrah-live-streaming
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-url="" group-title="Astro Malaysia",TV-Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Astro Malaysia",RTM Berita
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
     
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Astro Malaysia",RTM Sport
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
