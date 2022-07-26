@@ -10,11 +10,11 @@
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="Lokal",ANTV 
 http://rr2.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.mapalus.xyz/logo/channel/BALI_TV.png" group-title="Lokal",Bali TV 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/hbay4kvsfduech0/BaliTV.png" group-title="Lokal",Bali TV 
 http://rr.dens.tv/h/h159/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="Lokal",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="Lokal",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
@@ -23,7 +23,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b280000_sleng.m3u8
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.mapalus.xyz/logo/channel/CNN_Indonesia.png" group-title="Lokal",CNN Indonesia 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qnd2sz9mom05s0z/cnn.png" group-title="Lokal",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="Lokal",Daai TV
@@ -39,7 +39,7 @@ http://rr2.dens.tv/s/s13/01.m3u8
 http://rr2.dens.tv/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg" group-title="Lokal",Jak TV
-http://rr3.dens.tv/s/s46/index.m3u8
+http://rr3.dens.tv/s/s12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png" group-title="Lokal",JTV
 http://rr3.dens.tv/s/s91/index.m3u8
@@ -135,7 +135,7 @@ http://rr2.dens.tv/s/s16/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera English
 http://rr2.dens.tv/s/s17/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.mapalus.xyz/logo/channel/Bloomberg.png" group-title="News",Bloomberg TV Asia
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/t2rddzslulx23lk/bloomberg%20asia.jpeg" group-title="News",Bloomberg TV Asia
 http://rr1.dens.tv/h/h03/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="News",CNA
@@ -217,7 +217,7 @@ http://rr.dens.tv/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="Entertainment",KIX
 http://rr1.dens.tv/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/SaudiTV.png/300px-SaudiTV.png" group-title="Entertainment",KSA
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7eft83uy0neilaa/ksa.png" group-title="Entertainment",KSA
 http://rr.dens.tv/h/h151/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg" group-title="Entertainment",Lifestyle
@@ -375,7 +375,7 @@ http://rr3.dens.tv/s/s73/S4/mnf.m3u8
 #https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Astro Malaysia",RTM Berita
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
     
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Astro Malaysia",RTM Sport
 #https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
