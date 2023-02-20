@@ -37,11 +37,11 @@ rtp://@239.1.1.179:9048
 rtp://@239.1.1.72:8406
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local",  JTV (123)
 rtp://@239.1.1.6:8010
-#EXTINF:-1 tvg-logo="https://i.ibb.co/847D14H/antara.jpg" group-title="Local",  Antara (124)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/405f4d5sjx4inu5/antaratv.png" group-title="Local",  Antara (124)
 rtp://@239.1.1.128:9218
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gzn6NkB/ochannel.png" group-title="Local",  O Channel (125)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wdzn5pboj7b4wdy/moji.png" group-title="Local",  Moji (125)
 rtp://@239.1.1.144:8845
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B26dCXb/LBS-Drama.png" group-title="Local",  Drama Korea LBS (126)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pqyr30469yabbm0/dramakorea.png" group-title="Local",  Drama Korea LBS (126)
 rtp://@239.1.2.101:9521
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local",  TV Edukasi (127)
 rtp://@239.1.1.39:8208
