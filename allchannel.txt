@@ -51,8 +51,6 @@ rtp://@239.1.2.102:9522
 rtp://@239.1.1.212:8967
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/k0334fbogpdr8m1/rrinet.png" group-title="Local",  RRI Net (130)
 rtp://@239.1.2.74:8420
-EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1656754989-.png" group-title="Local",  GPR TV (131)
-#rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2m2edxo9btfkrjy/garudatv.png" group-title="Local",  Garuda TV (133)
 rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/a6wylltwee612rs/jowo.png" group-title="Local",  Jowo (137)
@@ -111,29 +109,23 @@ rtp://@239.1.1.151:8880
 ===
 
 #Sport
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Sport",  USee Sports (85)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/l9402yduf2lifr5/usee.png" group-title="Sport",  USee Sports (85)
 rtp://@239.1.1.101:8580
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Sport",  Usee Sports 2 (86)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bqjfg18vlwyb5aa/usee2.png" group-title="Sport",  Usee Sports 2 (86)
 rtp://@239.1.1.53:8292
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sport",  Bein Sports 1 (701)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rynjc5omt10yw0t/bein1.png" group-title="Sport",  Bein Sports 1 (701)
 rtp://@239.1.1.217:9204
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sport",  Bein Sports 2 (702)
-#rtp://@239.1.1.221:9300
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="Sport",  Bein Sports 3 (703)
+##EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wudopbvlhd088w9/bein3.png" group-title="Sport",  Bein Sports 3 (703)
 rtp://@239.1.1.221:9300
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sport",  Fight Sport (704)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bcsn9y4mdolmcvx/fight.png" group-title="Sport",  Fight Sport (704)
 rtp://@239.1.1.177:9036
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rb6hMpn/spotv.png" group-title="Sport",  Spo TV (705)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/smkucnpdyynsyvy/spotv.png" group-title="Sport",  Spo TV (705)
 rtp://@239.1.1.132:8761
-#EXTINF:-1 tvg-logo="https://i.ibb.co/znkBXqN/spotv2.jpg" group-title="Sport",  Spo TV2 (706)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7hhiduxwdab7q4m/spotv2.png" group-title="Sport",  Spo TV2 (706)
 rtp://@239.1.1.198:9157
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="Sport",  NBA TV (708)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rk0pkr3t23cj9om/nbatv.png?dl=0" group-title="Sport",  NBA TV (708)
 rtp://@239.1.1.49:8268
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_egg_big1.png" group-title="Sport",  EGG (709)
-#rtp://@239.1.1.50:8274
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_golfplus_big1.png" group-title="Sport",  Golf+ (711)
-#rtp://@239.1.1.140:8814
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Tz8f6H/horizon-sport.png" group-title="Sport",  Horizon Sports (714)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xmbhq01wkmwuuos/horizon.png?dl=0" group-title="Sport",  Horizon Sports (714)
 rtp://@239.1.1.103:8592
 
 ===
