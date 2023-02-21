@@ -65,47 +65,47 @@ rtp://@239.1.1.113:8652
 ===
 
 #Movie
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHQ2MJ9/paramount.jpg" group-title="Movie",  Paramount Network (600)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/oijm32rzhndzlvl/paramount.png" group-title="Movie",  Paramount Network (600)
 rtp://@239.1.1.11:8040
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movie",  HBO (601)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2lb3x34qqvjube4/hbo.png" group-title="Movie",  HBO (601)
 rtp://@239.1.1.95:8544
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movie",  HBO Signature (602)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/updo0dh0b9memn9/hbo.signature.png" group-title="Movie",  HBO Signature (602)
 rtp://@239.1.1.93:8532
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movie",  Cinemax (603)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/gqt35hquz7smmi1/cinemax.png" group-title="Movie",  Cinemax (603)
 rtp://@239.1.1.87:8496
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movie",  HBO Hits (604)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7w33n3acdhzjo1w/hbo.hits.png" group-title="Movie",  HBO Hits (604)
 rtp://@239.1.1.91:8520
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movie",  HBO Family (605)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/3rkah1nkj17760b/hbo.family.png" group-title="Movie",  HBO Family (605)
 rtp://@239.1.1.89:8508
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p2Y4NbC/hits-movies.jpg" group-title="Movie",  Hits Movies (606)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/dp58v96v2000mns/hits.movies.png" group-title="Movie",  Hits Movies (606)
 rtp://@239.1.1.125:8724
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_thrill_big.png" group-title="Movie",  Thrill (610)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/i0i7ca2wyykxg5g/thrill.png" group-title="Movie",  Thrill (610)
 rtp://@239.1.1.83:8472
-#EXTINF:-1 tvg-logo="http://i.ibb.co/1YNbBjF/celectial.png" group-title="Movie",  Celestial Movie (611)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/hbaiwhxvpxb19ub/celestial.png" group-title="Movie",  Celestial Movie (611)
 rtp://@239.1.1.97:8556
-#EXTINF:-1 tvg-logo="https://i.ibb.co/17tzWsB/mycinema.jpg" group-title="Movie",  My Cinema (612)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qnea1cinsvfvlvj/mycinema.png" group-title="Movie",  My Cinema (612)
 rtp://@239.1.1.161:8940
-#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Movie",  TVN Movie (613)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qjxov2h6aakknzq/tvnmovies.png" group-title="Movie",  TVN Movie (613)
 rtp://@239.1.1.61:8340
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_zbioskop_big1.png" group-title="Movie",  Z Bioskop (614)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7xuxqide1dg54d4/zee.png" group-title="Movie",  Z Bioskop (614)
 rtp://@239.1.1.129:8748
-#EXTINF:-1 tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" group-title="Movie",  Cinema World (615)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bmqinj1etnel5al/cinemaworld.png" group-title="Movie",  Cinema World (615)
 rtp://@239.1.1.189:9108
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PxDMMYs/my-family-channel.jpg" group-title="Movie",  My Family (616)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/by3ctupp8rooa0t/myfamily.png" group-title="Movie",  My Family (616)
 rtp://@239.1.1.175:9024
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy (617)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zyjgbzlf71zscii/galaxy.png" group-title="Movie",  Galaxy (617)
 rtp://@239.1.1.184:8778
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bioskopindonesia_big1.png" group-title="Movie",  Bioskop Indonesia (618)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/06zhefj4jhykmbv/bioskop_indonesia.png" group-title="Movie",  Bioskop Indonesia (618)
 rtp://@239.1.1.226:9332
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" group-title="Movie",  Flik (619)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qbgyfympil6jfgj/flik.png" group-title="Movie",  Flik (619)
 rtp://@239.1.1.71:8400
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_imc_big.png" group-title="Movie",  IMC (620)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/8myjquhhk5budl6/imc.png" group-title="Movie",  IMC (620)
 rtp://@239.1.2.20:8094
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="Movie",  Galaxy Movie Premium (621)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/a3ryzq4tqc5kuna/galaxy_premium.png" group-title="Movie",  Galaxy Movie Premium (621)
 rtp://@239.1.2.240:9390
-#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="Movie",  Star Chinese Movie (622)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/cpe1y2miuf125re/scm.png" group-title="Movie",  Star Chinese Movie (622)
 #rtp://@239.1.1.131:8760
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Thw1JxH/mca.jpg" group-title="Movie",  My Cinema Asia (624)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/49ht23tqpnk9q5t/mycinema.asia.png" group-title="Movie",  My Cinema Asia (624)
 rtp://@239.1.1.151:8880
 
 ===
