@@ -347,15 +347,3 @@ rtp://@239.1.1.229:9350
 rtp://@239.1.1.79:8448
 
 ==
-
-#Usee
-#EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Usee",  Mozaik Channel (2) 
-#rtp://@239.1.2.223:9268
-#EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Usee",  Ruang Trampil (80)
-#rtp://@239.1.1.126:8730
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="Usee",  USee Prime (88)
-#rtp://@239.1.1.216:9270
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="Usee",  USee Photo (89)
-#rtp://@239.1.1.251:9498
-
-==
