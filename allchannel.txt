@@ -1,41 +1,41 @@
 #EXTM3U
 
 #Local
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local",  TVRI (100)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/78fecjp16b3ebsz/tvri.png" group-title="Local",  TVRI (100)
 rtp://@239.1.1.37:8196
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local",  Metro TV (101)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/so8a4ce3na4yddj/metrotv.png" group-title="Local",  Metro TV (101)
 rtp://@239.1.1.19:8088
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="Local",  CNN Indonesia (102)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/843yd4kpfvps3v6/cnn.png" group-title="Local",  CNN Indonesia (102)
 rtp://@239.1.1.241:9362
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="Local",  TV One (103)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9pg8frpscwlwrnx/tvone.png" group-title="Local",  TV One (103)
 rtp://@239.1.1.31:8160
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="Local",  Trans TV (104)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/x1d8nud2pwjnvnr/transtv.png" group-title="Local",  Trans TV (104)
 rtp://@239.1.1.27:8136
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local",  Trans 7 (105)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/oq6tvsauo0j7z6v/trans7.png" group-title="Local",  Trans 7 (105)
 rtp://@239.1.1.29:8148
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local",  SCTV (107)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/fmg1kghpvgirwng/sctv.png" group-title="Local",  SCTV (107)
 rtp://@239.1.1.21:8100
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Local",  ANTV (108)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/vl0ekwuktbwtyhn/antv.png" group-title="Local",  ANTV (108)
 rtp://@239.1.1.15:8064
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local",  Indosiar (109)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2da5ia50uddhn7v/indosiar.png" group-title="Local",  Indosiar (109)
 rtp://@239.1.1.17:8076
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local",  Net TV (112)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zehug1japlqnwe3/nettv.png" group-title="Local",  Net TV (112)
 rtp://@239.1.1.119:8688
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="Local",  Kompas TV (114)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/x7ecnkzesh8x86k/kompastv.png" group-title="Local",  Kompas TV (114)
 rtp://@239.1.1.197:9156
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="Local",  Berita Satu (115)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ki0mpquxh8uoweg/beritasatu.png" group-title="Local",  Berita Satu (115)
 rtp://@239.1.1.183:9072
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Local",  Jak TV (116)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/13dc6lx0orl6j8u/jaktv.png" group-title="Local",  Jak TV (116)
 rtp://@239.1.1.107:8616
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="Local",  RTV (118)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/6u4w9vrm7cf2ye0/rtv.png" group-title="Local",  RTV (118)
 rtp://@239.1.1.69:8388
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="Local",  IDX Channel (119)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/xjigkldn69u9sst/idx.png" group-title="Local",  IDX Channel (119)
 rtp://@239.1.2.248:9398
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local",  Daai TV (120)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qrtgjwqph584lq1/daaitv.png" group-title="Local",  Daai TV (120)
 rtp://@239.1.1.179:9048
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local",  Bali TV (122)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/dqqmfzheycki34a/balitv.png" group-title="Local",  Bali TV (122)
 rtp://@239.1.1.72:8406
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local",  JTV (123)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1jt84g7lo0qd078/jtv.png" group-title="Local",  JTV (123)
 rtp://@239.1.1.6:8010
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/405f4d5sjx4inu5/antaratv.png" group-title="Local",  Antara (124)
 rtp://@239.1.1.128:9218
@@ -43,28 +43,24 @@ rtp://@239.1.1.128:9218
 rtp://@239.1.1.144:8845
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pqyr30469yabbm0/dramakorea.png" group-title="Local",  Drama Korea LBS (126)
 rtp://@239.1.2.101:9521
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local",  TV Edukasi (127)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/mz23qkfcxxektgq/tvedukasi.png" group-title="Local",  TV Edukasi (127)
 #rtp://@239.1.1.39:8208
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nDGT2bG/nusantara-tv.jpg" group-title="Local",  Nusantara TV (128)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/35fxbdb48fuxre9/nusantaratv.png" group-title="Local",  Nusantara TV (128)
 rtp://@239.1.2.102:9522
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V9sHbVq/inews.png" group-title="Local",  iNEWS (129)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/nix6rgzl2j7rsya/inews.png" group-title="Local",  iNEWS (129)
 rtp://@239.1.1.212:8967
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local",  RRI Net (130)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/k0334fbogpdr8m1/rrinet.png" group-title="Local",  RRI Net (130)
 rtp://@239.1.2.74:8420
 EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1656754989-.png" group-title="Local",  GPR TV (131)
-rtp://@239.1.2.17:9379
-#EXTINF:-1 tvg-logo="https://i.ibb.co/myp3RHp/Garuda-TV.jpg" group-title="Local",  Garuda TV (133)
+#rtp://@239.1.2.17:9379
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2m2edxo9btfkrjy/garudatv.png" group-title="Local",  Garuda TV (133)
 rtp://@239.1.1.164:8965
-#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local",  Jowo (137)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/a6wylltwee612rs/jowo.png" group-title="Local",  Jowo (137)
 rtp://@239.1.2.6:8000
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0nJwzzG/indonesiana.jpg" group-title="Local",  IndonesianaTV (200)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/3mvhzqynu3kjg5z/indonesiana.png" group-title="Local",  IndonesianaTV (200)
 rtp://@239.1.1.206:9199
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Local",  Insert (503)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/5nk7mzfrfq90a9s/insert.png" group-title="Local",  Insert (503)
 rtp://@239.1.1.113:8652
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Local",  CNBC Indonesia (811)
-rtp://@239.1.2.92:9490
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nrp5QZn/mnc-news.png" group-title="Local",  MNC NEWS (812)
-rtp://@239.1.1.146:7985
 
 ===
 
@@ -163,6 +159,10 @@ rtp://@239.1.1.191:9120
 rtp://@239.1.1.187:9096
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",  TRT World (810)
 rtp://@239.1.2.84:8296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia (811)
+rtp://@239.1.2.92:9490
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrp5QZn/mnc-news.png" group-title="News",  MNC NEWS (812)
+rtp://@239.1.1.146:7985
 
 ==
 
