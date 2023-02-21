@@ -115,7 +115,7 @@ rtp://@239.1.1.101:8580
 rtp://@239.1.1.53:8292
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rynjc5omt10yw0t/bein1.png" group-title="Sport",  Bein Sports 1 (701)
 rtp://@239.1.1.217:9204
-##EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wudopbvlhd088w9/bein3.png" group-title="Sport",  Bein Sports 3 (703)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wudopbvlhd088w9/bein3.png" group-title="Sport",  Bein Sports 3 (703)
 rtp://@239.1.1.221:9300
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bcsn9y4mdolmcvx/fight.png" group-title="Sport",  Fight Sport (704)
 rtp://@239.1.1.177:9036
@@ -123,9 +123,9 @@ rtp://@239.1.1.177:9036
 rtp://@239.1.1.132:8761
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7hhiduxwdab7q4m/spotv2.png" group-title="Sport",  Spo TV2 (706)
 rtp://@239.1.1.198:9157
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rk0pkr3t23cj9om/nbatv.png?dl=0" group-title="Sport",  NBA TV (708)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rk0pkr3t23cj9om/nbatv.png" group-title="Sport",  NBA TV (708)
 rtp://@239.1.1.49:8268
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xmbhq01wkmwuuos/horizon.png?dl=0" group-title="Sport",  Horizon Sports (714)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/xmbhq01wkmwuuos/horizon.png" group-title="Sport",  Horizon Sports (714)
 rtp://@239.1.1.103:8592
 
 ===
