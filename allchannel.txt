@@ -357,7 +357,5 @@ rtp://@239.1.1.79:8448
 #rtp://@239.1.1.216:9270
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="Usee",  USee Photo (89)
 #rtp://@239.1.1.251:9498
-#EXTINF:-1 tvg-logo="http://i.ibb.co/Lh6x7GG/useetoday.png" group-title="Usee",  USee Today (91)
-#rtp://@239.1.2.50:8274
 
 ==
