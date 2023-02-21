@@ -131,57 +131,57 @@ rtp://@239.1.1.103:8592
 ===
 
 #News
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Rqf71/sea-today.jpg" group-title="News",  SEA TODAY (87)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1nl7hb58bi4ybbw/seatoday.png" group-title="News",  SEA TODAY (87)
 rtp://@239.1.2.68:8384
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_euronews_big1.png" group-title="News",  Euronews (800)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2iibx98nb59jla6/euronews.png" group-title="News",  Euronews (800)
 rtp://@239.1.1.193:9132
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" group-title="News",  CNN (801)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7tjbj0x3hpkxjwy/cnn.intl.png" group-title="News",  CNN (801)
 rtp://@239.1.1.105:8604
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bloomberg_big1.png" group-title="News",  Bloomberg (802)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/eamctc27ol5cm91/bloomberg.png" group-title="News",  Bloomberg (802)
 rtp://@239.1.1.199:9168
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pygxZTB/cnbc.png" group-title="News",  CNBC (803)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ol076ki8yuctfoa/cnbc.asia.png" group-title="News",  CNBC (803)
 rtp://@239.1.1.155:8904
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" group-title="News",  Channel News Asia (804)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/w3nlvkokxbxyo4y/cna.png" group-title="News",  Channel News Asia (804)
 rtp://@239.1.1.65:8364
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="News",  Aljazeera (805)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/15edf27pz9u7di5/aljazeera.png" group-title="News",  Aljazeera (805)
 rtp://@239.1.1.195:9144
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" group-title="News",  France24 (806)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pgjyfe19f277hxz/france24.png" group-title="News",  France24 (806)
 rtp://@239.1.1.191:9120
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="News",  DW (808)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zd44gzkf9ng62m4/dw.png" group-title="News",  DW (808)
 rtp://@239.1.1.187:9096
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",  TRT World (810)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/16huk3zrn9r1eox/trt.png" group-title="News",  TRT World (810)
 rtp://@239.1.2.84:8296
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="News",  CNBC Indonesia (811)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zhd13cdxkedjdub/cnbc.indonesia.png" group-title="News",  CNBC Indonesia (811)
 rtp://@239.1.2.92:9490
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nrp5QZn/mnc-news.png" group-title="News",  MNC NEWS (812)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/iinwqvm3dw1iuv0/mncnews.png" group-title="News",  MNC NEWS (812)
 rtp://@239.1.1.146:7985
 
 ==
 
 #Kids
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_davinci_big1.png" group-title="Kids",  Da Vinci Learning (303)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/mozffc7q4flbp85/davinci.png" group-title="Kids",  Da Vinci Learning (303)
 rtp://@239.1.1.99:8568
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="Kids",  Nickelodeon (304)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/gnkccprui8ucayg/nickelodeon.png" group-title="Kids",  Nickelodeon (304)
 rtp://@239.1.1.41:8220
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickjr_big.png" group-title="Kids",  Nick Junior (305)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/iemaj3ht9evljxy/nickjr.png" group-title="Kids",  Nick Junior (305)
 rtp://@239.1.1.159:8928
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png" group-title="Kids",  Cartoon Network (306)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1e6z2j2vs89afcy/cartoon.network.png" group-title="Kids",  Cartoon Network (306)
 rtp://@239.1.1.123:8712
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_boomerang_big.png" group-title="Kids",  Boomerang (308)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ynywjwgyq70556m/boomerang.png" group-title="Kids",  Boomerang (308)
 rtp://@239.1.1.73:8412
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="Kids",  DreamWorks (310)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/5qq1i3bdm91pz1m/dreamworks.png" group-title="Kids",  DreamWorks (310)
 rtp://@239.1.1.139:8808
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_babyfirst_big1.png" group-title="Kids",  Moonbug Kids (311)
 rtp://@239.1.1.157:8916
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" group-title="Kids",  Dunia Anak (312)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1iglnrjglmamk55/duniaanak.png" group-title="Kids",  Dunia Anak (312)
 rtp://@239.1.1.7:8016
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Kids",  MY KIDZ (313)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jw88kr9999d5xzg/mkidz.png" group-title="Kids",  MY KIDZ (313)
 rtp://@239.1.1.47:8256
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VvyBMxG/indikids.png" group-title="Kids",  Indi Kids (314)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/vw6v2ds8obc5bbn/kidstv.png" group-title="Kids",  Indi Kids (314)
 rtp://@239.1.1.45:8244
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_horee_big.png" group-title="Kids",  Horee! (315)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/mx7468qxld4ml5w/horee.png" group-title="Kids",  Horee! (315)
 rtp://@239.1.1.68:8382
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yy1FL58/mentari-tv.jpg" group-title="Kids",  Mentari TV (316)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2jmbflpymsfy4uf/mentari.png" group-title="Kids",  Mentari TV (316)
 rtp://@239.1.1.127:8815
 
 ==
