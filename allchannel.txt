@@ -23,7 +23,7 @@ rtp://@239.1.1.17:8076
 rtp://@239.1.1.119:8688
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/x7ecnkzesh8x86k/kompastv.png" group-title="Local",  Kompas TV (114)
 rtp://@239.1.1.197:9156
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ki0mpquxh8uoweg/beritasatu.png" group-title="Local",  Berita Satu (115)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ki0mpquxh8uoweg/beritasatu.png" group-title="Local",  BTV (115)
 rtp://@239.1.1.183:9072
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/13dc6lx0orl6j8u/jaktv.png" group-title="Local",  Jak TV (116)
 rtp://@239.1.1.107:8616
@@ -149,6 +149,8 @@ rtp://@239.1.1.195:9144
 rtp://@239.1.1.191:9120
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zd44gzkf9ng62m4/dw.png" group-title="News",  DW (808)
 rtp://@239.1.1.187:9096
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7ezx63btwdtouqi/tvbsnews.png" group-title="News",  TVBS News (809)
+rtp://@239.1.1.48:8414
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/16huk3zrn9r1eox/trt.png" group-title="News",  TRT World (810)
 rtp://@239.1.2.84:8296
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zhd13cdxkedjdub/cnbc.indonesia.png" group-title="News",  CNBC Indonesia (811)
@@ -172,7 +174,7 @@ rtp://@239.1.1.73:8412
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/5qq1i3bdm91pz1m/dreamworks.png" group-title="Kids",  DreamWorks (310)
 rtp://@239.1.1.139:8808
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/z9io10gt3jm7izo/moonbug.png" group-title="Kids",  Moonbug Kids (311)
-rtp://@239.1.1.157:8916
+rtp://@239.1.1.235:8593
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1iglnrjglmamk55/duniaanak.png" group-title="Kids",  Dunia Anak (312)
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jw88kr9999d5xzg/mkidz.png" group-title="Kids",  MY KIDZ (313)
@@ -213,6 +215,8 @@ rtp://@239.1.1.121:8700
 rtp://@239.1.1.57:8316
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/66lnnrempwknx9e/pandatv.png" group-title="Knowledge",  Panda TV (206)
 rtp://@239.1.1.208:9502
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/4k6u1mo4eeanvgt/discovery.png" group-title="Knowledge",  Discovery (207)
+rtp://@239.1.1.247:9440
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/thh0hb6hddmpntk/lingua.png" group-title="Knowledge",  Lingua (208)
 rtp://@239.1.2.90:9500
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ydt6sem0wab2dnj/techstorm.png" group-title="Knowledge",  Tech Storm (209)
@@ -245,6 +249,8 @@ rtp://@239.1.1.137:8796
 rtp://@239.1.1.55:8300
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2btk7ig3ptfyu28/rock.ent.png" group-title="Gen Entertainment",  Rock Entertainment (511)
 rtp://@239.1.1.141:8820
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ng7p2mio1jl5roy/hitsnow.png" group-title="Gen Entertainment",  HITS Now (512)
+rtp://@239.1.1.219:8535
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/o2xey6ymt004cal/tvn.png" group-title="Gen Entertainment",  TVN (516)
 rtp://@239.1.1.135:8784
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wyrclxggi2z08nr/kbs.png" group-title="Gen Entertainment",  KBS World (517)
