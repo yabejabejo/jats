@@ -49,7 +49,7 @@ rtp://@239.1.2.102:9522
 rtp://@239.1.1.212:8967
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/k0334fbogpdr8m1/rrinet.png" group-title="Local",  RRI Net
 rtp://@239.1.2.74:8420
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/dxpo2gnicp5tej2/gprtv.png" group-title="Local", GPR TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jv5sp287ne77ocl/gprtv.png" group-title="Local", GPR TV
 rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2m2edxo9btfkrjy/garudatv.png" group-title="Local",  Garuda TV
 rtp://@239.1.1.164:8965
