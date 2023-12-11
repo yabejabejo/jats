@@ -222,72 +222,72 @@ rtp://@239.1.2.229:9330
 
 ###
 
-#Gen Entertainment
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7ve1w1akmqfrljh/tlc.png" group-title="Gen Entertainment",  TLC HD
+#Entertainment
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7ve1w1akmqfrljh/tlc.png" group-title="Entertainment",  TLC HD
 rtp://@239.1.2.235:9342
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bz63sp7ccussbk7/hgtv.png" group-title="Gen Entertainment",  HGTV HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bz63sp7ccussbk7/hgtv.png" group-title="Entertainment",  HGTV HD
 rtp://@239.1.2.34:8178
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/96oqsmkfasan4dm/rock.action.png" group-title="Gen Entertainment",  Rock Action HD
 rtp://@239.1.1.112:8646
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zotodoi3mb8ezxg/animax.png" group-title="Gen Entertainment",  Animax HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zotodoi3mb8ezxg/animax.png" group-title="Entertainment",  Animax HD
 rtp://@239.1.1.142:8967
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1c7blflxptpcdzu/seru.png" group-title="Gen Entertainment",  Seru HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1c7blflxptpcdzu/seru.png" group-title="Entertainment",  Seru HD
 rtp://@239.1.1.111:8624
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ab7qt9tw6gmpjbi/lifetime.png" group-title="Gen Entertainment",  Lifetime HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ab7qt9tw6gmpjbi/lifetime.png" group-title="Entertainment",  Lifetime HD
 rtp://@239.1.1.25:8124
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zzovmoi5bqqh4h0/kix.png" group-title="Gen Entertainment",  KIX HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zzovmoi5bqqh4h0/kix.png" group-title="Entertainment",  KIX HD
 rtp://@239.1.2.207:9190
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ws4xfi3fpkk70lq/hits.png" group-title="Gen Entertainment",  HITS HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ws4xfi3fpkk70lq/hits.png" group-title="Entertainment",  HITS HD
 rtp://@239.1.1.209:9228
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1xevpxgyx7emjhh/warner.png" group-title="Gen Entertainment",  Warner HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1xevpxgyx7emjhh/warner.png" group-title="Entertainment",  Warner HD
 rtp://@239.1.2.244:9078
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/nkzmzzy1lqk7qk3/axn.png" group-title="Gen Entertainment",  AXN HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/nkzmzzy1lqk7qk3/axn.png" group-title="Entertainment",  AXN HD
 rtp://@239.1.1.245:9436
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/g1d03nbyh9n3vp9/tv5.png" group-title="Gen Entertainment",  TV5Monde
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/g1d03nbyh9n3vp9/tv5.png" group-title="Entertainment",  TV5Monde
 rtp://@239.1.1.55:8300
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2btk7ig3ptfyu28/rock.ent.png" group-title="Gen Entertainment",  Rock Entertainment HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2btk7ig3ptfyu28/rock.ent.png" group-title="Entertainment",  Rock Entertainment HD
 rtp://@239.1.2.76:9310
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ng7p2mio1jl5roy/hitsnow.png" group-title="Gen Entertainment",  HITS Now
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ng7p2mio1jl5roy/hitsnow.png" group-title="Entertainment",  HITS Now
 rtp://@239.1.1.219:8535
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/o2xey6ymt004cal/tvn.png" group-title="Gen Entertainment",  TVN HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/o2xey6ymt004cal/tvn.png" group-title="Entertainment",  TVN HD
 rtp://@239.1.2.211:9202
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wyrclxggi2z08nr/kbs.png" group-title="Gen Entertainment",  KBS World HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wyrclxggi2z08nr/kbs.png" group-title="Entertainment",  KBS World HD
 rtp://@239.1.1.13:8052
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/thbz8os0pcrblnh/aniplus.png" group-title="Gen Entertainment",  Aniplus HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/thbz8os0pcrblnh/aniplus.png" group-title="Entertainment",  Aniplus HD
 rtp://@239.1.2.104:9526
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/o22y6ldx4xi1bi2/nhkworld.premium.png" group-title="Gen Entertainment",  NHK World Premium HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/o22y6ldx4xi1bi2/nhkworld.premium.png" group-title="Entertainment",  NHK World Premium HD
 rtp://@239.1.1.174:9018
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/nyjspok2vhi4zyw/nhkworld.japan.png" group-title="Gen Entertainment",  NHK World Japan HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/nyjspok2vhi4zyw/nhkworld.japan.png" group-title="Entertainment",  NHK World Japan HD
 rtp://@239.1.2.239:9354
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pzhhjxiw4ailwx4/k%2B.png" group-title="Gen Entertainment",  K+ HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pzhhjxiw4ailwx4/k%2B.png" group-title="Entertainment",  K+ HD
 rtp://@239.1.1.202:9186
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9xfjp0wvwpovdk6/formosa.png" group-title="Gen Entertainment",  Formosa
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9xfjp0wvwpovdk6/formosa.png" group-title="Entertainment",  Formosa
 rtp://@239.1.2.198:9386
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2esttlgm8udf86l/cti.png" group-title="Gen Entertainment",  CTI Asia
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2esttlgm8udf86l/cti.png" group-title="Entertainment",  CTI Asia
 rtp://@239.1.2.200:9168
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wf615j3fyha8env/dunialain.png" group-title="Gen Entertainment",  Dunia Lain HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wf615j3fyha8env/dunialain.png" group-title="Entertainment",  Dunia Lain HD
 rtp://@239.1.2.148:8026
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/fi63uwkapcxcsw4/abc.australia.png" group-title="Gen Entertainment",  ABC Australia HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/fi63uwkapcxcsw4/abc.australia.png" group-title="Entertainment",  ABC Australia HD
 rtp://@239.1.1.26:9519
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/st3hga9wih74mfl/arirang.png" group-title="Gen Entertainment",  Arirang HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/st3hga9wih74mfl/arirang.png" group-title="Entertainment",  Arirang HD
 rtp://@239.1.2.107:9522
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2gtnx6zvulq9lbx/cctv4.png" group-title="Gen Entertainment",  CCTV4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2gtnx6zvulq9lbx/cctv4.png" group-title="Entertainment",  CCTV4
 rtp://@239.1.1.115:8664
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jls54tb0ed72wh8/citra_drama.png" group-title="Gen Entertainment",  Citra Drama HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jls54tb0ed72wh8/citra_drama.png" group-title="Entertainment",  Citra Drama HD
 rtp://@239.1.1.230:9516
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/i4xtkpy4f9vty3u/gem.png" group-title="Gen Entertainment",  Gem HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/i4xtkpy4f9vty3u/gem.png" group-title="Entertainment",  Gem HD
 rtp://@239.1.2.18:8082
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/vsefu3l3qkfgjzo/one.png" group-title="Gen Entertainment",  One HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/vsefu3l3qkfgjzo/one.png" group-title="Entertainment",  One HD
 rtp://@239.1.2.21:8100
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/o342rkudsqq8f8k/zheziang.png" group-title="Gen Entertainment",  Zhejiang International
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/o342rkudsqq8f8k/zheziang.png" group-title="Entertainment",  Zhejiang International
 rtp://@239.1.1.154:8898
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/oam6opnfgbrz2n1/shenzen.png" group-title="Gen Entertainment",  Shenzen International
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/oam6opnfgbrz2n1/shenzen.png" group-title="Entertainment",  Shenzen International
 rtp://@239.1.1.156:8910
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/p86o9qn1a9dsli7/ebc.png" group-title="Gen Entertainment",  EBC Asia
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/p86o9qn1a9dsli7/ebc.png" group-title="Entertainment",  EBC Asia
 rtp://@239.1.2.196:9406
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/y388esho5hopti6/newtv.png" group-title="Gen Entertainment",  New TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/y388esho5hopti6/newtv.png" group-title="Entertainment",  New TV
 rtp://@239.1.2.40:8206
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/t4e0go5s8cy1ppl/chinese_drama.png" group-title="Gen Entertainment",  Chinese Drama
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/t4e0go5s8cy1ppl/chinese_drama.png" group-title="Entertainment",  Chinese Drama
 rtp://@239.1.2.10:8306
 
 ###
