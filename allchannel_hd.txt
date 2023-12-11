@@ -346,6 +346,9 @@ https://c9kvajkxiczk.enaak-cdn.com/hls2/01/00542/9l91tdbxf5my_n/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vu3eu7opavs3mhh02q1wt/Hawa-2023.jpeg?rlkey=91nhcmwmm8e7yfhrcyo403f3i&raw=1" group-title="Film India",  Hawa (2023)
 https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/29kvvofry46xt7bf380qpu3s9wmm8vudkkt
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/tanxzulbpkgyk7am0s1ab/Case-30-2023.jpeg?rlkey=rvlludiz97s0p0rvqcuj3pimp&raw=1" group-title="Film India",  Case 30 (2023)
+https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/uns4jj5mxqlp5vimlqivw6j3otgz70so9llwc
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/00vyktrb2ormrbca2m718/Motel-Melati-2023.jpg?rlkey=o6ljkvqerevsyxhtmaar22mlz&raw=1" group-title="Film Indonesia",  Motel Melati (2023)
 https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/stmzn1vrfhl7ap4dniz7ym2trsue68bfhuj19q
 
