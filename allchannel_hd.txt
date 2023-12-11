@@ -343,4 +343,7 @@ https://98zd3iu9j1s8.lions-vidcdn.com/hls2/01/00680/lozyzd76dkq0_l/index-v1-a1.m
 #EXTINF:-1 tvg-logo="https://uc7e11d5087dfac29adc128cedea.previews.dropboxusercontent.com/p/thumb/ACGwc3xdNm8jJvAGME-hmbiwoVkh5f2EsoGUpb5ENSXHTeU0Rh4WZAv8U-HfeeJlqGeTxcw4l_f9badg5e1CJAb1CvU1geBNg7ROQrCFFkADsoaoOi6p_sF-_P4RivPAcAHh4USZI69NbZyQomxnw22FbZnFMfLScOJQ28qqxOeo3euObw-pFJwqZRZ8QpAJzyH9gFoOH5q4q4PUOkaLSHvhe4FYoERCxBCO_W6691nBqgTlASHTKdMCyffFgUUOwM3jWERSZXAaannsXDSE4xPRjDMDnA_QfNquGtJhGzk7EFfmAP-6XQ6swckid_OYvFwmag2nuKvJPk0ClZY08oljB9nvvwX3S3b1l8Uz0vjCy3ZdybVniuF95IZrKOGcPcc/p.jpeg" group-title="Film India",  Infinity (2023)
 https://c9kvajkxiczk.lions-vidcdn.com/hls2/01/00542/9l91tdbxf5my_n/index-v1-a1.m3u8?t=BVmT4P9VTsSRWO72Qyq7Gtc0JaBQW8LgTMbOw0KILdI&s=1702264357&e=129600&f=2714648&srv=ixh6j8JpERFn&i=0.4&sp=1500&p1=ixh6j8JpERFn&p2=ixh6j8JpERFn&asn=7713
 
+#EXTINF:-1 tvg-logo="https://uca524c0f93e51e11c06ee52add1.previews.dropboxusercontent.com/p/thumb/ACGAMz9-6kUY1l54Nso_h3O7rS9Iy38_qqXQ1yvMmFigjg5ZGUnTK-seAMjijn1NVD6EyPLmhMg7IBfQkaXejNCbQlCyqUcu1kQUgQfAlFMe05p6PL7uN2lukMk1FqHsW9kZb2jAWlznSIjmNshpUNkjOPTOWnSMwLjM7JvOs0b17CfXguiAoauZ64lH8u_cdrzsRoY93oMznclxxCEl_L6ag7VsJvpzuUL3nGOug8WF3dq4EYAex77gMveJK1d0KXHf8jEdOIyVj0rN0jPNNCphVZWiVW6widMZ8n0SI7t6l2vl9eIfatzYymVdbZBiYbZiNSWuzXs2GyxvlAZlzbBOgXdIFcau1aHSb1FBb1KoVD6L2-s1GWqLqQZLWk_PS-k/p.jpeg" group-title="Film Indonesia",  Sewu Dino (2023)
+http://23.226.71.77/A-ioNQqADno0HwFGQXp2F_vtJ0eTDpd8EsqTaD2mk-H07uiqT3AC17vwPqzdJ43tdM2ToVdty-f_3PdbMCt9wA/0d40rQ6hFYvT3FR_7MYHEr83Hc03irorGdRy7JuGdIQ/1080.m3u8
+
 ###
