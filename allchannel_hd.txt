@@ -334,25 +334,26 @@ rtp://@239.1.2.237:9348
 
 #Film
 
-#EXTINF:-1 tvg-logo="https://ucedcd9d7494372df45c8b99d0a4.previews.dropboxusercontent.com/p/thumb/ACEs16K9EfLbTY7Y8F9lJsbYD12OuP92zoPePofkQKkGWuSmW5UBKFgcR17YH1r9ShPFY1McFoYtQ9-U8f665JPLMFy_dXwmU0vm_bbk2VH3VhqQBYP_cS2XcQc1kTDE_hinrJO1PISpLfQlPqs5c7R2FKLGYOzk5nIqjjV79vHdo3DHDNpnteZZWgnHJziBvMjWwNQhM9WPaGLpPgydkHK0zqU4JHMr48V7O3Xb-uSFj_rwR7LB65whugIOgTUAFm9urtXX82I812c65cylvj-ykFhzJBWCDGnVRzuEirirlGPnrM06IDgWyc6rZn4IpRubVxXPo9eWlibOQnu8fUum1W_e-3eQSDPOuZswGNCc0FbfHhF7s1l0bg0jF1LB6FM/p.jpeg" group-title="Film Barat",  Sorry Charlie (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/uybgzw74kywoqe51fpji4/Sorry-Charlie.jpg?rlkey=o07yq8c7fwrly3x37m2ew8guq&raw=1" group-title="Film Barat",  Sorry Charlie (2023)
 https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02445/bgwaegraoo4f_h/index-v1-a1.m3u8?t=awMeDa2I-3qtqE4x1aldYpuzFqB-6j8na5FRCTK_OPo&s=1702206984&e=129600&f=12227143&srv=qkjzspbjuubm&i=0.0&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=7713
 
-#EXTINF:-1 tvg-logo="https://ucc4ca111ebafb5d6e704f0c1c18.previews.dropboxusercontent.com/p/thumb/ACGDtKtcSER6iPjtKfwK9tBYn-0cxTKVr4AZvw14L2gYd4AAbHI_NSQXk7sfrTXIxvwUVf1VG_JLi-OEYnX3LVQTYiJ4F_tOZ6hN5BJ3zXfRGUObR7EupIwfhrrVu-BTLVVuUlIyYyJwMRzoquKyAFJSde9-TXI69An35DdR1rzlxCbZRCrwIPVBLnz5K3C4-Etaq7Udbnik1kyO41xlxh7lxPrtG3G45R8Eoyl0-5AP1WDRX43boxnpAB9Nu0K9nqZkDn49IyA3K4-rQ-JF0qYfDMoIPFWQlmP3JfYLdcAYrQH91Vzh8Jt2fxZIYrEpxyd2Yp5qYcAjsY4FVhPgWc4pI4rZfkd90WmqM9HcUmWBgZt8vfsPXr3ahqsSsdNQ-Vo/p.jpeg" group-title="Film Korea",  Ballerina (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/f59llpiof3hfztvnmzjye/Ballerina-2023.jpg?rlkey=pc9wfiutd6cvla1dmps83oge3&raw=1" group-title="Film Korea",  Ballerina (2023)
 https://gy51qnnk6ihg1lrf.enaak-cdn.com/hls2/01/00680/lozyzd76dkq0_l/index-v1-a1.m3u8?t=dAxNQE74gf3tTsLr2ro4Imx8ZwnaknLFoZxp7iw59_I&s=1702272279&e=129600&f=3400109&srv=z2corhkgchlp&i=0.4&sp=1500&p1=z2corhkgchlp&p2=z2corhkgchlp&asn=7713
 
-#EXTINF:-1 tvg-logo="https://uc7e11d5087dfac29adc128cedea.previews.dropboxusercontent.com/p/thumb/ACGwc3xdNm8jJvAGME-hmbiwoVkh5f2EsoGUpb5ENSXHTeU0Rh4WZAv8U-HfeeJlqGeTxcw4l_f9badg5e1CJAb1CvU1geBNg7ROQrCFFkADsoaoOi6p_sF-_P4RivPAcAHh4USZI69NbZyQomxnw22FbZnFMfLScOJQ28qqxOeo3euObw-pFJwqZRZ8QpAJzyH9gFoOH5q4q4PUOkaLSHvhe4FYoERCxBCO_W6691nBqgTlASHTKdMCyffFgUUOwM3jWERSZXAaannsXDSE4xPRjDMDnA_QfNquGtJhGzk7EFfmAP-6XQ6swckid_OYvFwmag2nuKvJPk0ClZY08oljB9nvvwX3S3b1l8Uz0vjCy3ZdybVniuF95IZrKOGcPcc/p.jpeg" group-title="Film India",  Infinity (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xm4csb5qkyy5kze323tg0/Infinity-2023.jpeg?rlkey=kerrklfine9o3wsj011sh413q&raw=1" group-title="Film India",  Infinity (2023)
 https://c9kvajkxiczk.enaak-cdn.com/hls2/01/00542/9l91tdbxf5my_n/index-v1-a1.m3u8?t=HzeYM448SrCu6ptpWA4R6Qs7vItSPXCzSYzclmjXd0s&s=1702271052&e=129600&f=2714648&srv=ixh6j8jperfn&i=0.4&sp=1500&p1=ixh6j8jperfn&p2=ixh6j8jperfn&asn=7713
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vu3eu7opavs3mhh02q1wt/Hawa-2023.jpeg?rlkey=91nhcmwmm8e7yfhrcyo403f3i&raw=1" group-title="Film India",  Hawa (2023)
+https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/29kvvofry46xt7bf380qpu3s9wmm8vudkkt
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/00vyktrb2ormrbca2m718/Motel-Melati-2023.jpg?rlkey=o6ljkvqerevsyxhtmaar22mlz&raw=1" group-title="Film Indonesia",  Motel Melati (2023)
 https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/stmzn1vrfhl7ap4dniz7ym2trsue68bfhuj19q
 
-#EXTINF:-1 tvg-logo="https://uc1faceacb33039b0050ac4c8351.previews.dropboxusercontent.com/p/thumb/ACHVp30Nhmc5G-GOSOAXMxXBXA5yaZ7nc3GKqZYKGS5nb5qEgd1-Dkv1VnYze04goJ8FgvdghheW5JoT_T0sT-YEbkwlj_UppMKaAYqt7K-LCHOouJr14o32nanCQdg3Le7Zt4pcyt2fL7JnpClI6bHDiNofLvlo0Fd0eQ1XU3uZfMyVE2cpQebvvem1DFAQ5qtIK-Ah02MJLbJNakJZUqxnS69YJVQ4kf5lCzXup2tePBMU_M1_LCqa29MLGMxoTTQ1SlkFZOYYXE4RSqtJ7P6gh-Yy2cclt6a64iu36V-kqZUuxhbPF6L3QXseGMh-uqkO6OeZkHxVUb68pivB76SMq5LgDnTUPMWLJJ5w9yztXuPZtim4dkPGSoGjyAXIVio/p.jpeg" group-title="Film Indonesia",  Mangkujiwo 2 (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/drdl2bqo3jfl33bmz0ayt/Mangkujiwo-2-2023.jpg?rlkey=1ptiakeicuv9idur1u9q8x1ru&raw=1" group-title="Film Indonesia",  Mangkujiwo 2 (2023)
 https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/we6o0tjcl3kohmwkl5ldbv88bx18whl2bo2
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yitmeuvc391v6mkjd5i7s/Hitmen-2023.jpg?rlkey=25js3j6768nyess5m7qdli0mh&raw=1" group-title="Film Indonesia",  Hitmen (2023)
 https://iehocc64h5yn.enaak-cdn.com/hls2/01/00552/8hfdv6xo5cid_n/index-v1-a1.m3u8?t=sOs-57JcXvmHIbUNu-wSsiO6NWK-g7QFcqBKCi_-W3k&s=1702274210&e=129600&f=2763216&srv=tq8yyhkahmqs&i=0.4&sp=1500&p1=tq8yyhkahmqs&p2=tq8yyhkahmqs&asn=7713
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vu3eu7opavs3mhh02q1wt/Hawa-2023.jpeg?rlkey=91nhcmwmm8e7yfhrcyo403f3i&raw=1" group-title="Film India",  Hawa (2023)
-https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/29kvvofry46xt7bf380qpu3s9wmm8vudkkt
 
 ###
