@@ -227,7 +227,7 @@ rtp://@239.1.2.229:9330
 rtp://@239.1.2.235:9342
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bz63sp7ccussbk7/hgtv.png" group-title="Entertainment",  HGTV HD
 rtp://@239.1.2.34:8178
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/96oqsmkfasan4dm/rock.action.png" group-title="Gen Entertainment",  Rock Action HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/96oqsmkfasan4dm/rock.action.png" group-title="Entertainment",  Rock Action HD
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zotodoi3mb8ezxg/animax.png" group-title="Entertainment",  Animax HD
 rtp://@239.1.1.142:8967
