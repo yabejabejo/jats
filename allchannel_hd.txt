@@ -358,5 +358,19 @@ https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/we6o0tjcl3kohmwkl5ldbv88bx18w
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yitmeuvc391v6mkjd5i7s/Hitmen-2023.jpg?rlkey=25js3j6768nyess5m7qdli0mh&raw=1" group-title="Film Indonesia",  Hitmen (2023)
 https://iehocc64h5yn.enaak-cdn.com/hls2/01/00552/8hfdv6xo5cid_n/index-v1-a1.m3u8?t=sOs-57JcXvmHIbUNu-wSsiO6NWK-g7QFcqBKCi_-W3k&s=1702274210&e=129600&f=2763216&srv=tq8yyhkahmqs&i=0.4&sp=1500&p1=tq8yyhkahmqs&p2=tq8yyhkahmqs&asn=7713
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mf7wfmicpz9m5q8iptq2r/Night-Has-Come-2023.jpeg?rlkey=60ivvtlq08urotnqe4c4q0wc8&raw=1" group-title="TV Series Korea",  Night Has Come EP 1 (2023)
+https://kkb9w6hpzyq8.sw-cdnstream.com/hls2/01/02429/hoixtg66fvj4_x/index-v1-a1.m3u8?t=soyDcoprR4wBHcaKOavM4sTJP5VG9FSbB7obpXXxG64&s=1702288922&e=129600&f=12148046&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=7713
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mf7wfmicpz9m5q8iptq2r/Night-Has-Come-2023.jpeg?rlkey=60ivvtlq08urotnqe4c4q0wc8&raw=1" group-title="TV Series Korea",  Night Has Come EP 2 (2023)
+https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02429/5j0v6oiy7z4f_x/index-v1-a1.m3u8?t=iDUzUMIVNYZYFVCRHVlLJsF7WTl7X3cJc0elPPIcIjM&s=1702289029&e=129600&f=12148266&srv=txmraegnjpog&i=0.0&sp=500&p1=txmraegnjpog&p2=txmraegnjpog&asn=7713
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mf7wfmicpz9m5q8iptq2r/Night-Has-Come-2023.jpeg?rlkey=60ivvtlq08urotnqe4c4q0wc8&raw=1" group-title="TV Series Korea",  Night Has Come EP 3 (2023)
+https://n92qfljg.sw-cdnstream.com/hls2/01/02429/1uo5mhxrhck5_x/index-v1-a1.m3u8?t=FvTnyXvy-S2B5dJt78oJvSRIajQG0cCGTiUxVkwbP-Q&s=1702289136&e=129600&f=12148261&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=7713
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mf7wfmicpz9m5q8iptq2r/Night-Has-Come-2023.jpeg?rlkey=60ivvtlq08urotnqe4c4q0wc8&raw=1" group-title="TV Series Korea",  Night Has Come EP 4 (2023)
+https://ytfm7fgsp1.sw-cdnstream.com/hls2/01/02429/ey8u0olp54kf_x/index-v1-a1.m3u8?t=rr0SpyGBfXD0RfeNoKywgnY-GnB3njZhZ0Wpp4A2Yvw&s=1702289164&e=129600&f=12148186&srv=txmraegnjpog&i=0.4&sp=500&p1=txmraegnjpog&p2=txmraegnjpog&asn=7713
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mf7wfmicpz9m5q8iptq2r/Night-Has-Come-2023.jpeg?rlkey=60ivvtlq08urotnqe4c4q0wc8&raw=1" group-title="TV Series Korea",  Night Has Come EP 5 (2023)
+https://6tidkga5ss.sw-cdnstream.com/hls2/01/02493/t5z2earkhpxc_x/index-v1-a1.m3u8?t=lXqoCrjDeDf0AqWqvvllD6oYjqSsHs6PaV2bMFvlsTw&s=1702289301&e=129600&f=12468187&srv=Iejt5Sd5rjmz&i=0.4&sp=500&p1=Iejt5Sd5rjmz&p2=Iejt5Sd5rjmz&asn=7713
 
 ###
