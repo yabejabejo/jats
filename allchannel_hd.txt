@@ -332,4 +332,9 @@ rtp://@239.1.1.229:9350
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/hwa4pxldq6nhnys/fashion.png" group-title="Lifestyle",  Fashion TV HD
 rtp://@239.1.2.237:9348
 
+#Film
+
+#EXTINF:-1 tvg-logo="https://ucedcd9d7494372df45c8b99d0a4.previews.dropboxusercontent.com/p/thumb/ACEs16K9EfLbTY7Y8F9lJsbYD12OuP92zoPePofkQKkGWuSmW5UBKFgcR17YH1r9ShPFY1McFoYtQ9-U8f665JPLMFy_dXwmU0vm_bbk2VH3VhqQBYP_cS2XcQc1kTDE_hinrJO1PISpLfQlPqs5c7R2FKLGYOzk5nIqjjV79vHdo3DHDNpnteZZWgnHJziBvMjWwNQhM9WPaGLpPgydkHK0zqU4JHMr48V7O3Xb-uSFj_rwR7LB65whugIOgTUAFm9urtXX82I812c65cylvj-ykFhzJBWCDGnVRzuEirirlGPnrM06IDgWyc6rZn4IpRubVxXPo9eWlibOQnu8fUum1W_e-3eQSDPOuZswGNCc0FbfHhF7s1l0bg0jF1LB6FM/p.jpeg" group-title="Film",  Sorry, Charlie (2023)
+https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02445/bgwaegraoo4f_h/index-v1-a1.m3u8?t=awMeDa2I-3qtqE4x1aldYpuzFqB-6j8na5FRCTK_OPo&s=1702206984&e=129600&f=12227143&srv=qkjzspbjuubm&i=0.0&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=7713
+
 ###
