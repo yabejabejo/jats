@@ -419,5 +419,5 @@ https://rtvmb2980l.sw-cdnstream.com/hls2/01/01763/5o1dn2iyggqq_n/index-v1-a1.m3u
 https://a9d752bc.sw-cdnstream.com/hls2/01/02077/bw94b607on9u_x/index-v1-a1.m3u8?t=gCz7dSEFHZrLbtIRqZiD5rQV8Euq2PE0ZH-dqoqaTYc&s=1702348477&e=129600&f=10385523&srv=zzbpnbrsrsce&i=0.4&sp=500&p1=zzbpnbrsrsce&p2=zzbpnbrsrsce&asn=45727
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/dg25cqzxuxa7xtuvlqtdw/Ghost-Doctor-2022.jpeg?rlkey=qnuj1xnjvi5xspspilvhrt373&raw=1" group-title="TV Series Korea",  Ghost Doctor EP 16 (2022)
-https://eomoacrfcwpd.sw-cdnstream.com/hls2/01/01911/qqjvhmfyznsf_n/index-v1-a1.m3u8?t=NeMU4_iTP35T_MPYFAywrILSRTjE_LQlQdFPrUBXBvk&s=1702393313&e=129600&f=9558919&srv=movkttzzgucm&i=0.4&sp=500&p1=movkttzzgucm&p2=movkttzzgucm&asn=7713
+https://lz952tm.video-delivery.net/u5kjyur5dxg3sdgge5wewoyai76phudpmatnntdki2r4cy6756yx4e7peqna/4ply4d3fx4~lc4vhID5Zc?token=oznj331qsuhkvho4zils7mn3&expiry=1702394046118
 ###
