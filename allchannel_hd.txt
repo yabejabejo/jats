@@ -349,7 +349,8 @@ https://c9kvajkxiczk.enaak-cdn.com/hls2/01/00542/9l91tdbxf5my_n/index-v1-a1.m3u8
 https://be4235.rcr32.ams02.cdn112.com/hls2/01/05025/ap8lroc16t1h_x/index-v1-a1.m3u8?t=5zwm2w6er6zZg1Md7F_xQEjLWI9rsoGdXlU8NdOVF5c&s=1702410804&e=43200&f=25125894&srv=16&asn=7713&sp=2500
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/tanxzulbpkgyk7am0s1ab/Case-30-2023.jpeg?rlkey=rvlludiz97s0p0rvqcuj3pimp&raw=1" group-title="Film India",  Case 30 (2023)
-https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/uns4jj5mxqlp5vimlqivw6j3otgz70so9llwc
+#https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/uns4jj5mxqlp5vimlqivw6j3otgz70so9llwc
+https://be4235.rcr32.ams02.cdn112.com/hls2/03/04896/7pdq0xd8r5h7_x/index-v1-a1.m3u8?t=uG9pD0rsmfQH-Z5_TXq9-CbsbzFUdfmFLLg3jvzR5ro&s=1702410992&e=43200&f=24483817&srv=31&asn=7713&sp=2500
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5dbwc7dgm9v87pzwzlaez/Jaane-Jaan-2023.jpg?rlkey=klk2oa9fh95p46uk0lzah317h&raw=1" group-title="Film India",  Jaane Jaan (2023)
 #https://jeniusplay.com/hls/RXVzTVNyN0pKdWNVeiswTnFXNUlwODdFNCtDZmRoWm56K0NJNFl5Yi9oeThDVE1qQ2pzYmtjUEFvQ3c0YUJ6dENGdTNWVWFWQWkrQURmc3JKeWthUXUyRmxqUUsycHFtOUFPTVVGOW1TbmUzNWRRMitFb0pTVVdhZXVackdycGdDYk0rS3R4NHptTTJ1b3VmYkZ0TjIzbTE5cm1BdWF0YWx4UGxiV1hrQnhWNHZkSEI5TlQ3WTNmME0xb0RTdERRMFpIK2x5SEZRQTVUdDZHK2s2Yi9KVEFMV1Rkc0tHSVh2VndVYnRnckNrNkx4YnBtdGtFOTU1Y0pwTXhsK3BOL2NPUEg2ZmUreXFmb1dqa1V6Q0Z1Z0N0TWJLN21KOWZYNVhQaUtHVzZhNGM9
