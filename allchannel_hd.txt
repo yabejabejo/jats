@@ -397,7 +397,6 @@ https://zwhwosoyh2em.sw-cdnstream.com/hls2/01/02029/2h5xoru482yv_x/index-v1-a1.m
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/dg25cqzxuxa7xtuvlqtdw/Ghost-Doctor-2022.jpeg?rlkey=qnuj1xnjvi5xspspilvhrt373&raw=1" group-title="TV Series Korea",  Ghost Doctor EP 8 (2022)
 https://xpbfsgque.sw-cdnstream.com/hls2/01/01136/c1ot8k7oyeys_n/index-v1-a1.m3u8?t=exJ-BzNM8p9MaVVx0BRgtgJA2_GLnby8vbPPPwmFZPw&s=1702348153&e=129600&f=5680344&srv=pkgodbsczedt&i=0.4&sp=500&p1=pkgodbsczedt&p2=pkgodbsczedt&asn=45727
 
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/dg25cqzxuxa7xtuvlqtdw/Ghost-Doctor-2022.jpeg?rlkey=qnuj1xnjvi5xspspilvhrt373&raw=1" group-title="TV Series Korea",  Ghost Doctor EP 9 (2022)
 https://xy0rg432t6i3.sw-cdnstream.com/hls2/01/01911/xhvcwq35r4fp_n/index-v1-a1.m3u8?t=GUhUmRb3CjXqnrEv4wLpyFOd2mxvGulA5hoUfxURB0A&s=1702348180&e=129600&f=9590506&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=45727
 
@@ -412,6 +411,7 @@ https://fxa1tlmn.sw-cdnstream.com/hls2/01/02012/nxo0a1xiaolk_x/index-v1-a1.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/dg25cqzxuxa7xtuvlqtdw/Ghost-Doctor-2022.jpeg?rlkey=qnuj1xnjvi5xspspilvhrt373&raw=1" group-title="TV Series Korea",  Ghost Doctor EP 13 (2022)
 https://rtvmb2980l.sw-cdnstream.com/hls2/01/02015/yrqmaw7dbn58_x/index-v1-a1.m3u8?t=1oFOnrssCqTEaH9x-F_09o64NgPSynD4BpdeYi5RvUM&s=1702348410&e=129600&f=10075311&srv=pyradpcbsdns&i=0.4&sp=500&p1=pyradpcbsdns&p2=pyradpcbsdns&asn=45727
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/dg25cqzxuxa7xtuvlqtdw/Ghost-Doctor-2022.jpeg?rlkey=qnuj1xnjvi5xspspilvhrt373&raw=1" group-title="TV Series Korea",  Ghost Doctor EP 14 (2022)
 https://rtvmb2980l.sw-cdnstream.com/hls2/01/01763/5o1dn2iyggqq_n/index-v1-a1.m3u8?t=XF2pP-OnGSYN-J5MqbIZklNSD800eV01GvTTjp-LF8Y&s=1702348441&e=129600&f=8817276&srv=taqpatuhtrfg&i=0.4&sp=500&p1=taqpatuhtrfg&p2=taqpatuhtrfg&asn=45727
 
