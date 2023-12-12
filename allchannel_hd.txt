@@ -350,6 +350,9 @@ https://lgmks4ic.sw-cdnstream.com/hls2/01/02176/,c4dd7wbht6f7_x,lang/ind/c4dd7wb
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/tanxzulbpkgyk7am0s1ab/Case-30-2023.jpeg?rlkey=rvlludiz97s0p0rvqcuj3pimp&raw=1" group-title="Film India",  Case 30 (2023)
 https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/uns4jj5mxqlp5vimlqivw6j3otgz70so9llwc
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5dbwc7dgm9v87pzwzlaez/Jaane-Jaan-2023.jpg?rlkey=klk2oa9fh95p46uk0lzah317h&raw=1" group-title="Film India",  Jaane Jaan (2023)
+https://jeniusplay.com/hls/RXVzTVNyN0pKdWNVeiswTnFXNUlwODdFNCtDZmRoWm56K0NJNFl5Yi9oeThDVE1qQ2pzYmtjUEFvQ3c0YUJ6dENGdTNWVWFWQWkrQURmc3JKeWthUXUyRmxqUUsycHFtOUFPTVVGOW1TbmUzNWRRMitFb0pTVVdhZXVackdycGdDYk0rS3R4NHptTTJ1b3VmYkZ0TjIzbTE5cm1BdWF0YWx4UGxiV1hrQnhWNHZkSEI5TlQ3WTNmME0xb0RTdERRMFpIK2x5SEZRQTVUdDZHK2s2Yi9KVEFMV1Rkc0tHSVh2VndVYnRnckNrNkx4YnBtdGtFOTU1Y0pwTXhsK3BOL2NPUEg2ZmUreXFmb1dqa1V6Q0Z1Z0N0TWJLN21KOWZYNVhQaUtHVzZhNGM9
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/00vyktrb2ormrbca2m718/Motel-Melati-2023.jpg?rlkey=o6ljkvqerevsyxhtmaar22mlz&raw=1" group-title="Film Indonesia",  Motel Melati (2023)
 https://ghd76sdge87dje89e4hdma.uyeshare.cc/uptobox/stmzn1vrfhl7ap4dniz7ym2trsue68bfhuj19q
 
