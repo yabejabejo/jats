@@ -341,8 +341,8 @@ https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02445/bgwaegraoo4f_h/index-v1-a1.m
 https://gy51qnnk6ihg1lrf.enaak-cdn.com/hls2/01/00680/lozyzd76dkq0_l/index-v1-a1.m3u8?t=dAxNQE74gf3tTsLr2ro4Imx8ZwnaknLFoZxp7iw59_I&s=1702272279&e=129600&f=3400109&srv=z2corhkgchlp&i=0.4&sp=1500&p1=z2corhkgchlp&p2=z2corhkgchlp&asn=7713
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/bh3z568jr8z1h5nppbqy8/Perfect-Number-2012.jpeg?rlkey=09608uiipnft808zrwzngutqg&raw=1" group-title="Film Korea",  Perfect Number (2012)
-https://jeniusplay.com/hls/NHBFQ0pFMWZvemJ3UVBvbm96K2tvcnJWR0pqeVhVN29VWmlYSTBWTDltdnVoWk9FZVVvM1hzK0czU3NCR1VGTlZRaVhIV0JYUnpkeVdrYXhCZXcyVzZmY1dhRnlWaUdUYlVvYTMzWGxGOWpqNWpFUDhUNmJBR2ZRUFR5TkNiNGNRSGdiVytwem8xT0duQWlCY2RLV2pBbUFBUWhzenhLb3VoUVZoRmMvZzZCczBWejFYQUM1Tnd1UXZtazhJbkt1NkVqay96eXBLQjA2NEV5V0xvTnNWdXBxNzNhZ3BPVEMrVFpITzdDckU4aE5INHQvNDFmT1BWaisxYmwvK1kvMXRGbk14b2dXcHpCYzRKN0NaNEYvN3ZlcnV0SEQ0NGY3eXFrZjVyVmhQOVU9
-#https://be7713.rcr82.waw05.cdn112.com/hls2/01/02916/dkehqmqvtul9_n/index-v1-a1.m3u8?t=OqKokITyd2g6UAx6X5JWJL83ERSj-pDEAyxKsUK9-No&s=1702481239&e=43200&f=14581012&srv=27&asn=45727&sp=2000
+#https://jeniusplay.com/hls/NHBFQ0pFMWZvemJ3UVBvbm96K2tvcnJWR0pqeVhVN29VWmlYSTBWTDltdnVoWk9FZVVvM1hzK0czU3NCR1VGTlZRaVhIV0JYUnpkeVdrYXhCZXcyVzZmY1dhRnlWaUdUYlVvYTMzWGxGOWpqNWpFUDhUNmJBR2ZRUFR5TkNiNGNRSGdiVytwem8xT0duQWlCY2RLV2pBbUFBUWhzenhLb3VoUVZoRmMvZzZCczBWejFYQUM1Tnd1UXZtazhJbkt1NkVqay96eXBLQjA2NEV5V0xvTnNWdXBxNzNhZ3BPVEMrVFpITzdDckU4aE5INHQvNDFmT1BWaisxYmwvK1kvMXRGbk14b2dXcHpCYzRKN0NaNEYvN3ZlcnV0SEQ0NGY3eXFrZjVyVmhQOVU9
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/02916/dkehqmqvtul9_n/index-v1-a1.m3u8?t=OqKokITyd2g6UAx6X5JWJL83ERSj-pDEAyxKsUK9-No&s=1702481239&e=43200&f=14581012&srv=27&asn=45727&sp=2000
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xm4csb5qkyy5kze323tg0/Infinity-2023.jpeg?rlkey=kerrklfine9o3wsj011sh413q&raw=1" group-title="Film India",  Infinity (2023)
 https://c9kvajkxiczk.enaak-cdn.com/hls2/01/00542/9l91tdbxf5my_n/index-v1-a1.m3u8?t=HzeYM448SrCu6ptpWA4R6Qs7vItSPXCzSYzclmjXd0s&s=1702271052&e=129600&f=2714648&srv=ixh6j8jperfn&i=0.4&sp=1500&p1=ixh6j8jperfn&p2=ixh6j8jperfn&asn=7713
