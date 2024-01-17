@@ -166,7 +166,7 @@ rtp://@239.1.1.250:9518
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zhd13cdxkedjdub/cnbc.indonesia.png" group-title="News",  CNBC Indonesia HD
 rtp://@239.1.2.94:9448
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/iinwqvm3dw1iuv0/mncnews.png" group-title="News",  MNC News
-rtp://@239.1.1.146:7985
+#rtp://@239.1.1.146:7985
 
 ###
 
