@@ -11,8 +11,6 @@ rtp://@239.1.1.252:9486
 rtp://@239.1.1.238:8016
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/so8a4ce3na4yddj/metrotv.png" group-title="Local",  Metro TV HD
 rtp://@239.1.2.2:7986
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/843yd4kpfvps3v6/cnn.png" group-title="Local",  CNN Indonesia
-rtp://@239.1.2.218:8093
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/843yd4kpfvps3v6/cnn.png" group-title="Local",  CNN Indonesia HD
 rtp://@239.1.1.180:9054
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9pg8frpscwlwrnx/tvone.png" group-title="Local",  TV One
