@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qgi01sc8roqtgjq/useeprime2.png" group-title="Local",  Usee Prime HD
 #rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/rszohydtt7wqyi03jymw6/max-stream.png?rlkey=lvntio0e2y6ptzzbuqke8exli&raw=1" group-title="Local",  Max Stream HD
-rtp://@239.1.1.200:8154
+rtp://@239.1.1.200:8164
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/sq533vkerh69qs40u7qzx/allplay-ent.png?rlkey=5g8uhk0dgmf2tuq5flcqymyjj&raw=1" group-title="Local",  AllPlay Ent HD
 rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/78fecjp16b3ebsz/tvri.png" group-title="Local",  TVRI HD
@@ -132,7 +132,7 @@ rtp://@239.1.2.209:9196
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zqxwqwneerrczjll9vzu9/champions-tv.png?rlkey=3yrumxy1fpy4afootyk8mos4s&raw=1" group-title="Sport",  Champions TV 1 HD
 rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yzu2pj46vnatjepvcfc2e/champions-tv2.png?rlkey=r0xzs7z5n7ywzh9aixu7z2r9p&raw=1" group-title="Sport",  Champions TV 2 HD
-rtp://@239.1.1.35:8181
+rtp://@239.1.2.35:8181
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rk0pkr3t23cj9om/nbatv.png" group-title="Sport",  NBA TV HD
 rtp://@239.1.2.210:9444
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/xmbhq01wkmwuuos/horizon.png" group-title="Sport",  Horizon Sports HD
