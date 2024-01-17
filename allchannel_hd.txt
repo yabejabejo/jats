@@ -2,6 +2,10 @@
 
 #Local
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qgi01sc8roqtgjq/useeprime2.png" group-title="Local",  Usee Prime HD
+#rtp://@239.1.1.252:9486
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/rszohydtt7wqyi03jymw6/max-stream.png?rlkey=lvntio0e2y6ptzzbuqke8exli&raw=1" group-title="Local",  Max Stream HD
+rtp://@239.1.1.200:8154
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/sq533vkerh69qs40u7qzx/allplay-ent.png?rlkey=5g8uhk0dgmf2tuq5flcqymyjj&raw=1" group-title="Local",  AllPlay Ent HD
 rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/78fecjp16b3ebsz/tvri.png" group-title="Local",  TVRI HD
 rtp://@239.1.1.238:8016
@@ -29,6 +33,8 @@ rtp://@239.1.1.240:8017
 rtp://@239.1.1.114:9512
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/13dc6lx0orl6j8u/jaktv.png" group-title="Local",  Jak TV
 rtp://@239.1.1.107:8616
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0gd38npak0pm5ni27d6qk/idtv.png?rlkey=wijsmmbrm5f6yuop1zkd3525f&raw=1" group-title="Local",  IDTV HD
+rtp://@239.1.2.5:8168
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/6u4w9vrm7cf2ye0/rtv.png" group-title="Local",  RTV HD
 rtp://@239.1.1.253:8018
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/xjigkldn69u9sst/idx.png" group-title="Local",  IDX Channel
@@ -50,9 +56,11 @@ rtp://@239.1.1.75:8624
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/k0334fbogpdr8m1/rrinet.png" group-title="Local",  RRI Net HD
 rtp://@239.1.1.130:9514
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jv5sp287ne77ocl/gprtv.png" group-title="Local",  GPR TV
-rtp://@239.1.2.17:9379
+#rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2m2edxo9btfkrjy/garudatv.png" group-title="Local",  Garuda TV
 rtp://@239.1.1.164:8965
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1k7in5tdeq8lig23rm519/sindonews-tv.png?rlkey=ejyfo1w1i1a7rx6xrjfkm8xyw&raw=1" group-title="Local",  Sindonews TV HD
+rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/a6wylltwee612rs/jowo.png" group-title="Local",  Jowo HD
 rtp://@239.1.2.212:9208
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/3mvhzqynu3kjg5z/indonesiana.png" group-title="Local",  IndonesianaTV HD
@@ -118,9 +126,13 @@ rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bcsn9y4mdolmcvx/fight.png" group-title="Sport",  Fight Sport HD
 rtp://@239.1.2.209:9196
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/smkucnpdyynsyvy/spotv.png" group-title="Sport",  Spo TV HD
-rtp://@239.1.1.109:8623
+#rtp://@239.1.1.109:8623
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7hhiduxwdab7q4m/spotv2.png" group-title="Sport",  Spo TV2 HD
-rtp://@239.1.1.196:9145
+#rtp://@239.1.1.196:9145
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zqxwqwneerrczjll9vzu9/champions-tv.png?rlkey=3yrumxy1fpy4afootyk8mos4s&raw=1" group-title="Sport",  Champions TV 1 HD
+rtp://@239.1.2.32:8190
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yzu2pj46vnatjepvcfc2e/champions-tv2.png?rlkey=r0xzs7z5n7ywzh9aixu7z2r9p&raw=1" group-title="Sport",  Champions TV 2 HD
+rtp://@239.1.1.35:8181
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rk0pkr3t23cj9om/nbatv.png" group-title="Sport",  NBA TV HD
 rtp://@239.1.2.210:9444
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/xmbhq01wkmwuuos/horizon.png" group-title="Sport",  Horizon Sports HD
@@ -167,18 +179,22 @@ rtp://@239.1.1.14:7982
 rtp://@239.1.1.162:7983
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1e6z2j2vs89afcy/cartoon.network.png" group-title="Kids",  Cartoon Network HD
 rtp://@239.1.2.81:8083
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ynywjwgyq70556m/boomerang.png" group-title="Kids",  Boomerang HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/em8q4k3o7jdwt1ino5drr/cartoonito.png?rlkey=y6p0aensl73fw6n63lex2ovdd&raw=1" group-title="Kids",  Cartoonito HD
 rtp://@239.1.1.163:8084
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ynywjwgyq70556m/boomerang.png" group-title="Kids",  Boomerang HD
+#rtp://@239.1.1.163:8084
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/5qq1i3bdm91pz1m/dreamworks.png" group-title="Kids",  DreamWorks HD
 rtp://@239.1.1.234:9222
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/z9io10gt3jm7izo/moonbug.png" group-title="Kids",  Moonbug Kids HD
-rtp://@239.1.1.235:8593
+#rtp://@239.1.1.235:8593
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/1iglnrjglmamk55/duniaanak.png" group-title="Kids",  Dunia Anak
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jw88kr9999d5xzg/mkidz.png" group-title="Kids",  My Kidz HD
 rtp://@239.1.1.52:8416
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/vw6v2ds8obc5bbn/kidstv.png" group-title="Kids",  Indi Kids HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/m84jcf95v04gzopegf8ek/fun-planet.png?rlkey=tu2i90jf879ovymyt0b7nh7dg&raw=1" group-title="Kids",  Fun Planet HD
 rtp://@239.1.1.201:9180
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/vw6v2ds8obc5bbn/kidstv.png" group-title="Kids",  Indi Kids HD
+#rtp://@239.1.1.201:9180
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/mx7468qxld4ml5w/horee.png" group-title="Kids",  Horee! HD
 rtp://@239.1.1.225:8013
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2jmbflpymsfy4uf/mentari.png" group-title="Kids",  Mentari TV HD
@@ -202,9 +218,13 @@ rtp://@239.1.1.24:9517
 
 #Knowledge
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/29mskd1mzz2p8xt/natgeo.png" group-title="Knowledge",  National Geographic HD
-rtp://@239.1.1.243:9432
+#rtp://@239.1.1.243:9432
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/knvlu92g5hgnrnuob31ea/curiosity.png?rlkey=hmf3rw4o68x55jsao2cfqk0op&raw=1" group-title="Knowledge",  Curiosity HD
+rtp://@239.1.1.124:8157
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xc0vufq6rpdoulqxpi2sk/animal-planet.png?rlkey=tffn9tjjxasver24g0myrd7fv&raw=1" group-title="Knowledge",  Animal Planet HD
+rtp://@239.1.1.110:8170
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/q46pd9o5bm5suer/natgeowild.png" group-title="Knowledge",  Nat Geo Wild HD
-rtp://@239.1.1.207:9216
+#rtp://@239.1.1.207:9216
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/xkpbhpiiagywi1h/crime.png" group-title="Knowledge",  Crime & Investigation HD
 rtp://@239.1.1.223:8012
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9ciuqg67e1axk6i/cgtn.doc.png" group-title="Knowledge",  CGTN Documentary HD
@@ -219,6 +239,10 @@ rtp://@239.1.1.247:9440
 rtp://@239.1.1.131:8625
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ydt6sem0wab2dnj/techstorm.png" group-title="Knowledge",  Tech Storm HD
 rtp://@239.1.2.229:9330
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xsq5emalfclw9axwkk9ug/discovery-asia.png?rlkey=l18wmmdxtgx3g5cz3vmnpcwz6&raw=1" group-title="Knowledge",  Discovery Asia HD
+rtp://@239.1.1.118:8169
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/x1oe4c0htr6zy1ahs4rof/love-nature.png?rlkey=4f1yzdqm4fci9jg271aib8xc8&raw=1" group-title="Knowledge",  Love Nature HD
+rtp://@239.1.1.148:8158
 
 ###
 
@@ -298,7 +322,7 @@ rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9qs5n7xgzxlwvv9/rodja.png" group-title="Religious",  Rodja TV
 rtp://@239.1.1.224:9320
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/chmqpqiuqzuiwxc/mtatv.png" group-title="Religious",  MT@ TV
-rtp://@239.1.2.234:9374
+#rtp://@239.1.2.234:9374
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/s1dr82kjwvwlsi3/mqtv.png" group-title="Religious",  MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ma97vkf2wjuhv26/tv9.png" group-title="Religious",  TV9
@@ -322,7 +346,7 @@ rtp://@239.1.2.3:7992
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7wcidzja7e42o57/lejel.png" group-title="Lifestyle",  Living Entertainment
 rtp://@239.1.1.3:7992
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/hke44iglxf64o3v/iberkah.png" group-title="Lifestyle",  iBerkah
-rtp://@239.1.1.12:7984
+#rtp://@239.1.1.12:7984
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/mup7srb72fpld4q/atv.png" group-title="Lifestyle",  ATV
 rtp://@239.1.2.88:8308
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pivfqlii97wlqrp/afn.png" group-title="Lifestyle",  AFN HD
@@ -331,7 +355,5 @@ rtp://@239.1.2.13:8052
 rtp://@239.1.1.229:9350
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/hwa4pxldq6nhnys/fashion.png" group-title="Lifestyle",  Fashion TV HD
 rtp://@239.1.2.237:9348
-
-#Film
 
 ###
