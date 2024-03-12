@@ -55,10 +55,12 @@ rtp://@239.1.2.102:9522
 rtp://@239.1.1.75:8624
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/k0334fbogpdr8m1/rrinet.png" group-title="Local",  RRI Net HD
 rtp://@239.1.1.130:9514
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/tcqzy57ac23of0qdl8ff9/jawapos.png?rlkey=z0mlbm781ujc870jszjjz8gbw&raw=1" group-title="Local",  JawaPos HD
+rtp://@239.1.2.37:8183
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jv5sp287ne77ocl/gprtv.png" group-title="Local",  GPR TV
 #rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2m2edxo9btfkrjy/garudatv.png" group-title="Local",  Garuda TV
-rtp://@239.1.1.164:8965
+#rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1k7in5tdeq8lig23rm519/sindonews-tv.png?rlkey=ejyfo1w1i1a7rx6xrjfkm8xyw&raw=1" group-title="Local",  Sindonews TV HD
 rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/a6wylltwee612rs/jowo.png" group-title="Local",  Jowo HD
@@ -133,8 +135,14 @@ rtp://@239.1.2.209:9196
 rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yzu2pj46vnatjepvcfc2e/champions-tv2.png?rlkey=r0xzs7z5n7ywzh9aixu7z2r9p&raw=1" group-title="Sport",  Champions TV 2 HD
 rtp://@239.1.2.35:8181
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w2xuec8mdort52kodqbi5/champions5.png?rlkey=5i5dgcd4zetjj6qr1k4fyn3mx&raw=1" group-title="Sport",  Champions TV 5 HD
+rtp://@239.1.2.45:8193
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1ks5tccu03u0bh7esm19m/champions6.png?rlkey=0v7o48um51eazyggkdldqdue5&raw=1" group-title="Sport",  Champions TV 6 HD
+rtp://@239.1.2.47:8195
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rk0pkr3t23cj9om/nbatv.png" group-title="Sport",  NBA TV HD
 rtp://@239.1.2.210:9444
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wwcowudxpbgv55t7vdy0c/volitv.png?rlkey=nl6gqilodbwdgd06w5xa8c2e3&raw=1" group-title="Sport",  Voli TV HD
+rtp://@239.1.2.43:8189
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/xmbhq01wkmwuuos/horizon.png" group-title="Sport",  Horizon Sports HD
 rtp://@239.1.2.201:9174
 
