@@ -49,8 +49,8 @@ rtp://@239.1.2.102:9522
 rtp://@239.1.1.212:8967
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/k0334fbogpdr8m1/rrinet.png" group-title="Local",  RRI Net
 rtp://@239.1.2.74:8420
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jv5sp287ne77ocl/gprtv.png" group-title="Local", #GPR TV
-rtp://@239.1.2.17:9379
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jv5sp287ne77ocl/gprtv.png" group-title="Local", GPR TV
+#rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2m2edxo9btfkrjy/garudatv.png" group-title="Local",  Garuda TV
 #rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/a6wylltwee612rs/jowo.png" group-title="Local",  Jowo
@@ -114,7 +114,7 @@ rtp://@239.1.1.151:8880
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bqjfg18vlwyb5aa/usee2.png" group-title="Sport",  Usee Sports 2
 #rtp://@239.1.1.53:8292
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rynjc5omt10yw0t/bein1.png" group-title="Sport",  Bein Sport 1
-#rtp://@239.1.1.217:9204
+rtp://@239.1.1.217:9204
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wudopbvlhd088w9/bein3.png" group-title="Sport",  Bein Sport 3
 rtp://@239.1.1.221:9300
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bcsn9y4mdolmcvx/fight.png" group-title="Sport",  Fight Sport
@@ -179,7 +179,7 @@ rtp://@239.1.1.235:8593
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/jw88kr9999d5xzg/mkidz.png" group-title="Kids",  MY KIDZ
 rtp://@239.1.1.47:8256
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/vw6v2ds8obc5bbn/kidstv.png" group-title="Kids",  Indi Kids
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/m84jcf95v04gzopegf8ek/fun-planet.png?rlkey=tu2i90jf879ovymyt0b7nh7dg&raw=1" group-title="Kids",  Fun Planet
 rtp://@239.1.1.45:8244
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/mx7468qxld4ml5w/horee.png" group-title="Kids",  Horee!
 rtp://@239.1.1.68:8382
