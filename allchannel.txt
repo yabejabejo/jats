@@ -300,7 +300,7 @@ rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9qs5n7xgzxlwvv9/rodja.png" group-title="Religious",  Rodja TV
 rtp://@239.1.1.224:9320
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/chmqpqiuqzuiwxc/mtatv.png" group-title="Religious",  MT@ TV
-rtp://@239.1.2.234:9374
+#rtp://@239.1.2.234:9374
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/s1dr82kjwvwlsi3/mqtv.png" group-title="Religious",  MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/ma97vkf2wjuhv26/tv9.png" group-title="Religious",  TV9
