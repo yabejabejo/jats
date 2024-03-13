@@ -264,9 +264,9 @@ rtp://@239.1.1.236:9390
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pzhhjxiw4ailwx4/k%2B.png" group-title="Entertainment",  K+
 rtp://@239.1.1.242:9426
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9xfjp0wvwpovdk6/formosa.png" group-title="Entertainment",  Formosa
-rtp://@239.1.2.198:9386
+#rtp://@239.1.2.198:9386
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2esttlgm8udf86l/cti.png" group-title="Entertainment",  CTI Asia
-rtp://@239.1.2.200:9168
+#rtp://@239.1.2.200:9168
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wf615j3fyha8env/dunialain.png" group-title="Entertainment",  Dunia Lain
 rtp://@239.1.1.149:8868
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/fi63uwkapcxcsw4/abc.australia.png" group-title="Entertainment",  ABC Australia
