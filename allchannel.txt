@@ -144,7 +144,7 @@ rtp://@239.1.1.155:8904
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/w3nlvkokxbxyo4y/cna.png" group-title="News",  Channel News Asia
 rtp://@239.1.1.65:8364
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/15edf27pz9u7di5/aljazeera.png" group-title="News",  Al Jazeera
-rtp://@239.1.1.195:9144
+#rtp://@239.1.1.195:9144
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pgjyfe19f277hxz/france24.png" group-title="News",  France 24
 rtp://@239.1.1.191:9120
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zd44gzkf9ng62m4/dw.png" group-title="News",  DW
@@ -152,7 +152,7 @@ rtp://@239.1.1.187:9096
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7ezx63btwdtouqi/tvbsnews.png" group-title="News",  TVBS News
 rtp://@239.1.1.48:8414
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/16huk3zrn9r1eox/trt.png" group-title="News",  TRT World
-rtp://@239.1.2.84:8296
+#rtp://@239.1.2.84:8296
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zhd13cdxkedjdub/cnbc.indonesia.png" group-title="News",  CNBC Indonesia
 rtp://@239.1.2.92:9490
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1k7in5tdeq8lig23rm519/sindonews-tv.png?rlkey=ejyfo1w1i1a7rx6xrjfkm8xyw&raw=1" group-title="News",  SindoNews TV
@@ -286,7 +286,7 @@ rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/oam6opnfgbrz2n1/shenzen.png" group-title="Entertainment",  Shenzen International
 rtp://@239.1.1.156:8910
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/p86o9qn1a9dsli7/ebc.png" group-title="Entertainment",  EBC Asia
-rtp://@239.1.2.196:9406
+#rtp://@239.1.2.196:9406
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/y388esho5hopti6/newtv.png" group-title="Entertainment",  New TV
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/t4e0go5s8cy1ppl/chinese_drama.png" group-title="Entertainment",  Chinese Drama
@@ -324,7 +324,7 @@ rtp://@239.1.2.3:7992
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7wcidzja7e42o57/lejel.png" group-title="Lifestyle",  Living Entertainment
 rtp://@239.1.1.3:7992
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/hke44iglxf64o3v/iberkah.png" group-title="Lifestyle",  iBerkah
-rtp://@239.1.1.12:7984
+#rtp://@239.1.1.12:7984
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/mup7srb72fpld4q/atv.png" group-title="Lifestyle",  ATV
 rtp://@239.1.2.88:8308
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pivfqlii97wlqrp/afn.png" group-title="Lifestyle",  AFN
