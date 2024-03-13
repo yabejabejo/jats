@@ -155,7 +155,7 @@ rtp://@239.1.1.48:8414
 rtp://@239.1.2.84:8296
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/zhd13cdxkedjdub/cnbc.indonesia.png" group-title="News",  CNBC Indonesia
 rtp://@239.1.2.92:9490
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/iinwqvm3dw1iuv0/mncnews.png" group-title="News",  SindoNews TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1k7in5tdeq8lig23rm519/sindonews-tv.png?rlkey=ejyfo1w1i1a7rx6xrjfkm8xyw&raw=1" group-title="News",  SindoNews TV
 rtp://@239.1.1.146:7985
 
 ==
