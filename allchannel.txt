@@ -204,9 +204,9 @@ rtp://@239.1.1.143:8832"
 
 #Knowledge
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/29mskd1mzz2p8xt/natgeo.png" group-title="Knowledge",  National Geographic
-rtp://@239.1.1.169:8988
+#rtp://@239.1.1.169:8988
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/q46pd9o5bm5suer/natgeowild.png" group-title="Knowledge",  Nat Geo Wild
-rtp://@239.1.1.35:8184
+#rtp://@239.1.1.35:8184
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/xkpbhpiiagywi1h/crime.png" group-title="Knowledge",  Crime & Investigation
 rtp://@239.1.1.59:8328
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9ciuqg67e1axk6i/cgtn.doc.png" group-title="Knowledge",  CGTN Documentary
