@@ -364,4 +364,7 @@ rtp://@239.1.1.229:9350
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/hwa4pxldq6nhnys/fashion.png" group-title="Lifestyle",  Fashion TV HD
 rtp://@239.1.2.237:9348
 
+#EXTINF:-1 tvg-logo="" group-title="Film Barat",  Push (2009)
+https://cdn.winten.workers.dev/download.aspx?file=rMF8gf69UWgU40JvgKLyX2l21lpM8q1BdxvP8KBkokbxcVj5M7GfpUcce4prIB6y&expiry=quRdHT8iwzDyKuxppijKJA%3D%3D&mac=2f2166e8bfee6af4f4d67ad89c89c58bf5d901dacb949b8635a5cf558afb2721
+
 ###
