@@ -400,4 +400,22 @@ https://b2hpwfawl05t.enaak-cdn.com/hls2/01/00842/x63jw5h9167c_,l,n,h,.urlset/ind
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 2
 https://c3r7vx1sxrdf.enaak-cdn.com/hls2/01/00842/o3fjfmz6hc9c_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=DEWTKiVtuE0pz7ybGBY_ObU1B4LZLI-uCXbNTEDTdqY&s=1711985448&e=129600&f=4212410&srv=vnqQYcw7PvoR&i=0.4&sp=500&p1=vnqQYcw7PvoR&p2=vnqQYcw7PvoR&asn=7713
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 3
+https://be4242.rcr52.ams03.cdn112.com/hls2/02/04962/e8b2gzv5ddci_x/index-v1-a1.m3u8?t=LI9dn9BhV-_rXFlmP6gk08A8wCOjABqCg9S2HLLY4ns&s=1711985912&e=43200&f=24810600&srv=52&asn=7713&sp=2500
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 4
+https://player.sobat21.info/File/movie/SOHIB21.INFO.Vigilante.Season.1.Episode.4.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 5
+https://player.sobat21.info/File/movie/SOHIB21.INFO.Vigilante.Season.1.Episode.5.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 6
+https://player.sobat21.info/File/movie/SOHIB21.INFO.Vigilante.Season.1.Episode.6.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 7
+https://player.sobat21.info/File/movie/SOHIB21.INFO.Vigilante.Season.1.Episode.7.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 8
+https://player.sobat21.info/File/movie/SOHIB21.INFO.Vigilante.Season.1.Episode.8.mp4
+
 ###
