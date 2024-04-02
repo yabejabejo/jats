@@ -428,7 +428,7 @@ https://j1tnldsx1hj6.enaak-cdn.com/hls2/01/00982/ewl7uzkmrost_,l,n,h,.urlset/ind
 https://player.sobat21.info/File/movie/SOHIB21.INFO.Deaths.Game.Season.1.Episode.3.mp4
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mgtqv8i5g0tram4nj0zwk/Deaths-Game-2023.jpeg?rlkey=8g0m49b3qr66o12nw08pqb3zb&raw=1" group-title="Series Korea",  Deaths Game (2023) EP 4
-https://player.sobat21.info/File/movie/SOHIB21.INFO.Deaths.Game.Season.1.Episode.4.mp4
+https://u59llznvtrzh.enaak-cdn.com/hls2/01/00982/nap0sxwgh8z8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=xn1rK1BBUz6-65cvAJwr-DTjAcCCSWgtwu9DWUAWKQA&s=1712096862&e=129600&f=4910983&srv=MHmQ0rpeA9st&i=0.4&sp=500&p1=MHmQ0rpeA9st&p2=MHmQ0rpeA9st&asn=7713
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mgtqv8i5g0tram4nj0zwk/Deaths-Game-2023.jpeg?rlkey=8g0m49b3qr66o12nw08pqb3zb&raw=1" group-title="Series Korea",  Deaths Game (2023) EP 5
 https://player.sobat21.info/File/movie/SOHIB21.INFO.Deaths.Game.Season.1.Episode.5.mp4
