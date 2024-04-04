@@ -381,6 +381,36 @@ https://nzxfhnnl6es7.enaak-cdn.com/hls2/01/01389/071uyk8lx3af_,l,n,h,.urlset/ind
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/8r4axyb9td7d2t3x0isyz/Kadak-Singh-2023.jpg?rlkey=3q3oqhmvswcsq5ly4hfswmwdr&raw=1" group-title="Film India",  Kadak Singh (2023)
 https://djqidgghmrwc0.enaak-cdn.com/hls2/01/01055/h4jvxy8epoyy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=OtFfPQIgsaSavWiORaVOEh3XkuKbBfALRUWpJiXIoFM&s=1712236919&e=129600&f=5275826&srv=o6HwAC2qTh6R&i=0.4&sp=500&p1=o6HwAC2qTh6R&p2=o6HwAC2qTh6R&asn=7713
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 1
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.1.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 2
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 3
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.3.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 4
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.4.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 5
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.5.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 6
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.6.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 7
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.7.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 8
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.8.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 9
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.9.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 10
+https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.10.mp4
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zle0julqel9x25vgmwxsp/A-Shop-for-Killers-2024.jpeg?rlkey=eggohtv1fqlkgf9fd3kwkuyju&raw=1" group-title="Series Korea",  A Shop for Killers (2024) EP 1
 https://gdjpkwg5strc.enaak-cdn.com/hls2/01/01127/juowvcsku2m2_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=U7VItBZTYOOxJrCaEPAusx6MlcQq-xqGwOEEBF7JGFU&s=1711924413&e=129600&f=5636104&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=7713
 
