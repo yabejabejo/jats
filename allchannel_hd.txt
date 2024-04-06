@@ -74,7 +74,7 @@ rtp://@239.1.1.113:8652
 
 #Movie
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/oijm32rzhndzlvl/paramount.png" group-title="Movie",  Paramount Network HD
-rtp://@239.1.1.211:9240
+#rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2lb3x34qqvjube4/hbo.png" group-title="Movie",  HBO HD
 rtp://@239.1.1.203:9192
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/updo0dh0b9memn9/hbo.signature.png" group-title="Movie",  HBO Signature HD
