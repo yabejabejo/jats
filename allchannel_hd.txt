@@ -379,7 +379,7 @@ https://gdjpkwg5strc.enaak-cdn.com/hls2/01/01336/a0q20pz8iyjd_,l,n,h,.urlset/ind
 https://nzxfhnnl6es7.enaak-cdn.com/hls2/01/01389/071uyk8lx3af_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Hak6sOMjOf08o7gMeYFD-OUDjMBH3CcFsLLepbkMkGk&s=1711840025&e=129600&f=6949877&srv=GuAt1Np9ndSH&i=0.4&sp=500&p1=GuAt1Np9ndSH&p2=GuAt1Np9ndSH&asn=7713
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/8r4axyb9td7d2t3x0isyz/Kadak-Singh-2023.jpg?rlkey=3q3oqhmvswcsq5ly4hfswmwdr&raw=1" group-title="Film India",  Kadak Singh (2023)
-https://iahhu7cuwkpf.enaak-cdn.com/hls2/01/01055/h4jvxy8epoyy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=2kuYaP9a1Vba1WNEwH__mdJm2cmfkEoMue0KwB7iN_Q&s=1712414907&e=129600&f=5275826&srv=o6HwAC2qTh6R&i=0.4&sp=500&p1=o6HwAC2qTh6R&p2=o6HwAC2qTh6R&asn=45727
+#https://iahhu7cuwkpf.enaak-cdn.com/hls2/01/01055/h4jvxy8epoyy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=2kuYaP9a1Vba1WNEwH__mdJm2cmfkEoMue0KwB7iN_Q&s=1712414907&e=129600&f=5275826&srv=o6HwAC2qTh6R&i=0.4&sp=500&p1=o6HwAC2qTh6R&p2=o6HwAC2qTh6R&asn=45727
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 1
 https://gy3yju69k6w5.enaak-cdn.com/hls2/01/01182/f8h4u1eeadtm_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=vQ_2zz4BhcDUfeg6qcqtm6phyZqbqfrSEj61WG6ONJQ&s=1712358311&e=129600&f=5912951&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=45727
