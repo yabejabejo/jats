@@ -388,13 +388,13 @@ https://gy3yju69k6w5.enaak-cdn.com/hls2/01/01182/f8h4u1eeadtm_,l,n,h,.urlset/ind
 https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.2.mp4
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 3
-https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.3.mp4
+https://di5jkouqm1xs.enaak-cdn.com/hls2/01/01208/m14epun6mz84_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=k3Ey54sAAqrqzeLAq47zyT7dezGejTw0AiQO_t4BsSQ&s=1712394174&e=129600&f=6041010&srv=d0FMC0RTxstq&i=0.4&sp=500&p1=d0FMC0RTxstq&p2=d0FMC0RTxstq&asn=45727
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 4
-https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.4.mp4
+https://di5jkouqm1xs.enaak-cdn.com/hls2/01/01209/aphfs6lz4w4h_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=V5MFQUhC6Y9LCbv02dGzptUIEGIgbp_V6Xpw_3cz-tc&s=1712394230&e=129600&f=6048866&srv=ECdbJ4Bvl4Zr&i=0.4&sp=500&p1=ECdbJ4Bvl4Zr&p2=ECdbJ4Bvl4Zr&asn=45727
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 5
-#https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.5.mp4
+https://uv00d1a9avge.enaak-cdn.com/hls2/01/01263/aiciyhwxuh09_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=B7ENhD9ilwHKP3mD8b-1HILS2_y9boGtVV8KUqCUZKg&s=1712394259&e=129600&f=6315272&srv=ECdbJ4Bvl4Zr&i=0.4&sp=500&p1=ECdbJ4Bvl4Zr&p2=ECdbJ4Bvl4Zr&asn=45727
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 6
 #https://player.sobat21.info/File/movie/PLAYSOBAT.XYZ.Flex.X.Cop.Season.1.Episode.6.mp4
