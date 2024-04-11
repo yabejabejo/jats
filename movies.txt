@@ -5,6 +5,13 @@ https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=
 
 ===
 
+Film Asia
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/89lodl3qn1gpde3d4hqfz/LOST-IN-THE-STARS-2023.jpg?rlkey=k1y8hyeeoraz1m4041ku3akjk&raw=1" group-title="Film Asia",  LOST IN THE STARS (2023)
+https://www.googleapis.com/drive/v3/files/1EXEHGA_ZwQOTWZ0nF63SeWfFMxh8qsri?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+===
+
 Film India
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/8r4axyb9td7d2t3x0isyz/Kadak-Singh-2023.jpg?rlkey=3q3oqhmvswcsq5ly4hfswmwdr&raw=1" group-title="Film India",  Kadak Singh (2023)
