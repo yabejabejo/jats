@@ -365,5 +365,9 @@ rtp://@239.1.1.229:9350
 rtp://@239.1.2.237:9348
 
 === 
+#EXTINF:-1 tvg-logo="" group-title="Movies",  Kungfu Panda 4
+https://www.googleapis.com/drive/v3/files/1xjNgbTLa75p5yQ2Dzbc-qdjp9aaM9iWt?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+
 
 ###
