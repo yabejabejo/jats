@@ -29,20 +29,21 @@ https://www.googleapis.com/drive/v3/files/1FVi0OvoHmo1cSgu56RwNrzasWt9ox5FG?alt=
 https://www.googleapis.com/drive/v3/files/1Lz4UcFaaSU3h90d31iStZjARipwUM56M?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 11
-#https://www.googleapis.com/drive/v3/files/1qZ7nIFRuPNuSOE7Tvh-QeJnmxm9ELbJd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1hlT51dWD0fLbBJAM-pJHxx4C-81JxrBZ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 12
-#https://www.googleapis.com/drive/v3/files/1qZ7nIFRuPNuSOE7Tvh-QeJnmxm9ELbJd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1qoN1qCxuAx-er23-UwLZF0IFYS9iAYhJ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 13
-#https://www.googleapis.com/drive/v3/files/1qZ7nIFRuPNuSOE7Tvh-QeJnmxm9ELbJd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1Ay00X7f0eW-dBrPz0k6LoxHk52oktQ71?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 14
-#https://www.googleapis.com/drive/v3/files/1qZ7nIFRuPNuSOE7Tvh-QeJnmxm9ELbJd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1zKngWnGC8HJTyjTNc5KF23vg3LBor8GF?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 15
-#https://www.googleapis.com/drive/v3/files/1qZ7nIFRuPNuSOE7Tvh-QeJnmxm9ELbJd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1Y2tF4QsrwlkH3s2h6ExGxH4sJLncJz7C?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 16
-#https://www.googleapis.com/drive/v3/files/1qZ7nIFRuPNuSOE7Tvh-QeJnmxm9ELbJd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1gsAsIiBL7239QimP5HX_ue4Bcup-HwVy?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+===
