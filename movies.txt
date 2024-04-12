@@ -111,4 +111,41 @@ https://www.googleapis.com/drive/v3/files/105u0LQH9ezYHVMTPIKK3FG_NbXnA86nR?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 8
 https://www.googleapis.com/drive/v3/files/1plsF8dlPnnLIRv7yhOnw-luMDy7p-ncd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 1
+https://rvVmM6POT8As.enaak-cdn.com/v/01/00462/04irdz8nxxr1_h/D21.FUN-The-Killing-Vote-S01e01-1691812278.mp4?t=frJQkLuCajGx6ws6LN0RwD7JrLDMyaosgH2Mw7ee6U0&s=1712901773&e=129600&f=2311068&sp=400&i=180.252
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 2
+https://www.googleapis.com/drive/v3/files/1nhtDLAFVppjsdoNNMIo_cAcmbqCMzUnn?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 3
+https://www.googleapis.com/drive/v3/files/1qKq0STppZKLu-vE18YPQ0o8jhMF8l_o6?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 4
+https://www.googleapis.com/drive/v3/files/1DxZuLggpO58SN4euQ5D41ONw47iDZ2vJ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 5
+https://www.googleapis.com/drive/v3/files/1HtIDro6qw_FIo6eVsuYKkGAu0nwop0t4?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 6
+https://www.googleapis.com/drive/v3/files/1W5yU1V-fTz09ncq-Gvn6qBjoBOllE4fD?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 7
+https://www.googleapis.com/drive/v3/files/1f6wOJvg7bL7z_XEOnlyeEZfFhvWx8J1C?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 8
+https://www.googleapis.com/drive/v3/files/1QrNkttLpy31T35SBZkQEcuWdwzd83stq?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 9
+https://www.googleapis.com/drive/v3/files/1xiV7FXacBNcVE2PCsgSyG7Jxn-oq3y3-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 10
+https://www.googleapis.com/drive/v3/files/1gnmnDnKARt-YzgnkBHSIc0Massq5Nyn-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 11
+https://www.googleapis.com/drive/v3/files/1Yy_Q5mceolglAKwZBgnKctdpLpf2FaAY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 12
+https://www.googleapis.com/drive/v3/1K5cb9EUmFc93mboFqeEdCDC3KmlLY0jw?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+
 ===
