@@ -15,6 +15,9 @@ https://www.googleapis.com/drive/v3/files/1uc3KvfYER9peMny9iHqx5E6cpZ8gtZiW?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/sez5x393izqrtrgqjced4/Thanksgiving-2023.jpeg?rlkey=wynol8nybjwikf1rekvlcpxsy&raw=1" group-title="Film Barat",  Thanksgiving (2023)
 https://www.googleapis.com/drive/v3/files/1DgHd3bOI0dxRrdNDl1XCDGJtbjSbzpze?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wu8at58ela1cnnfp2dp4f/Nowhere-2023.jpeg?rlkey=dg8qx7vwyjennjs1fnxizd8jg&raw=1" group-title="Film Barat",  Nowhere (2023)
+https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 ===
 
 Film Asia
