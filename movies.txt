@@ -75,5 +75,28 @@ https://www.googleapis.com/drive/v3/files/1Y2tF4QsrwlkH3s2h6ExGxH4sJLncJz7C?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 16
 https://www.googleapis.com/drive/v3/files/1gsAsIiBL7239QimP5HX_ue4Bcup-HwVy?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 1
+https://www.googleapis.com/drive/v3/files/1Q7iai76vBU8q87JE_HylNsbrdaGQ9aF3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 2
+https://www.googleapis.com/drive/v3/files/180-U_vGJ6_EfY-fISQG16gI79uLxGQzX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 3
+https://www.googleapis.com/drive/v3/files/1EPwlDvRtfg5y-RmK8gatHbgJzjUdPmnJ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 4
+https://www.googleapis.com/drive/v3/files/17ePIPTG9yqwdOqaQk57w_2m9jYS3l6Ri?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 5
+https://www.googleapis.com/drive/v3/files/1tAUYis40S1Mmx9KyaLHs424YaYodTPyI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 6
+https://www.googleapis.com/drive/v3/files/1maF4fhbcJEKP0uDRV-M_Rafcng6OFN01?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 7
+https://www.googleapis.com/drive/v3/files/105u0LQH9ezYHVMTPIKK3FG_NbXnA86nR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 8
+https://www.googleapis.com/drive/v3/files/1plsF8dlPnnLIRv7yhOnw-luMDy7p-ncd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 ===
