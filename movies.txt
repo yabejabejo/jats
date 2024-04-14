@@ -187,7 +187,7 @@ https://www.googleapis.com/drive/v3/files/1gnmnDnKARt-YzgnkBHSIc0Massq5Nyn-?alt=
 https://www.googleapis.com/drive/v3/files/1Yy_Q5mceolglAKwZBgnKctdpLpf2FaAY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 12
-https://www.googleapis.com/drive/v3/1K5cb9EUmFc93mboFqeEdCDC3KmlLY0jw?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1K5cb9EUmFc93mboFqeEdCDC3KmlLY0jw?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 
 ===
