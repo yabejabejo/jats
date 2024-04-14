@@ -40,22 +40,22 @@ https://www.googleapis.com/drive/v3/files/1anxd4pAjZTNqGH5ndtL6DMZQQHDThkML?alt=
 Series Korea
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 1
-https://www.googleapis.com/drive/v3/1wbSnuQk1fgVz4271YrtX_F6qaCbARwNY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1wbSnuQk1fgVz4271YrtX_F6qaCbARwNY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 2
-https://www.googleapis.com/drive/v3/1n2BoTf2JDyMlgUBb9Qc8s2F42-mbRu0E?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1n2BoTf2JDyMlgUBb9Qc8s2F42-mbRu0E?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 3
-https://www.googleapis.com/drive/v3/1g5EMkzzFiN1MBY6HGaVoYEJhwzz20Yr8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1g5EMkzzFiN1MBY6HGaVoYEJhwzz20Yr8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 4
-https://www.googleapis.com/drive/v3/1ceZ14HOinGbukiRy9uvobh25FGJnOmUG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1ceZ14HOinGbukiRy9uvobh25FGJnOmUG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 5
-https://www.googleapis.com/drive/v3/1uccl_yIfMJHLOx8LS6YQX36C_F1oFMXb?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1uccl_yIfMJHLOx8LS6YQX36C_F1oFMXb?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 6
-https://www.googleapis.com/drive/v3/12yoWRJprUp73PA9VXVX7hRk6EsFIetFI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/12yoWRJprUp73PA9VXVX7hRk6EsFIetFI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 1
 https://www.googleapis.com/drive/v3/files/1d0rizb3kO3EK8sgVPtHf7DjJCefywnpE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
