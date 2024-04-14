@@ -39,6 +39,30 @@ https://www.googleapis.com/drive/v3/files/1anxd4pAjZTNqGH5ndtL6DMZQQHDThkML?alt=
 
 Series Korea
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 1
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 2
+https://www.googleapis.com/drive/v3/files/1WZnhZPJDe1t-oUYyGxqgYkU0mKOJCuDQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 3
+https://www.googleapis.com/drive/v3/files/19OC3wiyn5MQhCREJ_SPX4lCjNgPUmkEl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 4
+https://www.googleapis.com/drive/v3/files/1Gp16Yo8U-rqmsvc5ygedHTv-L5UskHmn?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 5
+https://www.googleapis.com/drive/v3/files/1pwMGOfMMT0fQN1F30dSRowjhArv6pqRK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 6
+https://www.googleapis.com/drive/v3/files/1JfF8x21FC3vvy1zeBrYo1q1PsG_C9RzT?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 7
+https://www.googleapis.com/drive/v3/files/1mJjXwHxmdl4HgBlTW9X6UH4rNcAd4xXl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 8
+https://www.googleapis.com/drive/v3/files/1F2NqJUrD0gAkBXN5em-tZsFIGNyKDiM7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 1
 https://www.googleapis.com/drive/v3/files/1wbSnuQk1fgVz4271YrtX_F6qaCbARwNY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
