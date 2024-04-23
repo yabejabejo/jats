@@ -42,6 +42,42 @@ https://www.googleapis.com/drive/v3/files/1EGc6lXq8RWJ9njUsgjcS1FvXzKO3JM02?alt=
 
 Series Korea
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 1
+https://www.googleapis.com/drive/v3/files/1SLds4dY0Wv0hVhXlM1ZWbZcUwWuG3Q_b?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 2
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 3
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 4
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 5
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 6
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 7
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 8
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 9
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 10
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 11
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 1
+https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 1
 https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
