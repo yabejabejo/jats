@@ -39,7 +39,7 @@ https://www.googleapis.com/drive/v3/files/1anxd4pAjZTNqGH5ndtL6DMZQQHDThkML?alt=
 https://www.googleapis.com/drive/v3/files/1EGc6lXq8RWJ9njUsgjcS1FvXzKO3JM02?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/d252u8z52z7bx6wc8jqpb/Tiger-3-2023.jpeg?rlkey=2e38y44un0h46d6tuzm6dexju&raw=1" group-title="Film India",  Tiger 3 (2023)
-https://www.googleapis.com/drive/v3/files/1EGc6lXq8RWJ9njUsgjcS1FvXzKO3JM02?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 ===
 
