@@ -335,3 +335,9 @@ rtp://@239.1.1.229:9350
 rtp://@239.1.1.79:8448
 
 ==
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Barat",  Kung Fu Panda 4 (2024)
+https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+
+===
