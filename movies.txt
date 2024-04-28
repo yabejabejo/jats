@@ -22,6 +22,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ahm3zi74huxd9xhzlv11y/Hello-Ghost-2023.jpg?rlkey=s904ax2ryffvh66931inwbz9l&raw=1" group-title="Film Asia",  Hello Ghost (2023)
+https://www.googleapis.com/drive/v3/files/1SCGXJC8LUkWWDs9s7WB-sqyO6w7xOXM3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s1bg2r3r3d38lu9md0huo/Exhuma-2024.jpg?rlkey=od6d0l6doxxkreufzwb3t92lk&raw=1" group-title="Film Asia",  Exhuma (2024)
 https://www.googleapis.com/drive/v3/files/1WJu5UgoqxSNzo21yAXLxdjZXeGapa7CR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
