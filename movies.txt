@@ -22,6 +22,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zt1xxokphk5eigm81tjyn/Godzilla-Minus-One-2023.jpg?rlkey=zn8xk5bbz0xzln9kcrynmtq0t&raw=1" group-title="Film Asia",  Godzilla Minus One (2023)
+https://www.googleapis.com/drive/v3/files/1vZc2PENkdsEkBdDetoIGn8MvnvLv4aCZ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ahm3zi74huxd9xhzlv11y/Hello-Ghost-2023.jpg?rlkey=s904ax2ryffvh66931inwbz9l&raw=1" group-title="Film Asia",  Hello Ghost (2023)
 https://www.googleapis.com/drive/v3/files/1SCGXJC8LUkWWDs9s7WB-sqyO6w7xOXM3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
