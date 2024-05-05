@@ -41,6 +41,9 @@ https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=
 
 Film India
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9ygl511t9s4mi9cxhfa8/Freddy-2022.jpeg?rlkey=ud8yhqaziqwwk1azinqyotf7w&raw=1" group-title="Film India",  Freddy (2022)
+https://www.googleapis.com/drive/v3/files/1wjijgVfpAAPZD8vp4WPYhFDxsSgubgsx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/98cswgq05gm0b5hbqpnpq/Siren-2024.jpeg?rlkey=c4kgh32k9gzeg4v3qqw0920jk&raw=1" group-title="Film India",  Siren (2024)
 https://www.googleapis.com/drive/v3/files/1LL2PR8NtOEzz_myv-dP7lR2JiDm4qfoK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
