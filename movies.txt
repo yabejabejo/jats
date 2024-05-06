@@ -41,6 +41,9 @@ https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=
 
 Film India
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7sdf7dpboxm0tmxyn5xfq/Shaitaan-2024.jpeg?rlkey=0v33kew78wpap25ai26cqxr70&raw=1" group-title="Film India",  Shaitaan (2024)
+https://www.googleapis.com/drive/v3/files/1dzFIblD5P5G5k9z8q3ZTjwyo6uypmRHe?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9ygl511t9s4mi9cxhfa8/Freddy-2022.jpeg?rlkey=ud8yhqaziqwwk1azinqyotf7w&raw=1" group-title="Film India",  Freddy (2022)
 https://www.googleapis.com/drive/v3/files/1wjijgVfpAAPZD8vp4WPYhFDxsSgubgsx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
