@@ -7,7 +7,7 @@ https://www.googleapis.com/drive/v3/files/1bXxyEqDbXU1q8vIcSh1g1GkTGITzzO3R?alt=
 https://www.googleapis.com/drive/v3/files/1sxnzspq90ZsJRj7xRAnOOF5rgMmFZdsT?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7d4stcyajzj0budy3cvpz/The-Skin-I-Live-In-2011.jpeg?rlkey=y51b01va8gc1enkz9garkl61y&raw=1" group-title="Film Barat",  The Skin I Live In (2011)
-https://www.googleapis.com/drive/v3/files/1z-qlQhibkPX2e-FfzQmZX0qvHBhskTHy?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/19QeNXbyILvxJ7RiBUMqsS07QYmrvQnPG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Barat",  Kung Fu Panda 4 (2024)
 https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
