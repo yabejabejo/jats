@@ -1,5 +1,8 @@
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0hfe9m086bfiosbnvb071/Mirage-Durante-la-tormenta-2018.jpeg?rlkey=xkn9a9p4k7fwubli7l88p2oin&raw=1" group-title="Film Barat",  Mirage (Durante la tormenta) (2018)
+https://www.googleapis.com/drive/v3/files/1qg4wRvMQG1A0Fjucd8hRXxGG-oB7AigX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wd1jzyrwv7sep9i6ovc4z/Godzilla-x-Kong-The-New-Empire-2024.jpeg?rlkey=v093faezahildu6nz02cz0wkk&raw=1" group-title="Film Barat",  Godzilla x Kong: The New Empire (2024)
 https://www.googleapis.com/drive/v3/files/1bXxyEqDbXU1q8vIcSh1g1GkTGITzzO3R?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
