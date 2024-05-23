@@ -1,5 +1,8 @@
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/duta97xmt32u9lob9yn6j/The-Chalk-Line-2022.jpeg?rlkey=6q298000wec8b1t3yr09x2cey&raw=1" group-title="Film Barat",  The Chalk Line (2022)
+https://www.googleapis.com/drive/v3/files/1h53GTwEK-IYKw3zeC1yxtBMVRyK0l7JO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0hfe9m086bfiosbnvb071/Mirage-Durante-la-tormenta-2018.jpeg?rlkey=xkn9a9p4k7fwubli7l88p2oin&raw=1" group-title="Film Barat",  Mirage (Durante la tormenta) (2018)
 https://www.googleapis.com/drive/v3/files/1qg4wRvMQG1A0Fjucd8hRXxGG-oB7AigX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
