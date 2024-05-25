@@ -37,6 +37,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/381d16o66ljn5pyiuepk3/Blind-Beul-la-in-deu-2011.jpg?rlkey=zm6gc0jh3750hjs6qm0nww4d5&raw=1" group-title="Film Asia",  Blind (2011)
+https://www.googleapis.com/drive/v3/files/1ISnLyypVWKMIBBXE6aCpahMydeAN59ci?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/9vmwztq2gnt3k2ph6coeg/Midnight-2021.jpeg?rlkey=ksk114p89ljh5t6jk0aae6q63&raw=1" group-title="Film Asia",  Midnight (2021)
 https://www.googleapis.com/drive/v3/files/13jgg5YMzTTXVN62CtRMZJ7T1cVQetIbV?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
