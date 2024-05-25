@@ -37,6 +37,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pa5hb4nrtdom4wali6xr1/I-Want-to-Know-Your-Parents-2022.jpg?rlkey=thxffn6b6iwprhmwsljotc2lk&raw=1" group-title="Film Asia",  I Want to Know Your Parents (2022)
+https://www.googleapis.com/drive/v3/files/1pjfN58oQEKIIzIph762g3xghNGyKplRK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mh43svfk86yofclq30mke/Forgotten-Gi-eok-ui-bam-2017.jpeg?rlkey=0ih4i115k7mn81wmfd7h7755e&raw=1" group-title="Film Asia",  Forgotten (Gi-eok-ui bam) (2017)
 https://www.googleapis.com/drive/v3/files/1Igmm82FCqNPCVy61lCSM7D1rDBQYZxMA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
