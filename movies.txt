@@ -37,6 +37,12 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mh43svfk86yofclq30mke/Forgotten-Gi-eok-ui-bam-2017.jpeg?rlkey=0ih4i115k7mn81wmfd7h7755e&raw=1" group-title="Film Asia",  Forgotten (Gi-eok-ui bam) (2017)
+https://www.googleapis.com/drive/v3/files/1Igmm82FCqNPCVy61lCSM7D1rDBQYZxMA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jpq1t5sxl057oj9gy3clf/Recalled-2021.jpeg?rlkey=9td8kzu2phc7srsmzxxueidph&raw=1" group-title="Film Asia",  Recalled (2021)
+https://www.googleapis.com/drive/v3/files/1OhFIbpsFlXuah5tFLmGsCK3hGU9KxIy3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ekuwn6f020k0mgwgkjph9/Seoul-Vibe-Seoul-Daejakjeon-2022.jpeg?rlkey=pk8viv1mddtztezcvz2ak83f5&raw=1" group-title="Film Asia",  Seoul Vibe (Seoul Daejakjeon) (2022)
 https://www.googleapis.com/drive/v3/files/1jrTZMo1HVW293-sJbyka_4KfkOOV_HAm?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
