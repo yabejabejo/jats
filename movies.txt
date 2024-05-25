@@ -37,6 +37,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0xgi06nxfbtihszhqn8wx/Decision-to-Leave-Heojil-kyolshim-2022.jpeg?rlkey=c7yx1g4c9zn8hanqlcoxxtxgq&raw=1" group-title="Film Asia",  Decision to Leave (Heojil kyolshim) (2022)
+https://www.googleapis.com/drive/v3/files/18WJp1zuVN-LIAm2Im9K0S1D9QgW5kjLM?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zt1xxokphk5eigm81tjyn/Godzilla-Minus-One-2023.jpg?rlkey=zn8xk5bbz0xzln9kcrynmtq0t&raw=1" group-title="Film Asia",  Godzilla Minus One (2023)
 https://www.googleapis.com/drive/v3/files/1vZc2PENkdsEkBdDetoIGn8MvnvLv4aCZ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
