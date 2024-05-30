@@ -1,5 +1,8 @@
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kwwtt63ytjy6v1txy46ml/Atlas-2024.jpg?rlkey=861icb1g8xgxoveyzets7nv73&raw=1" group-title="Film Barat",  Atlas (2024)
+https://www.googleapis.com/drive/v3/files/1-diRGGsdhzSoL469hnmFQVokqd9kl_yS?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/duta97xmt32u9lob9yn6j/The-Chalk-Line-2022.jpeg?rlkey=6q298000wec8b1t3yr09x2cey&raw=1" group-title="Film Barat",  The Chalk Line (2022)
 https://www.googleapis.com/drive/v3/files/1h53GTwEK-IYKw3zeC1yxtBMVRyK0l7JO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
