@@ -40,6 +40,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5pz08dbdy1w6l4lflenhk/Agak-Laen-2024.jpg?rlkey=tt6fd2ux4569hwvcoerx6uqws&raw=1" group-title="Film Asia",  Agak Laen (2024)
+https://www.googleapis.com/drive/v3/files/19uGmX2fb0XHnKDWRVb2WsY9_tVju3GG8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/381d16o66ljn5pyiuepk3/Blind-Beul-la-in-deu-2011.jpg?rlkey=zm6gc0jh3750hjs6qm0nww4d5&raw=1" group-title="Film Asia",  Blind (2011)
 https://www.googleapis.com/drive/v3/files/1ISnLyypVWKMIBBXE6aCpahMydeAN59ci?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
