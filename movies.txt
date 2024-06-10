@@ -40,10 +40,8 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
-
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5b9fk40j4c4zwpoaj3fht/Miss-Granny-Su-sang-han-geu-nyeo-2014.jpg?rlkey=yzzxic4h8jcburdicf6n1gvj4&raw=1" group-title="Film Asia",  Miss Granny (Su-sang-han geu-nyeo) (2014)
-https://www.googleapis.com/drive/v3/files/19uGmX2fb0XHnKDWRVb2WsY9_tVju3GG8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1zyu_7VZ99HYsXQC4yO9LtgYCD_rH6RO3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5pz08dbdy1w6l4lflenhk/Agak-Laen-2024.jpg?rlkey=tt6fd2ux4569hwvcoerx6uqws&raw=1" group-title="Film Asia",  Agak Laen (2024)
 https://www.googleapis.com/drive/v3/files/19uGmX2fb0XHnKDWRVb2WsY9_tVju3GG8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
