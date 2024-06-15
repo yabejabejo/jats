@@ -1,7 +1,5 @@
 # Film Barat
 
-Under Paris (2024)
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fijt5mhuho02ltdbam1bn/Under-Paris-2024.jpeg?rlkey=ymv5vvb8cpkj6706cwuipojdh&raw=1" group-title="Film Barat",  Under Paris (2024)
 https://www.googleapis.com/drive/v3/files/1CBafPCkElRzckpRIew5wtt06vzSH_ryx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
@@ -44,6 +42,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 ===
 
 Film Asia
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/89g4s93awumikacfimbxi/Hovering-Blade-2024.jpg?rlkey=fx8l4eldhmsc8oma44m41om79&raw=1" group-title="Film Asia",  Hovering Blade (2024)
+https://www.googleapis.com/drive/v3/files/1tn3vvCcSyGUjR852Gawe0aD5BDjYMHwB?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5b9fk40j4c4zwpoaj3fht/Miss-Granny-Su-sang-han-geu-nyeo-2014.jpg?rlkey=yzzxic4h8jcburdicf6n1gvj4&raw=1" group-title="Film Asia",  Miss Granny (Su-sang-han geu-nyeo) (2014)
 https://www.googleapis.com/drive/v3/files/1zyu_7VZ99HYsXQC4yO9LtgYCD_rH6RO3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
