@@ -1,5 +1,10 @@
 # Film Barat
 
+Under Paris (2024)
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fijt5mhuho02ltdbam1bn/Under-Paris-2024.jpeg?rlkey=ymv5vvb8cpkj6706cwuipojdh&raw=1" group-title="Film Barat",  Under Paris (2024)
+https://www.googleapis.com/drive/v3/files/1CBafPCkElRzckpRIew5wtt06vzSH_ryx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kwwtt63ytjy6v1txy46ml/Atlas-2024.jpg?rlkey=861icb1g8xgxoveyzets7nv73&raw=1" group-title="Film Barat",  Atlas (2024)
 https://www.googleapis.com/drive/v3/files/1-diRGGsdhzSoL469hnmFQVokqd9kl_yS?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
