@@ -43,6 +43,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/24j1ej47cyho94fyhxevq/Man-in-Love-2021.jpeg?rlkey=zlhvyrjlf3rs7ies9opoqog0f&raw=1" group-title="Film Asia",  Man in Love (2021)
+https://www.googleapis.com/drive/v3/files/1110YW4YM1B8-uY3Eb-tSlEYewTGcxw1f?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b6dqmu19jybarckelkd2y/Mai-2024.jpeg?rlkey=3mkux21kqcnxpel7klu9ukyod&raw=1" group-title="Film Asia",  Mai (2024)
 https://www.googleapis.com/drive/v3/files/1Od-im8qjY3xEBtrM-tbNne29lahdgweB?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
