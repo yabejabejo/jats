@@ -46,6 +46,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mkk1d2nt1ifh29ud28zjz/Gampang-Cuan-2023.jpeg?rlkey=zwcjyfw286irk8uki5bzk4c5t&raw=1" group-title="Film Asia",  Gampang Cuan (2023)
+https://www.googleapis.com/drive/v3/files/1QJBMAgNscj13ZqGkZNGqTBf48H5n95Bc?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/u5365tdqp4blvul072l3h/Mukidi-2024.jpeg?rlkey=flu6dhjtrx5lottkk9ujqescz&raw=1" group-title="Film Asia",  Mukidi (2024)
 https://www.googleapis.com/drive/v3/files/1PtUkPmya56LNGnF1RyreRzzdh1lKDWM8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
