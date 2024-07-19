@@ -47,8 +47,7 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 Film Asia
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5baqnegl5nc3zqacwi0dr/Pasutri-Gaje-2024.jpeg?rlkey=59o8lo21nz3n9g194ff2fjrb3&raw=1" group-title="Film Asia",  Pasutri Gaje (2024)
-https://www.googleapis.com/drive/v3/files/1w8su48yRJZ5V1rPeh-WDH1AlqWSEG8lj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
+https://www.googleapis.com/drive/v3/files//15rMAbZlkLskzUsez6bn_5sDgRAhkTSuE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zo43fe23jix9vbadjju3z/The-Roundup-Punishment-2024.jpeg?rlkey=68rvcfghdfzj2hl3xrzei5kbc&raw=1" group-title="Film Asia",  The Roundup: Punishment (2024)
 https://www.googleapis.com/drive/v3/files/1w8su48yRJZ5V1rPeh-WDH1AlqWSEG8lj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
