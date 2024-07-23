@@ -118,19 +118,19 @@ rtp://@239.1.1.231:8062
 
 #Sport
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/l9402yduf2lifr5/usee.png" group-title="Sport",  Usee Sports HD
-rtp://@239.1.2.203:9180
+#rtp://@239.1.2.203:9180
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bqjfg18vlwyb5aa/usee2.png" group-title="Sport",  Usee Sports 2 HD
-rtp://@239.1.2.205:9186
+#rtp://@239.1.2.205:9186
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rynjc5omt10yw0t/bein1.png" group-title="Sport",  Bein Sport 1 HD
-rtp://@239.1.1.248:9494
+#rtp://@239.1.1.248:9494
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wudopbvlhd088w9/bein3.png" group-title="Sport",  Bein Sport 3 HD
+#rtp://@239.1.1.249:9496
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/smkucnpdyynsyvy/spotv.png" group-title="Sport",  Spo TV HD
+rtp://@239.1.1.248:9494
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7hhiduxwdab7q4m/spotv2.png" group-title="Sport",  Spo TV2 HD
 rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bcsn9y4mdolmcvx/fight.png" group-title="Sport",  Fight Sport HD
 rtp://@239.1.2.209:9196
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/smkucnpdyynsyvy/spotv.png" group-title="Sport",  Spo TV HD
-#rtp://@239.1.1.109:8623
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7hhiduxwdab7q4m/spotv2.png" group-title="Sport",  Spo TV2 HD
-#rtp://@239.1.1.196:9145
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zqxwqwneerrczjll9vzu9/champions-tv.png?rlkey=3yrumxy1fpy4afootyk8mos4s&raw=1" group-title="Sport",  Champions TV 1 HD
 rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yzu2pj46vnatjepvcfc2e/champions-tv2.png?rlkey=r0xzs7z5n7ywzh9aixu7z2r9p&raw=1" group-title="Sport",  Champions TV 2 HD
