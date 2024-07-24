@@ -122,11 +122,8 @@ https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=
 
 Film India
 
-Kill (2024)
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2p3m0rg7fa9naf1gihscq/Kill-2024.jpg?rlkey=lry5w5convvg8w77txbv82qa8&raw=1" group-title="Film India",  Kill (2024)
 https://www.googleapis.com/drive/v3/files/10FdUs6QxO8CbS_AhrQszTj_C0_qW7b3A?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/lskr6kixak1dqywgm681f/Maharaja-2024.jpg?rlkey=ar7t307rgipfumrnbr0o3pj88&raw=1" group-title="Film India",  Maharaja (2024)
 https://www.googleapis.com/drive/v3/files/1z6BILCIBF8fOCpaTJJ8M-jOIS2wvzBoi?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
