@@ -1,5 +1,8 @@
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hs2nhxd6pmvxt9m591nxe/Dead-Sea-2024.jpeg?rlkey=a9z2dj9zhb9hkmqz43mp0edaf&raw=1" group-title="Film Barat",  Dead Sea (2024)
+https://www.googleapis.com/drive/v3/files/1hDVii6pBxx7FyaerudP06EuD4m582nnQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/g4drhm2jsh66n44ijfb1m/The-Strangers-Chapter-1-2024.jpeg?rlkey=yiy82wosb3q06pedu8axendyy&raw=1" group-title="Film Barat",  The Strangers Chapter 1 (2024)
 https://www.googleapis.com/drive/v3/files/1JxQJNyTWj4h81hQhmMLjKqrpDkxLlxx8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
