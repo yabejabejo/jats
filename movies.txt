@@ -1,5 +1,8 @@
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/g4drhm2jsh66n44ijfb1m/The-Strangers-Chapter-1-2024.jpeg?rlkey=yiy82wosb3q06pedu8axendyy&raw=1" group-title="Film Barat",  The Strangers Chapter 1 (2024)
+https://www.googleapis.com/drive/v3/files/1JxQJNyTWj4h81hQhmMLjKqrpDkxLlxx8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ibqs351v5akbn94n4r30t/A-Quiet-Place-Day-One-2024.jpg?rlkey=6v28axx6peqznncryar7cxmop&raw=1" group-title="Film Barat",  A Quiet Place: Day One (2024)
 https://www.googleapis.com/drive/v3/files/1_6afD52MYFds5IpK5Fk4dPeZTzwKD03F?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
