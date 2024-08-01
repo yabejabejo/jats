@@ -1,3 +1,23 @@
+# Film Anak
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jilqcy8dbbrqy79k37zl5/The-Garfield-Movie-2024.jpeg?rlkey=3wbq2up03huced2804ibqa3s3&raw=1" group-title="Film Anak",  The Garfield Movie (2024)
+https://www.googleapis.com/drive/v3/files/1dBIgjs9RdYzsG8yQYPQn8oAIULaia3P8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jh1tlrmiil4hcc5t9xiez/Thelma-the-Unicorn-2024.jpeg?rlkey=jk3ggw2ffzlz9j41vhfn5doep&raw=1" group-title="Film Anak",  Thelma the Unicorn (2024)
+https://www.googleapis.com/drive/v3/files/1v92mYuBwL_AikgkzpngeuogeVxFdjY2U?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/katzzyt59a0lpaw9vaqdt/Space-Kids-2023.jpeg?rlkey=ltj2d5ytx5prbpxx77obayokl&raw=1" group-title="Film Anak",  Space Kids (2023) 
+https://www.googleapis.com/drive/v3/files/1jecEeEwAmAVI_HwNhNtcinrbjAKLVMnY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/r30kywa1dqe4g6dz1p6rz/Migration-2023.jpg?rlkey=v7408w5vhb2wy4aeqo74xgpu5&raw=1" group-title="Film Anak",  Migration (2023) 
+https://www.googleapis.com/drive/v3/files/1iPC0LcK-rI9sFrLIJmUfHZ66T4s1cS82?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kn5h7l729ddssg29nnz9v/Chicken-Run-Dawn-of-the-Nugget-2023.jpeg?rlkey=6odc8hq5rjb5t9t5pjnif9grn&raw=1" group-title="Film Anak",  Chicken Run: Dawn of the Nugget (2023) 
+https://www.googleapis.com/drive/v3/files/1bHtrGR5p3RAJ1cRE013iE93nyc153vWE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Barat",  Kung Fu Panda 4 (2024)
+https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 # Film Barat
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hs2nhxd6pmvxt9m591nxe/Dead-Sea-2024.jpeg?rlkey=a9z2dj9zhb9hkmqz43mp0edaf&raw=1" group-title="Film Barat",  Dead Sea (2024)
@@ -35,9 +55,6 @@ https://www.googleapis.com/drive/v3/files/1sxnzspq90ZsJRj7xRAnOOF5rgMmFZdsT?alt=
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7d4stcyajzj0budy3cvpz/The-Skin-I-Live-In-2011.jpeg?rlkey=y51b01va8gc1enkz9garkl61y&raw=1" group-title="Film Barat",  The Skin I Live In (2011)
 https://www.googleapis.com/drive/v3/files/19QeNXbyILvxJ7RiBUMqsS07QYmrvQnPG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Barat",  Kung Fu Panda 4 (2024)
-https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hz9mlsdikk1bntzewftoo/THE-SUPER-MARIO-BROS.-MOVIE-2023.jpeg?rlkey=bfyefopea85l97lggwx1qnk6i&raw=1" group-title="Film Barat",  THE SUPER MARIO BROS. MOVIE (2023)
 https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
