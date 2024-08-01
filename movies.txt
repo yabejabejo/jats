@@ -15,7 +15,7 @@ https://www.googleapis.com/drive/v3/files/1iPC0LcK-rI9sFrLIJmUfHZ66T4s1cS82?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kn5h7l729ddssg29nnz9v/Chicken-Run-Dawn-of-the-Nugget-2023.jpeg?rlkey=6odc8hq5rjb5t9t5pjnif9grn&raw=1" group-title="Film Anak",  Chicken Run: Dawn of the Nugget (2023) 
 https://www.googleapis.com/drive/v3/files/1bHtrGR5p3RAJ1cRE013iE93nyc153vWE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Barat",  Kung Fu Panda 4 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Anak",  Kungfu Panda 4 (2024)
 https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 # Film Barat
