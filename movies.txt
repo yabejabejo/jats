@@ -1,5 +1,8 @@
 # Film Anak
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/74g93yanv9qhka48c62cn/Dragonkeeper-2024.jpg?rlkey=whsb2bre8ohggv6nlth12s3ad&raw=1" group-title="Film Anak",  Dragonkeeper (2024)
+https://www.googleapis.com/drive/v3/files/1-YdP3hJ5ubX4JfUl-KyNvAJYJ8O3jxDZ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jilqcy8dbbrqy79k37zl5/The-Garfield-Movie-2024.jpeg?rlkey=3wbq2up03huced2804ibqa3s3&raw=1" group-title="Film Anak",  The Garfield Movie (2024)
 https://www.googleapis.com/drive/v3/files/1dBIgjs9RdYzsG8yQYPQn8oAIULaia3P8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
@@ -19,6 +22,9 @@ https://www.googleapis.com/drive/v3/files/1bHtrGR5p3RAJ1cRE013iE93nyc153vWE?alt=
 https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 # Film Barat
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7jo6uqh11g80j5i623tuz/Bad-Boys-Ride-or-Die-2024.jpeg?rlkey=2e5bi3mg5limic6bfjmd8qiay&raw=1" group-title="Film Barat",  Bad Boys: Ride or Die (2024)
+https://www.googleapis.com/drive/v3/files/1gvqYC-Kqrh7WGhbpdTetf7-sWYGvs2GM?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hs2nhxd6pmvxt9m591nxe/Dead-Sea-2024.jpeg?rlkey=a9z2dj9zhb9hkmqz43mp0edaf&raw=1" group-title="Film Barat",  Dead Sea (2024)
 https://www.googleapis.com/drive/v3/files/1hDVii6pBxx7FyaerudP06EuD4m582nnQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
