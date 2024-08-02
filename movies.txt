@@ -21,6 +21,9 @@ https://www.googleapis.com/drive/v3/files/1bHtrGR5p3RAJ1cRE013iE93nyc153vWE?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Anak",  Kungfu Panda 4 (2024)
 https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hz9mlsdikk1bntzewftoo/THE-SUPER-MARIO-BROS.-MOVIE-2023.jpeg?rlkey=bfyefopea85l97lggwx1qnk6i&raw=1" group-title="Film Anak",  THE SUPER MARIO BROS. MOVIE (2023)
+https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 # Film Barat
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7jo6uqh11g80j5i623tuz/Bad-Boys-Ride-or-Die-2024.jpeg?rlkey=2e5bi3mg5limic6bfjmd8qiay&raw=1" group-title="Film Barat",  Bad Boys: Ride or Die (2024)
@@ -61,9 +64,6 @@ https://www.googleapis.com/drive/v3/files/1sxnzspq90ZsJRj7xRAnOOF5rgMmFZdsT?alt=
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7d4stcyajzj0budy3cvpz/The-Skin-I-Live-In-2011.jpeg?rlkey=y51b01va8gc1enkz9garkl61y&raw=1" group-title="Film Barat",  The Skin I Live In (2011)
 https://www.googleapis.com/drive/v3/files/19QeNXbyILvxJ7RiBUMqsS07QYmrvQnPG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hz9mlsdikk1bntzewftoo/THE-SUPER-MARIO-BROS.-MOVIE-2023.jpeg?rlkey=bfyefopea85l97lggwx1qnk6i&raw=1" group-title="Film Barat",  THE SUPER MARIO BROS. MOVIE (2023)
-https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7y43rkun2e4mbiwq8u3ib/THE-BEEKEEPER-2024.jpeg?rlkey=tqyoxn8f19nup2wa3sbdzqg96&raw=1" group-title="Film Barat",  THE BEEKEEPER (2024)
 https://www.googleapis.com/drive/v3/files/1xPhK9Fc-yt5eNp3dtBQXzvncG0K7EdGi?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
