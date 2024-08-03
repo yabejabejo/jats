@@ -26,6 +26,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Deadpool & Wolverine (2024)
+https://www.googleapis.com/drive/v3/files/1MMbABZoYYnT2YHVIzNdUWXNrPSAtHhMX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7jo6uqh11g80j5i623tuz/Bad-Boys-Ride-or-Die-2024.jpeg?rlkey=2e5bi3mg5limic6bfjmd8qiay&raw=1" group-title="Film Barat",  Bad Boys: Ride or Die (2024)
 https://www.googleapis.com/drive/v3/files/1gvqYC-Kqrh7WGhbpdTetf7-sWYGvs2GM?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
