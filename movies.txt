@@ -1,5 +1,8 @@
 # Film Anak
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/y278n0ks4jvw7v7p8rf95/Despicable-Me-4-2024.jpg?rlkey=9tnapvt96sl2drisbr71zv77u&raw=1" group-title="Film Anak",  Despicable Me 4 (2024)
+https://www.googleapis.com/drive/v3/files/1x1RFu8wGOtZt-_0eoXWD5gfjYZBPNe5I?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7itbq8brclly3702oua73/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie-2024.jpg?rlkey=jqa0isga6n02b4mu7uvhrpzko&raw=1" group-title="Film Anak",  Saving Bikini Bottom The Sandy Cheeks Movie (2024)
 https://www.googleapis.com/drive/v3/files/1y8yaXY_XP3coOwsuoApdZg_qRm5YXuzY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
