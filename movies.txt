@@ -90,6 +90,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gf7et5lv1z4bs6gmfxavv/Project-Silence-2024.jpeg?rlkey=0qs3twr8s85hfo9uutz2rlabb&st=sl034stz&raw=1" group-title="Film Asia",  Project Silence (2024)
+https://www.googleapis.com/drive/v3/files/14iiI1bKaF2MfwnVF-Vv9ayZt7CuhSd9H?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/40ygwbxomspm0j7vize7b/Following-2024.jpg?rlkey=b188b8ydwgwqzbewpzmo6ayjz&raw=1" group-title="Film Asia",  Following (2024)
 https://www.googleapis.com/drive/v3/files/19Lxe0OMsD4UP66fOkCaE4HwxRyMgvPMT?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
