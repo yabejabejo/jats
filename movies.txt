@@ -86,7 +86,6 @@ https://www.googleapis.com/drive/v3/files/1DgHd3bOI0dxRrdNDl1XCDGJtbjSbzpze?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wu8at58ela1cnnfp2dp4f/Nowhere-2023.jpeg?rlkey=dg8qx7vwyjennjs1fnxizd8jg&raw=1" group-title="Film Barat",  Nowhere (2023)
 https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-===
 
 #Film Asia
 
@@ -147,7 +146,7 @@ https://www.googleapis.com/drive/v3/files/1EXEHGA_ZwQOTWZ0nF63SeWfFMxh8qsri?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/f2mha6ikh4kl7hf0g8r27/The-Invisible-Guest-2023.jpg?rlkey=dk43ueu05jmqc3w7i4vonklk4&raw=1" group-title="Film Asia",  The Invisible Guest (2023)
 https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-===
+
 #Film Indonesia
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5baqnegl5nc3zqacwi0dr/Pasutri-Gaje-2024.jpeg?rlkey=59o8lo21nz3n9g194ff2fjrb3&raw=1" group-title="Film Indonesia",  Pasutri Gaje (2024)
@@ -168,13 +167,11 @@ https://www.googleapis.com/drive/v3/files/1zA5pvIY7NVE1ZdtNBX9efjedJZST_8DD?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mkk1d2nt1ifh29ud28zjz/Gampang-Cuan-2023.jpeg?rlkey=zwcjyfw286irk8uki5bzk4c5t&raw=1" group-title="Film Indonesia",  Gampang Cuan (2023)
 https://www.googleapis.com/drive/v3/files/1QJBMAgNscj13ZqGkZNGqTBf48H5n95Bc?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-===
 
 #Film India
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/dqiachrdqp3glvac4mn7n/Phir-Aayi-Hasseen-Dillruba-2024.jpg?rlkey=5sqdrnawb9kko7ka650v3373s&st=tn9dy72p&raw=1" group-title="Film India",  Phir Aayi Hasseen Dillruba (2024)
 https://www.googleapis.com/drive/v3/files/1NMa1V_jM9kHvhc0Prs2wfLgV8zE4CaYX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/y219pwsexez5cew5z1r2y/Savi-Tum-hi-ho-2024.jpg?rlkey=salfz8tko422jeokdb4m5pxsg&raw=1" group-title="Film India",  Savi (Tum hi ho) (2024)
 https://www.googleapis.com/drive/v3/files/1K88vej8jtgRehHV-Eq_YM_9-vyRyLxJG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
@@ -215,7 +212,6 @@ https://www.googleapis.com/drive/v3/files/1ccmrhAU1KZqP9AZTqoFfnPb6qPLLZy2r?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/d252u8z52z7bx6wc8jqpb/Tiger-3-2023.jpeg?rlkey=2e38y44un0h46d6tuzm6dexju&raw=1" group-title="Film India",  Tiger 3 (2023)
 https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-===
 
 #Series Korea
 
@@ -424,4 +420,3 @@ https://www.googleapis.com/drive/v3/files/1Yy_Q5mceolglAKwZBgnKctdpLpf2FaAY?alt=
 https://www.googleapis.com/drive/v3/files/1K5cb9EUmFc93mboFqeEdCDC3KmlLY0jw?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 
-===
