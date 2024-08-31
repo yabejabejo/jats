@@ -27,7 +27,7 @@ https://www.googleapis.com/drive/v3/files/1bHtrGR5p3RAJ1cRE013iE93nyc153vWE?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Anak",  Kungfu Panda 4 (2024)
 https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hz9mlsdikk1bntzewftoo/THE-SUPER-MARIO-BROS.-MOVIE-2023.jpeg?rlkey=bfyefopea85l97lggwx1qnk6i&raw=1" group-title="Film Anak",  THE SUPER MARIO BROS. MOVIE (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hz9mlsdikk1bntzewftoo/THE-SUPER-MARIO-BROS.-MOVIE-2023.jpeg?rlkey=bfyefopea85l97lggwx1qnk6i&raw=1" group-title="Film Anak",  The Super Mario Bros Movie (2023)
 https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 # Film Barat
@@ -88,6 +88,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 
 #Film Asia
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gvm77b4w0rf1uvejbb5pv/Drive-2024.jpeg?rlkey=40fxih7rv668dyl36auntq74b&st=yb9ivb5d&raw=1" group-title="Film Asia",  Drive (2024)
+https://www.googleapis.com/drive/v3/files/1WWO1tsSCsU5aH6UJ3KwokekFdoE2nhqe?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gf7et5lv1z4bs6gmfxavv/Project-Silence-2024.jpeg?rlkey=0qs3twr8s85hfo9uutz2rlabb&st=sl034stz&raw=1" group-title="Film Asia",  Project Silence (2024)
 https://www.googleapis.com/drive/v3/files/14iiI1bKaF2MfwnVF-Vv9ayZt7CuhSd9H?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
