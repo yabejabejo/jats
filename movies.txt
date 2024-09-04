@@ -1,5 +1,8 @@
 # Film Anak
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fql78w88i1lhib5df0dsf/Doraemon-The-Movie-Nobita-S-Earth-Symphony-2024.jpg?rlkey=e7svw9kc2zbhzgkgui3mw6nk1&st=i3otjt4i&raw=1" group-title="Film Anak",  Doraemon The Movie: Nobita’S Earth Symphony (2024)
+https://www.googleapis.com/drive/v3/files/1-IsZIo8joiPRuBfFX1MXDW86NUDzEqlr?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/y278n0ks4jvw7v7p8rf95/Despicable-Me-4-2024.jpg?rlkey=9tnapvt96sl2drisbr71zv77u&raw=1" group-title="Film Anak",  Despicable Me 4 (2024)
 https://www.googleapis.com/drive/v3/files/1x1RFu8wGOtZt-_0eoXWD5gfjYZBPNe5I?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
