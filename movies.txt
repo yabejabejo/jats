@@ -35,17 +35,16 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Twisters (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/smsjwbjyrri1qe9u7yj4g/Twisters-2024.jpg?rlkey=5ncxbx4r8ehc7dgscespk9e2y&st=uk9o4wcj&raw=1" group-title="Film Barat",  Twisters (2024)
 https://www.googleapis.com/drive/v3/files/1Huc0zY_2bwfTpMIj3LwLIVO09_pSNHxz?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Furiosa: A Mad Max Saga (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6c74rsckhsz8ccv5nckyc/Furiosa-A-Mad-Max-Saga-2024.jpg?rlkey=icbdbqjg6apn66hzo1peo0gqq&st=6fme0oi5&raw=1" group-title="Film Barat",  Furiosa: A Mad Max Saga (2024)
 https://www.googleapis.com/drive/v3/files/16u72VZA8FlFAoEwSwAIK5eqZ9cLm9X9j?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Civil War (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vyuav1f6dxmy2kjqxfite/Civil-War-2024.jpeg?rlkey=awl51cad83twdfp3j5cttz1vm&st=k0ipwnlq&raw=1" group-title="Film Barat",  Civil War (2024)
 https://www.googleapis.com/drive/v3/files/1OWZWrWGp9TFpg5mi12gw-V2e-Dc7ceT4?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Oppenheimer (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vpl0i63jd1hve65op0jy4/Oppenheimer-2023.jpeg?rlkey=8sdf2fyj1s8tf9xtssx4i78kr&st=dg1z881o&raw=1" group-title="Film Barat",  Oppenheimer (2023)
 https://www.googleapis.com/drive/v3/files/1So_8lhezLzY01raqRthDlzOGQSBHLsCo?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Deadpool & Wolverine (2024)
@@ -101,7 +100,6 @@ https://www.googleapis.com/drive/v3/files/1DgHd3bOI0dxRrdNDl1XCDGJtbjSbzpze?alt=
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wu8at58ela1cnnfp2dp4f/Nowhere-2023.jpeg?rlkey=dg8qx7vwyjennjs1fnxizd8jg&raw=1" group-title="Film Barat",  Nowhere (2023)
 https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 
 #Film Asia
 
@@ -165,7 +163,6 @@ https://www.googleapis.com/drive/v3/files/1EXEHGA_ZwQOTWZ0nF63SeWfFMxh8qsri?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/f2mha6ikh4kl7hf0g8r27/The-Invisible-Guest-2023.jpg?rlkey=dk43ueu05jmqc3w7i4vonklk4&raw=1" group-title="Film Asia",  The Invisible Guest (2023)
 https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-
 #Film Indonesia
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5baqnegl5nc3zqacwi0dr/Pasutri-Gaje-2024.jpeg?rlkey=59o8lo21nz3n9g194ff2fjrb3&raw=1" group-title="Film Indonesia",  Pasutri Gaje (2024)
@@ -185,7 +182,6 @@ https://www.googleapis.com/drive/v3/files/1zA5pvIY7NVE1ZdtNBX9efjedJZST_8DD?alt=
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mkk1d2nt1ifh29ud28zjz/Gampang-Cuan-2023.jpeg?rlkey=zwcjyfw286irk8uki5bzk4c5t&raw=1" group-title="Film Indonesia",  Gampang Cuan (2023)
 https://www.googleapis.com/drive/v3/files/1QJBMAgNscj13ZqGkZNGqTBf48H5n95Bc?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 
 #Film India
 
@@ -230,7 +226,6 @@ https://www.googleapis.com/drive/v3/files/1ccmrhAU1KZqP9AZTqoFfnPb6qPLLZy2r?alt=
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/d252u8z52z7bx6wc8jqpb/Tiger-3-2023.jpeg?rlkey=2e38y44un0h46d6tuzm6dexju&raw=1" group-title="Film India",  Tiger 3 (2023)
 https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 
 #Series Korea
 
