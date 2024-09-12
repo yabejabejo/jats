@@ -35,6 +35,10 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Civil War (2024)
+https://www.googleapis.com/drive/v3/files/1OWZWrWGp9TFpg5mi12gw-V2e-Dc7ceT4?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Oppenheimer (2023)
 https://www.googleapis.com/drive/v3/files/1So_8lhezLzY01raqRthDlzOGQSBHLsCo?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
