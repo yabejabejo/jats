@@ -35,6 +35,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/uvhuzc5teodtn1mzldsqs/Speak-No-Evil-2024.jpeg?rlkey=9o3ndzfama4e71poneab8eets&st=i51akvlm&raw=1" group-title="Film Barat",  Speak No Evil (2024)
+https://www.googleapis.com/drive/v3/files/1WmgzPEgPAXpi7hjF5-8z8mktJ8J3arjU?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/cd1vachc1aznlv7g6l8k0/Blink-Twice-2024.jpg?rlkey=tumlrysv2968czsr2b7zzvn8k&st=entfbzw1&raw=1" group-title="Film Barat",  Blink Twice (2024)
 https://www.googleapis.com/drive/v3/files/1WmgzPEgPAXpi7hjF5-8z8mktJ8J3arjU?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
