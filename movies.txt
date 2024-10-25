@@ -38,6 +38,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/uvhuzc5teodtn1mzldsqs/Speak-No-Evil-2024.jpeg?rlkey=9o3ndzfama4e71poneab8eets&st=i51akvlm&raw=1" group-title="Film Barat",  Transformers One (2024)
+https://www.googleapis.com/drive/v3/files/1RXmg2lkYoZ2oLi5uXQP8-mcDXem9Wb6z?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/uvhuzc5teodtn1mzldsqs/Speak-No-Evil-2024.jpeg?rlkey=9o3ndzfama4e71poneab8eets&st=i51akvlm&raw=1" group-title="Film Barat",  Speak No Evil (2024)
 https://www.googleapis.com/drive/v3/files/14oGieE1Cf0PoyRjAPkzDs-ZMT_bfMAtl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
