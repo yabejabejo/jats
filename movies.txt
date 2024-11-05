@@ -121,6 +121,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 #Film Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/aocx6vxd2p4dw6dl1sxgw/A-Place-Called-Silence-2024.jpg?rlkey=7fdbx77bpqwe1y5hqggp9a6vy&st=71414evc&raw=1" group-title="Film Asia",  A Place Called Silence (2024)
+https://www.googleapis.com/drive/v3/files/12Ga5SrRxFO4FnnQD5upEpvKJdkCvZ8Fg?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qykmewx3situbvjvo5ry4/While-You-Were-Sleeping-2024.jpg?rlkey=kp96bnik23gcc1uileyt59q0k&st=uj9lcuke&raw=1" group-title="Film Asia",  While You Were Sleeping (2024)
 https://www.googleapis.com/drive/v3/files/1n1Hsogb4R0n5QFWC0_st_DjzlqliX0TL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
