@@ -38,6 +38,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w8cp7k02t57axes9tgmqz/Time-Cut-2024.jpeg?rlkey=rtjgobasagyfgqjpegzenmagq&st=rfygrvjm&raw=1" group-title="Film Barat",  Time Cut (2024)
+https://www.googleapis.com/drive/v3/files/1M3zcmgwTqGniHJHTkh18jj18R31b0489?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0ttnpovs5tyv7q8dyt08w/Don-t-Move-2024.jpg?rlkey=dhc79mtz1rzskay53782imnqx&st=mr2hqs76&raw=1" group-title="Film Barat",  Don't Move (2024)
 https://www.googleapis.com/drive/v3/files/1-xgUlnX6rVXNIJ0LYP4F34sktWLuhxHl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
