@@ -198,6 +198,9 @@ https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=
 
 #Film Indonesia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/prax8z1ix9d3reh0mjlor/Janji-Darah-2024.jpeg?rlkey=740l3kjsykhm26adav1s9qzrt&st=27kbubcr&raw=1" group-title="Film Indonesia",  Janji Darah (2024)
+https://www.googleapis.com/drive/v3/files/1moN863EeKFu60igs31bkFXqbQCBtOkxg?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5baqnegl5nc3zqacwi0dr/Pasutri-Gaje-2024.jpeg?rlkey=59o8lo21nz3n9g194ff2fjrb3&raw=1" group-title="Film Indonesia",  Pasutri Gaje (2024)
 https://www.googleapis.com/drive/v3/files/15rMAbZlkLskzUsez6bn_5sDgRAhkTSuE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
