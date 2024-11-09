@@ -38,6 +38,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vpato465ahmyub4ibm7i6/Trap-2024.jpeg?rlkey=ev2inq6ym1y6ef8qsgu9a7smw&st=nqv5u7xk&raw=1" group-title="Film Barat",  Trap (2024)
+https://www.googleapis.com/drive/v3/files/1wCA9avaCJGi7018KSegE0RkWpfn8QBdL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/9h66h6ip9rww7hokcv3pg/It-Ends-with-Us-2024.jpeg?rlkey=0bnsquusg7h8bqlpdc32v815t&st=ob2sms1x&raw=1" group-title="Film Barat",  It Ends with Us (2024)
 https://www.googleapis.com/drive/v3/files/1KGHCb6UaggoxSUC76w8HJ2XhQkmNeUWk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
