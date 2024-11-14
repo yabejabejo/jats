@@ -38,6 +38,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/n3bc5hunvjp3lx36q5x0f/Your-Monster-2024.jpeg?rlkey=6q3t9qh91nlo0rxlae1hc5pol&st=fn4f9op3&raw=1" group-title="Film Barat",  Your Monster (2024)
+https://www.googleapis.com/drive/v3/files/1gowEYHXfdvMO_AwD3MOmWrAo7P6QXbxA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vpato465ahmyub4ibm7i6/Trap-2024.jpeg?rlkey=ev2inq6ym1y6ef8qsgu9a7smw&st=nqv5u7xk&raw=1" group-title="Film Barat",  Trap (2024)
 https://www.googleapis.com/drive/v3/files/1wCA9avaCJGi7018KSegE0RkWpfn8QBdL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
