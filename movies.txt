@@ -38,6 +38,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s3jjeeur76eukymxu245j/John-and-the-Hole-2021.jpeg?rlkey=j2ws61pn1hf8abyktt4bkt6qk&st=8yzxi2ip&raw=1" group-title="Film Barat",  John and the Hole (2021)
+https://www.googleapis.com/drive/v3/files/1z9Bjm7ewe59V9Jh8ATLs8ySfh57ypS5W?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/n3bc5hunvjp3lx36q5x0f/Your-Monster-2024.jpeg?rlkey=6q3t9qh91nlo0rxlae1hc5pol&st=fn4f9op3&raw=1" group-title="Film Barat",  Your Monster (2024)
 https://www.googleapis.com/drive/v3/files/1gowEYHXfdvMO_AwD3MOmWrAo7P6QXbxA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
