@@ -38,6 +38,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ao2z26h40afwfefvkvad5/We-Live-in-Time-2024.jpeg?rlkey=xjwjz4z0s4bdpwhv59einq0dc&st=uzv6qwlm&raw=1" group-title="Film Barat",  We Live in Time (2024)
+https://www.googleapis.com/drive/v3/files/1VvTJRbGrK3Isa7USIAjqO4pLvjzd1hHl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s3jjeeur76eukymxu245j/John-and-the-Hole-2021.jpeg?rlkey=j2ws61pn1hf8abyktt4bkt6qk&st=8yzxi2ip&raw=1" group-title="Film Barat",  John and the Hole (2021)
 https://www.googleapis.com/drive/v3/files/1z9Bjm7ewe59V9Jh8ATLs8ySfh57ypS5W?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
