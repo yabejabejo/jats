@@ -289,9 +289,17 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Series Korea
 
-
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/1hfP8ei6BLKCJS6cDx2kc_tBE3CH3z5_Y?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 2 (2024)
+https://www.googleapis.com/drive/v3/files/1ALfOLJjCFNHbtn4cgIvFIXleSGCM7dhg?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 3 (2024)
+https://www.googleapis.com/drive/v3/files/13GrDLTlHBFZAKVjtF4KhSeu1rQuY_RVO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 4 (2024)
+https://www.googleapis.com/drive/v3/files/1YH0dP5buZVVRfm8aAjQ1FoMLF5tMsqGj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Series Korea",  Bargain (2023) EP 1
 https://www.googleapis.com/drive/v3/files/1nx2ze4s3i8w6nWNExGQgp3DX0gcmQs60?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
