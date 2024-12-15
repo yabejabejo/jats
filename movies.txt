@@ -38,6 +38,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # Film Barat
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6zd2fn175y3zm8vvh5ssj/Carry-On-2024.jpeg?rlkey=fpu1cz5srv7hkkm7coth9rz7s&st=pjcdzhtq&raw=1" group-title="Film Barat",  Carry On (2024)
+https://www.googleapis.com/drive/v3/files/1Rwn_DugEmT3EJwXFveNIvuHfENeaofBd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ao2z26h40afwfefvkvad5/We-Live-in-Time-2024.jpeg?rlkey=xjwjz4z0s4bdpwhv59einq0dc&st=uzv6qwlm&raw=1" group-title="Film Barat",  We Live in Time (2024)
 https://www.googleapis.com/drive/v3/files/1VvTJRbGrK3Isa7USIAjqO4pLvjzd1hHl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
