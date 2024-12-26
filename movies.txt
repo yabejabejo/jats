@@ -307,6 +307,18 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/1sCrfYO7d3zDEm_607rfAhG24ELlq52ip?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 2 (2024)
+https://www.googleapis.com/drive/v3/files/1chG2oIxJTJYMt-3u1UJYeyV1ADjZDwdI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 3 (2024)
+https://www.googleapis.com/drive/v3/files/18iTYHVEsqy9Qi6Cj4u-L-f3jdjhhxfM1?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 4 (2024)
+https://www.googleapis.com/drive/v3/files/1nxB9VmDH5371jq9F1sLKOGe9qrdpEMo3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 5 (2024)
+https://www.googleapis.com/drive/v3/files/16ZKRep6jWUUG2ZgvIMCuD0MoAXPcjpmF?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/1hfP8ei6BLKCJS6cDx2kc_tBE3CH3z5_Y?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
