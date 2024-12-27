@@ -1,556 +1,555 @@
-# Film Anak
+# Kids
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/eakfs74qhjoiiz0wwe7vz/The-Wild-Robot-2024.jpeg?rlkey=ntqpxml3unhvylmvkpmsyltku&st=vgyyyh87&raw=1" group-title="Film Anak",  The Wild Robot (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/eakfs74qhjoiiz0wwe7vz/The-Wild-Robot-2024.jpeg?rlkey=ntqpxml3unhvylmvkpmsyltku&st=vgyyyh87&raw=1" group-title="Kids",  The Wild Robot (2024)
 https://www.googleapis.com/drive/v3/files/19RvQjy8v-aynXsEjxUrO6ZQeUQslTOGC?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fql78w88i1lhib5df0dsf/Doraemon-The-Movie-Nobita-S-Earth-Symphony-2024.jpg?rlkey=e7svw9kc2zbhzgkgui3mw6nk1&st=i3otjt4i&raw=1" group-title="Film Anak",  Doraemon The Movie: Nobita’S Earth Symphony (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fql78w88i1lhib5df0dsf/Doraemon-The-Movie-Nobita-S-Earth-Symphony-2024.jpg?rlkey=e7svw9kc2zbhzgkgui3mw6nk1&st=i3otjt4i&raw=1" group-title="Kids",  Doraemon The Movie: Nobita’S Earth Symphony (2024)
 https://www.googleapis.com/drive/v3/files/1-IsZIo8joiPRuBfFX1MXDW86NUDzEqlr?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/y278n0ks4jvw7v7p8rf95/Despicable-Me-4-2024.jpg?rlkey=9tnapvt96sl2drisbr71zv77u&raw=1" group-title="Film Anak",  Despicable Me 4 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/y278n0ks4jvw7v7p8rf95/Despicable-Me-4-2024.jpg?rlkey=9tnapvt96sl2drisbr71zv77u&raw=1" group-title="Kids",  Despicable Me 4 (2024)
 https://www.googleapis.com/drive/v3/files/1x1RFu8wGOtZt-_0eoXWD5gfjYZBPNe5I?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7itbq8brclly3702oua73/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie-2024.jpg?rlkey=jqa0isga6n02b4mu7uvhrpzko&raw=1" group-title="Film Anak",  Saving Bikini Bottom The Sandy Cheeks Movie (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7itbq8brclly3702oua73/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie-2024.jpg?rlkey=jqa0isga6n02b4mu7uvhrpzko&raw=1" group-title="Kids",  Saving Bikini Bottom The Sandy Cheeks Movie (2024)
 https://www.googleapis.com/drive/v3/files/1y8yaXY_XP3coOwsuoApdZg_qRm5YXuzY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/74g93yanv9qhka48c62cn/Dragonkeeper-2024.jpg?rlkey=whsb2bre8ohggv6nlth12s3ad&raw=1" group-title="Film Anak",  Dragonkeeper (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/74g93yanv9qhka48c62cn/Dragonkeeper-2024.jpg?rlkey=whsb2bre8ohggv6nlth12s3ad&raw=1" group-title="Kids",  Dragonkeeper (2024)
 https://www.googleapis.com/drive/v3/files/1-YdP3hJ5ubX4JfUl-KyNvAJYJ8O3jxDZ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jilqcy8dbbrqy79k37zl5/The-Garfield-Movie-2024.jpeg?rlkey=3wbq2up03huced2804ibqa3s3&raw=1" group-title="Film Anak",  The Garfield Movie (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jilqcy8dbbrqy79k37zl5/The-Garfield-Movie-2024.jpeg?rlkey=3wbq2up03huced2804ibqa3s3&raw=1" group-title="Kids",  The Garfield Movie (2024)
 https://www.googleapis.com/drive/v3/files/1dBIgjs9RdYzsG8yQYPQn8oAIULaia3P8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jh1tlrmiil4hcc5t9xiez/Thelma-the-Unicorn-2024.jpeg?rlkey=jk3ggw2ffzlz9j41vhfn5doep&raw=1" group-title="Film Anak",  Thelma the Unicorn (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jh1tlrmiil4hcc5t9xiez/Thelma-the-Unicorn-2024.jpeg?rlkey=jk3ggw2ffzlz9j41vhfn5doep&raw=1" group-title="Kids",  Thelma the Unicorn (2024)
 https://www.googleapis.com/drive/v3/files/1v92mYuBwL_AikgkzpngeuogeVxFdjY2U?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/katzzyt59a0lpaw9vaqdt/Space-Kids-2023.jpeg?rlkey=ltj2d5ytx5prbpxx77obayokl&raw=1" group-title="Film Anak",  Space Kids (2023) 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/katzzyt59a0lpaw9vaqdt/Space-Kids-2023.jpeg?rlkey=ltj2d5ytx5prbpxx77obayokl&raw=1" group-title="Kids",  Space Kids (2023) 
 https://www.googleapis.com/drive/v3/files/1jecEeEwAmAVI_HwNhNtcinrbjAKLVMnY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/r30kywa1dqe4g6dz1p6rz/Migration-2023.jpg?rlkey=v7408w5vhb2wy4aeqo74xgpu5&raw=1" group-title="Film Anak",  Migration (2023) 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/r30kywa1dqe4g6dz1p6rz/Migration-2023.jpg?rlkey=v7408w5vhb2wy4aeqo74xgpu5&raw=1" group-title="Kids",  Migration (2023) 
 https://www.googleapis.com/drive/v3/files/1iPC0LcK-rI9sFrLIJmUfHZ66T4s1cS82?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kn5h7l729ddssg29nnz9v/Chicken-Run-Dawn-of-the-Nugget-2023.jpeg?rlkey=6odc8hq5rjb5t9t5pjnif9grn&raw=1" group-title="Film Anak",  Chicken Run: Dawn of the Nugget (2023) 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kn5h7l729ddssg29nnz9v/Chicken-Run-Dawn-of-the-Nugget-2023.jpeg?rlkey=6odc8hq5rjb5t9t5pjnif9grn&raw=1" group-title="Kids",  Chicken Run: Dawn of the Nugget (2023) 
 https://www.googleapis.com/drive/v3/files/1bHtrGR5p3RAJ1cRE013iE93nyc153vWE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Film Anak",  Kungfu Panda 4 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0yzf37i09dtpmo4y492bj/Kung-Fu-Panda-4-2024.jpeg?rlkey=rv1p5hxga5bghkugusnra0vol&raw=1" group-title="Kids",  Kungfu Panda 4 (2024)
 https://www.googleapis.com/drive/v3/files/19dkwqwDG4yyndbHana163wx0mySCCFu3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hz9mlsdikk1bntzewftoo/THE-SUPER-MARIO-BROS.-MOVIE-2023.jpeg?rlkey=bfyefopea85l97lggwx1qnk6i&raw=1" group-title="Film Anak",  The Super Mario Bros Movie (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hz9mlsdikk1bntzewftoo/THE-SUPER-MARIO-BROS.-MOVIE-2023.jpeg?rlkey=bfyefopea85l97lggwx1qnk6i&raw=1" group-title="Kids",  The Super Mario Bros Movie (2023)
 https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-# Film Barat
+# West
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6zd2fn175y3zm8vvh5ssj/Carry-On-2024.jpeg?rlkey=fpu1cz5srv7hkkm7coth9rz7s&st=pjcdzhtq&raw=1" group-title="Film Barat",  Carry On (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6zd2fn175y3zm8vvh5ssj/Carry-On-2024.jpeg?rlkey=fpu1cz5srv7hkkm7coth9rz7s&st=pjcdzhtq&raw=1" group-title="West",  Carry On (2024)
 https://www.googleapis.com/drive/v3/files/1Rwn_DugEmT3EJwXFveNIvuHfENeaofBd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ao2z26h40afwfefvkvad5/We-Live-in-Time-2024.jpeg?rlkey=xjwjz4z0s4bdpwhv59einq0dc&st=uzv6qwlm&raw=1" group-title="Film Barat",  We Live in Time (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ao2z26h40afwfefvkvad5/We-Live-in-Time-2024.jpeg?rlkey=xjwjz4z0s4bdpwhv59einq0dc&st=uzv6qwlm&raw=1" group-title="West",  We Live in Time (2024)
 https://www.googleapis.com/drive/v3/files/1VvTJRbGrK3Isa7USIAjqO4pLvjzd1hHl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s3jjeeur76eukymxu245j/John-and-the-Hole-2021.jpeg?rlkey=j2ws61pn1hf8abyktt4bkt6qk&st=8yzxi2ip&raw=1" group-title="Film Barat",  John and the Hole (2021)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s3jjeeur76eukymxu245j/John-and-the-Hole-2021.jpeg?rlkey=j2ws61pn1hf8abyktt4bkt6qk&st=8yzxi2ip&raw=1" group-title="West",  John and the Hole (2021)
 https://www.googleapis.com/drive/v3/files/1z9Bjm7ewe59V9Jh8ATLs8ySfh57ypS5W?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/n3bc5hunvjp3lx36q5x0f/Your-Monster-2024.jpeg?rlkey=6q3t9qh91nlo0rxlae1hc5pol&st=fn4f9op3&raw=1" group-title="Film Barat",  Your Monster (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/n3bc5hunvjp3lx36q5x0f/Your-Monster-2024.jpeg?rlkey=6q3t9qh91nlo0rxlae1hc5pol&st=fn4f9op3&raw=1" group-title="West",  Your Monster (2024)
 https://www.googleapis.com/drive/v3/files/1gowEYHXfdvMO_AwD3MOmWrAo7P6QXbxA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vpato465ahmyub4ibm7i6/Trap-2024.jpeg?rlkey=ev2inq6ym1y6ef8qsgu9a7smw&st=nqv5u7xk&raw=1" group-title="Film Barat",  Trap (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vpato465ahmyub4ibm7i6/Trap-2024.jpeg?rlkey=ev2inq6ym1y6ef8qsgu9a7smw&st=nqv5u7xk&raw=1" group-title="West",  Trap (2024)
 https://www.googleapis.com/drive/v3/files/1wCA9avaCJGi7018KSegE0RkWpfn8QBdL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/9h66h6ip9rww7hokcv3pg/It-Ends-with-Us-2024.jpeg?rlkey=0bnsquusg7h8bqlpdc32v815t&st=ob2sms1x&raw=1" group-title="Film Barat",  It Ends with Us (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/9h66h6ip9rww7hokcv3pg/It-Ends-with-Us-2024.jpeg?rlkey=0bnsquusg7h8bqlpdc32v815t&st=ob2sms1x&raw=1" group-title="West",  It Ends with Us (2024)
 https://www.googleapis.com/drive/v3/files/1KGHCb6UaggoxSUC76w8HJ2XhQkmNeUWk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w8cp7k02t57axes9tgmqz/Time-Cut-2024.jpeg?rlkey=rtjgobasagyfgqjpegzenmagq&st=rfygrvjm&raw=1" group-title="Film Barat",  Time Cut (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w8cp7k02t57axes9tgmqz/Time-Cut-2024.jpeg?rlkey=rtjgobasagyfgqjpegzenmagq&st=rfygrvjm&raw=1" group-title="West",  Time Cut (2024)
 https://www.googleapis.com/drive/v3/files/1M3zcmgwTqGniHJHTkh18jj18R31b0489?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0ttnpovs5tyv7q8dyt08w/Don-t-Move-2024.jpg?rlkey=dhc79mtz1rzskay53782imnqx&st=mr2hqs76&raw=1" group-title="Film Barat",  Don't Move (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0ttnpovs5tyv7q8dyt08w/Don-t-Move-2024.jpg?rlkey=dhc79mtz1rzskay53782imnqx&st=mr2hqs76&raw=1" group-title="West",  Don't Move (2024)
 https://www.googleapis.com/drive/v3/files/1-xgUlnX6rVXNIJ0LYP4F34sktWLuhxHl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/455hzrv2k86wy2sxythhf/The-Substance-2024.jpeg?rlkey=nt2bviumc4j6nbkewm4hnakhn&st=w2yn6854&raw=1" group-title="Film Barat",  The Substance (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/455hzrv2k86wy2sxythhf/The-Substance-2024.jpeg?rlkey=nt2bviumc4j6nbkewm4hnakhn&st=w2yn6854&raw=1" group-title="West",  The Substance (2024)
 https://www.googleapis.com/drive/v3/files/1_pAp8gW9oxZSG2FfzneRLRvOfKhRQCQY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/idwb1odqaj36f6vyi5udz/Transformers-One-2024.jpeg?rlkey=rotlftz6vo2iw2v2zlcic5gvl&st=j2u1anxm&raw=1" group-title="Film Barat",  Transformers One (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/idwb1odqaj36f6vyi5udz/Transformers-One-2024.jpeg?rlkey=rotlftz6vo2iw2v2zlcic5gvl&st=j2u1anxm&raw=1" group-title="West",  Transformers One (2024)
 https://www.googleapis.com/drive/v3/files/1RXmg2lkYoZ2oLi5uXQP8-mcDXem9Wb6z?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/uvhuzc5teodtn1mzldsqs/Speak-No-Evil-2024.jpeg?rlkey=9o3ndzfama4e71poneab8eets&st=i51akvlm&raw=1" group-title="Film Barat",  Speak No Evil (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/uvhuzc5teodtn1mzldsqs/Speak-No-Evil-2024.jpeg?rlkey=9o3ndzfama4e71poneab8eets&st=i51akvlm&raw=1" group-title="West",  Speak No Evil (2024)
 https://www.googleapis.com/drive/v3/files/14oGieE1Cf0PoyRjAPkzDs-ZMT_bfMAtl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/cd1vachc1aznlv7g6l8k0/Blink-Twice-2024.jpg?rlkey=tumlrysv2968czsr2b7zzvn8k&st=entfbzw1&raw=1" group-title="Film Barat",  Blink Twice (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/cd1vachc1aznlv7g6l8k0/Blink-Twice-2024.jpg?rlkey=tumlrysv2968czsr2b7zzvn8k&st=entfbzw1&raw=1" group-title="West",  Blink Twice (2024)
 https://www.googleapis.com/drive/v3/files/1WmgzPEgPAXpi7hjF5-8z8mktJ8J3arjU?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/smsjwbjyrri1qe9u7yj4g/Twisters-2024.jpg?rlkey=5ncxbx4r8ehc7dgscespk9e2y&st=uk9o4wcj&raw=1" group-title="Film Barat",  Twisters (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/smsjwbjyrri1qe9u7yj4g/Twisters-2024.jpg?rlkey=5ncxbx4r8ehc7dgscespk9e2y&st=uk9o4wcj&raw=1" group-title="West",  Twisters (2024)
 https://www.googleapis.com/drive/v3/files/1Huc0zY_2bwfTpMIj3LwLIVO09_pSNHxz?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6c74rsckhsz8ccv5nckyc/Furiosa-A-Mad-Max-Saga-2024.jpg?rlkey=icbdbqjg6apn66hzo1peo0gqq&st=6fme0oi5&raw=1" group-title="Film Barat",  Furiosa: A Mad Max Saga (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6c74rsckhsz8ccv5nckyc/Furiosa-A-Mad-Max-Saga-2024.jpg?rlkey=icbdbqjg6apn66hzo1peo0gqq&st=6fme0oi5&raw=1" group-title="West",  Furiosa: A Mad Max Saga (2024)
 https://www.googleapis.com/drive/v3/files/16u72VZA8FlFAoEwSwAIK5eqZ9cLm9X9j?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vyuav1f6dxmy2kjqxfite/Civil-War-2024.jpeg?rlkey=awl51cad83twdfp3j5cttz1vm&st=k0ipwnlq&raw=1" group-title="Film Barat",  Civil War (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vyuav1f6dxmy2kjqxfite/Civil-War-2024.jpeg?rlkey=awl51cad83twdfp3j5cttz1vm&st=k0ipwnlq&raw=1" group-title="West",  Civil War (2024)
 https://www.googleapis.com/drive/v3/files/1OWZWrWGp9TFpg5mi12gw-V2e-Dc7ceT4?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vpl0i63jd1hve65op0jy4/Oppenheimer-2023.jpeg?rlkey=8sdf2fyj1s8tf9xtssx4i78kr&st=dg1z881o&raw=1" group-title="Film Barat",  Oppenheimer (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vpl0i63jd1hve65op0jy4/Oppenheimer-2023.jpeg?rlkey=8sdf2fyj1s8tf9xtssx4i78kr&st=dg1z881o&raw=1" group-title="West",  Oppenheimer (2023)
 https://www.googleapis.com/drive/v3/files/1So_8lhezLzY01raqRthDlzOGQSBHLsCo?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="Film Barat",  Deadpool & Wolverine (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/krx9ws45ythzqldhe7710/Deadpool-Wolverine-2024.jpeg?rlkey=403y06a31mvp1bnaam7u7va1i&raw=1" group-title="West",  Deadpool & Wolverine (2024)
 https://www.googleapis.com/drive/v3/files/1MMbABZoYYnT2YHVIzNdUWXNrPSAtHhMX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7jo6uqh11g80j5i623tuz/Bad-Boys-Ride-or-Die-2024.jpeg?rlkey=2e5bi3mg5limic6bfjmd8qiay&raw=1" group-title="Film Barat",  Bad Boys: Ride or Die (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7jo6uqh11g80j5i623tuz/Bad-Boys-Ride-or-Die-2024.jpeg?rlkey=2e5bi3mg5limic6bfjmd8qiay&raw=1" group-title="West",  Bad Boys: Ride or Die (2024)
 https://www.googleapis.com/drive/v3/files/1gvqYC-Kqrh7WGhbpdTetf7-sWYGvs2GM?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hs2nhxd6pmvxt9m591nxe/Dead-Sea-2024.jpeg?rlkey=a9z2dj9zhb9hkmqz43mp0edaf&raw=1" group-title="Film Barat",  Dead Sea (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hs2nhxd6pmvxt9m591nxe/Dead-Sea-2024.jpeg?rlkey=a9z2dj9zhb9hkmqz43mp0edaf&raw=1" group-title="West",  Dead Sea (2024)
 https://www.googleapis.com/drive/v3/files/1hDVii6pBxx7FyaerudP06EuD4m582nnQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/g4drhm2jsh66n44ijfb1m/The-Strangers-Chapter-1-2024.jpeg?rlkey=yiy82wosb3q06pedu8axendyy&raw=1" group-title="Film Barat",  The Strangers Chapter 1 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/g4drhm2jsh66n44ijfb1m/The-Strangers-Chapter-1-2024.jpeg?rlkey=yiy82wosb3q06pedu8axendyy&raw=1" group-title="West",  The Strangers Chapter 1 (2024)
 https://www.googleapis.com/drive/v3/files/1JxQJNyTWj4h81hQhmMLjKqrpDkxLlxx8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ibqs351v5akbn94n4r30t/A-Quiet-Place-Day-One-2024.jpg?rlkey=6v28axx6peqznncryar7cxmop&raw=1" group-title="Film Barat",  A Quiet Place: Day One (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ibqs351v5akbn94n4r30t/A-Quiet-Place-Day-One-2024.jpg?rlkey=6v28axx6peqznncryar7cxmop&raw=1" group-title="West",  A Quiet Place: Day One (2024)
 https://www.googleapis.com/drive/v3/files/1_6afD52MYFds5IpK5Fk4dPeZTzwKD03F?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ye7a3d9smzdzyqmbbfgs2/The-Fall-Guy-2024.jpg?rlkey=avh8dpx3qlgxaf7dstisyq1ad&raw=1" group-title="Film Barat",  The Fall Guy (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ye7a3d9smzdzyqmbbfgs2/The-Fall-Guy-2024.jpg?rlkey=avh8dpx3qlgxaf7dstisyq1ad&raw=1" group-title="West",  The Fall Guy (2024)
 https://www.googleapis.com/drive/v3/files/1NJ_nrk40kUMW8OMiQZJVoFU7pqum2H3t?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/t2k5ej9fm8prf66yl22l0/No-Way-Up-2024.jpeg?rlkey=ddu2o9tbii128x7z7mjbej72j&raw=1" group-title="Film Barat",  No Way Up (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/t2k5ej9fm8prf66yl22l0/No-Way-Up-2024.jpeg?rlkey=ddu2o9tbii128x7z7mjbej72j&raw=1" group-title="West",  No Way Up (2024)
 https://www.googleapis.com/drive/v3/files/1_Zug-TYIveBuisaHNsKe4xKTD2fGbhVa?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fijt5mhuho02ltdbam1bn/Under-Paris-2024.jpeg?rlkey=ymv5vvb8cpkj6706cwuipojdh&raw=1" group-title="Film Barat",  Under Paris (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fijt5mhuho02ltdbam1bn/Under-Paris-2024.jpeg?rlkey=ymv5vvb8cpkj6706cwuipojdh&raw=1" group-title="West",  Under Paris (2024)
 https://www.googleapis.com/drive/v3/files/1CBafPCkElRzckpRIew5wtt06vzSH_ryx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kwwtt63ytjy6v1txy46ml/Atlas-2024.jpg?rlkey=861icb1g8xgxoveyzets7nv73&raw=1" group-title="Film Barat",  Atlas (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kwwtt63ytjy6v1txy46ml/Atlas-2024.jpg?rlkey=861icb1g8xgxoveyzets7nv73&raw=1" group-title="West",  Atlas (2024)
 https://www.googleapis.com/drive/v3/files/1-diRGGsdhzSoL469hnmFQVokqd9kl_yS?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/duta97xmt32u9lob9yn6j/The-Chalk-Line-2022.jpeg?rlkey=6q298000wec8b1t3yr09x2cey&raw=1" group-title="Film Barat",  The Chalk Line (2022)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/duta97xmt32u9lob9yn6j/The-Chalk-Line-2022.jpeg?rlkey=6q298000wec8b1t3yr09x2cey&raw=1" group-title="West",  The Chalk Line (2022)
 https://www.googleapis.com/drive/v3/files/1h53GTwEK-IYKw3zeC1yxtBMVRyK0l7JO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0hfe9m086bfiosbnvb071/Mirage-Durante-la-tormenta-2018.jpeg?rlkey=xkn9a9p4k7fwubli7l88p2oin&raw=1" group-title="Film Barat",  Mirage (Durante la tormenta) (2018)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0hfe9m086bfiosbnvb071/Mirage-Durante-la-tormenta-2018.jpeg?rlkey=xkn9a9p4k7fwubli7l88p2oin&raw=1" group-title="West",  Mirage (Durante la tormenta) (2018)
 https://www.googleapis.com/drive/v3/files/1qg4wRvMQG1A0Fjucd8hRXxGG-oB7AigX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wd1jzyrwv7sep9i6ovc4z/Godzilla-x-Kong-The-New-Empire-2024.jpeg?rlkey=v093faezahildu6nz02cz0wkk&raw=1" group-title="Film Barat",  Godzilla x Kong: The New Empire (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wd1jzyrwv7sep9i6ovc4z/Godzilla-x-Kong-The-New-Empire-2024.jpeg?rlkey=v093faezahildu6nz02cz0wkk&raw=1" group-title="West",  Godzilla x Kong: The New Empire (2024)
 https://www.googleapis.com/drive/v3/files/1bXxyEqDbXU1q8vIcSh1g1GkTGITzzO3R?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/8iz83a4mwln0kz2u8bhok/Abigail-2024.jpeg?rlkey=0xpgzvlot5qt19u377e4e2iae&raw=1" group-title="Film Barat",  Abigail (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/8iz83a4mwln0kz2u8bhok/Abigail-2024.jpeg?rlkey=0xpgzvlot5qt19u377e4e2iae&raw=1" group-title="West",  Abigail (2024)
 https://www.googleapis.com/drive/v3/files/1sxnzspq90ZsJRj7xRAnOOF5rgMmFZdsT?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7d4stcyajzj0budy3cvpz/The-Skin-I-Live-In-2011.jpeg?rlkey=y51b01va8gc1enkz9garkl61y&raw=1" group-title="Film Barat",  The Skin I Live In (2011)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7d4stcyajzj0budy3cvpz/The-Skin-I-Live-In-2011.jpeg?rlkey=y51b01va8gc1enkz9garkl61y&raw=1" group-title="West",  The Skin I Live In (2011)
 https://www.googleapis.com/drive/v3/files/19QeNXbyILvxJ7RiBUMqsS07QYmrvQnPG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7y43rkun2e4mbiwq8u3ib/THE-BEEKEEPER-2024.jpeg?rlkey=tqyoxn8f19nup2wa3sbdzqg96&raw=1" group-title="Film Barat",  The Beekeeper (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7y43rkun2e4mbiwq8u3ib/THE-BEEKEEPER-2024.jpeg?rlkey=tqyoxn8f19nup2wa3sbdzqg96&raw=1" group-title="West",  The Beekeeper (2024)
 https://www.googleapis.com/drive/v3/files/1xPhK9Fc-yt5eNp3dtBQXzvncG0K7EdGi?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/di5t2xv0kqg5r6edc2mii/Road-House-2024.jpg?rlkey=bx6njgo6v9p7dht7rob0f7xtz&raw=1" group-title="Film Barat",  Road House (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/di5t2xv0kqg5r6edc2mii/Road-House-2024.jpg?rlkey=bx6njgo6v9p7dht7rob0f7xtz&raw=1" group-title="West",  Road House (2024)
 https://www.googleapis.com/drive/v3/files/1uc3KvfYER9peMny9iHqx5E6cpZ8gtZiW?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/sez5x393izqrtrgqjced4/Thanksgiving-2023.jpeg?rlkey=wynol8nybjwikf1rekvlcpxsy&raw=1" group-title="Film Barat",  Thanksgiving (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/sez5x393izqrtrgqjced4/Thanksgiving-2023.jpeg?rlkey=wynol8nybjwikf1rekvlcpxsy&raw=1" group-title="West",  Thanksgiving (2023)
 https://www.googleapis.com/drive/v3/files/1DgHd3bOI0dxRrdNDl1XCDGJtbjSbzpze?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wu8at58ela1cnnfp2dp4f/Nowhere-2023.jpeg?rlkey=dg8qx7vwyjennjs1fnxizd8jg&raw=1" group-title="Film Barat",  Nowhere (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wu8at58ela1cnnfp2dp4f/Nowhere-2023.jpeg?rlkey=dg8qx7vwyjennjs1fnxizd8jg&raw=1" group-title="West",  Nowhere (2023)
 https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#Film Asia
+#Asia
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/aocx6vxd2p4dw6dl1sxgw/A-Place-Called-Silence-2024.jpg?rlkey=7fdbx77bpqwe1y5hqggp9a6vy&st=71414evc&raw=1" group-title="Film Asia",  A Place Called Silence (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/aocx6vxd2p4dw6dl1sxgw/A-Place-Called-Silence-2024.jpg?rlkey=7fdbx77bpqwe1y5hqggp9a6vy&st=71414evc&raw=1" group-title="Asia",  A Place Called Silence (2024)
 https://www.googleapis.com/drive/v3/files/12Ga5SrRxFO4FnnQD5upEpvKJdkCvZ8Fg?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qykmewx3situbvjvo5ry4/While-You-Were-Sleeping-2024.jpg?rlkey=kp96bnik23gcc1uileyt59q0k&st=uj9lcuke&raw=1" group-title="Film Asia",  While You Were Sleeping (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qykmewx3situbvjvo5ry4/While-You-Were-Sleeping-2024.jpg?rlkey=kp96bnik23gcc1uileyt59q0k&st=uj9lcuke&raw=1" group-title="Asia",  While You Were Sleeping (2024)
 https://www.googleapis.com/drive/v3/files/1n1Hsogb4R0n5QFWC0_st_DjzlqliX0TL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/iydk0cd3ihht45cnwvq4p/Officer-Black-Belt-2024.jpeg?rlkey=vo7xa8dkfo7qdwkjegu4fm7tb&st=43eelnqx&raw=1" group-title="Film Asia",  Officer Black Belt (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/iydk0cd3ihht45cnwvq4p/Officer-Black-Belt-2024.jpeg?rlkey=vo7xa8dkfo7qdwkjegu4fm7tb&st=43eelnqx&raw=1" group-title="Asia",  Officer Black Belt (2024)
 https://www.googleapis.com/drive/v3/files/1DRTeKH5pXkI3uwYFkIbR7s1MxU_m_j__?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7x0quoum4wv3d3vw085vv/How-to-Make-Millions-Before-Grandma-Dies-2024.jpeg?rlkey=a38j29s5we0x3aljj90pkogne&st=345q6e6n&raw=1" group-title="Film Asia",  How to Make Millions Before Grandma Dies (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7x0quoum4wv3d3vw085vv/How-to-Make-Millions-Before-Grandma-Dies-2024.jpeg?rlkey=a38j29s5we0x3aljj90pkogne&st=345q6e6n&raw=1" group-title="Asia",  How to Make Millions Before Grandma Dies (2024)
 https://www.googleapis.com/drive/v3/files/1if4tVE8BKKKsK40dhMKIl6XyuCQJLxDY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gvm77b4w0rf1uvejbb5pv/Drive-2024.jpeg?rlkey=40fxih7rv668dyl36auntq74b&st=yb9ivb5d&raw=1" group-title="Film Asia",  Drive (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gvm77b4w0rf1uvejbb5pv/Drive-2024.jpeg?rlkey=40fxih7rv668dyl36auntq74b&st=yb9ivb5d&raw=1" group-title="Asia",  Drive (2024)
 https://www.googleapis.com/drive/v3/files/1WWO1tsSCsU5aH6UJ3KwokekFdoE2nhqe?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gf7et5lv1z4bs6gmfxavv/Project-Silence-2024.jpeg?rlkey=0qs3twr8s85hfo9uutz2rlabb&st=sl034stz&raw=1" group-title="Film Asia",  Project Silence (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gf7et5lv1z4bs6gmfxavv/Project-Silence-2024.jpeg?rlkey=0qs3twr8s85hfo9uutz2rlabb&st=sl034stz&raw=1" group-title="Asia",  Project Silence (2024)
 https://www.googleapis.com/drive/v3/files/14iiI1bKaF2MfwnVF-Vv9ayZt7CuhSd9H?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/40ygwbxomspm0j7vize7b/Following-2024.jpg?rlkey=b188b8ydwgwqzbewpzmo6ayjz&raw=1" group-title="Film Asia",  Following (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/40ygwbxomspm0j7vize7b/Following-2024.jpg?rlkey=b188b8ydwgwqzbewpzmo6ayjz&raw=1" group-title="Asia",  Following (2024)
 https://www.googleapis.com/drive/v3/files/19Lxe0OMsD4UP66fOkCaE4HwxRyMgvPMT?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zo43fe23jix9vbadjju3z/The-Roundup-Punishment-2024.jpeg?rlkey=68rvcfghdfzj2hl3xrzei5kbc&raw=1" group-title="Film Asia",  The Roundup: Punishment (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zo43fe23jix9vbadjju3z/The-Roundup-Punishment-2024.jpeg?rlkey=68rvcfghdfzj2hl3xrzei5kbc&raw=1" group-title="Asia",  The Roundup: Punishment (2024)
 https://www.googleapis.com/drive/v3/files/1w8su48yRJZ5V1rPeh-WDH1AlqWSEG8lj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/24j1ej47cyho94fyhxevq/Man-in-Love-2021.jpeg?rlkey=zlhvyrjlf3rs7ies9opoqog0f&raw=1" group-title="Film Asia",  Man in Love (2021)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/24j1ej47cyho94fyhxevq/Man-in-Love-2021.jpeg?rlkey=zlhvyrjlf3rs7ies9opoqog0f&raw=1" group-title="Asia",  Man in Love (2021)
 https://www.googleapis.com/drive/v3/files/1110YW4YM1B8-uY3Eb-tSlEYewTGcxw1f?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b6dqmu19jybarckelkd2y/Mai-2024.jpeg?rlkey=3mkux21kqcnxpel7klu9ukyod&raw=1" group-title="Film Asia",  Mai (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b6dqmu19jybarckelkd2y/Mai-2024.jpeg?rlkey=3mkux21kqcnxpel7klu9ukyod&raw=1" group-title="Asia",  Mai (2024)
 https://www.googleapis.com/drive/v3/files/1Od-im8qjY3xEBtrM-tbNne29lahdgweB?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/89g4s93awumikacfimbxi/Hovering-Blade-2024.jpg?rlkey=fx8l4eldhmsc8oma44m41om79&raw=1" group-title="Film Asia",  Hovering Blade (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/89g4s93awumikacfimbxi/Hovering-Blade-2024.jpg?rlkey=fx8l4eldhmsc8oma44m41om79&raw=1" group-title="Asia",  Hovering Blade (2024)
 https://www.googleapis.com/drive/v3/files/1tn3vvCcSyGUjR852Gawe0aD5BDjYMHwB?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5b9fk40j4c4zwpoaj3fht/Miss-Granny-Su-sang-han-geu-nyeo-2014.jpg?rlkey=yzzxic4h8jcburdicf6n1gvj4&raw=1" group-title="Film Asia",  Miss Granny (Su-sang-han geu-nyeo) (2014)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5b9fk40j4c4zwpoaj3fht/Miss-Granny-Su-sang-han-geu-nyeo-2014.jpg?rlkey=yzzxic4h8jcburdicf6n1gvj4&raw=1" group-title="Asia",  Miss Granny (Su-sang-han geu-nyeo) (2014)
 https://www.googleapis.com/drive/v3/files/1zyu_7VZ99HYsXQC4yO9LtgYCD_rH6RO3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/381d16o66ljn5pyiuepk3/Blind-Beul-la-in-deu-2011.jpg?rlkey=zm6gc0jh3750hjs6qm0nww4d5&raw=1" group-title="Film Asia",  Blind (2011)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/381d16o66ljn5pyiuepk3/Blind-Beul-la-in-deu-2011.jpg?rlkey=zm6gc0jh3750hjs6qm0nww4d5&raw=1" group-title="Asia",  Blind (2011)
 https://www.googleapis.com/drive/v3/files/1ISnLyypVWKMIBBXE6aCpahMydeAN59ci?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/9vmwztq2gnt3k2ph6coeg/Midnight-2021.jpeg?rlkey=ksk114p89ljh5t6jk0aae6q63&raw=1" group-title="Film Asia",  Midnight (2021)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/9vmwztq2gnt3k2ph6coeg/Midnight-2021.jpeg?rlkey=ksk114p89ljh5t6jk0aae6q63&raw=1" group-title="Asia",  Midnight (2021)
 https://www.googleapis.com/drive/v3/files/13jgg5YMzTTXVN62CtRMZJ7T1cVQetIbV?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pa5hb4nrtdom4wali6xr1/I-Want-to-Know-Your-Parents-2022.jpg?rlkey=thxffn6b6iwprhmwsljotc2lk&raw=1" group-title="Film Asia",  I Want to Know Your Parents (2022)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pa5hb4nrtdom4wali6xr1/I-Want-to-Know-Your-Parents-2022.jpg?rlkey=thxffn6b6iwprhmwsljotc2lk&raw=1" group-title="Asia",  I Want to Know Your Parents (2022)
 https://www.googleapis.com/drive/v3/files/1pjfN58oQEKIIzIph762g3xghNGyKplRK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mh43svfk86yofclq30mke/Forgotten-Gi-eok-ui-bam-2017.jpeg?rlkey=0ih4i115k7mn81wmfd7h7755e&raw=1" group-title="Film Asia",  Forgotten (Gi-eok-ui bam) (2017)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mh43svfk86yofclq30mke/Forgotten-Gi-eok-ui-bam-2017.jpeg?rlkey=0ih4i115k7mn81wmfd7h7755e&raw=1" group-title="Asia",  Forgotten (Gi-eok-ui bam) (2017)
 https://www.googleapis.com/drive/v3/files/1Igmm82FCqNPCVy61lCSM7D1rDBQYZxMA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jpq1t5sxl057oj9gy3clf/Recalled-2021.jpeg?rlkey=9td8kzu2phc7srsmzxxueidph&raw=1" group-title="Film Asia",  Recalled (2021)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jpq1t5sxl057oj9gy3clf/Recalled-2021.jpeg?rlkey=9td8kzu2phc7srsmzxxueidph&raw=1" group-title="Asia",  Recalled (2021)
 https://www.googleapis.com/drive/v3/files/1OhFIbpsFlXuah5tFLmGsCK3hGU9KxIy3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ekuwn6f020k0mgwgkjph9/Seoul-Vibe-Seoul-Daejakjeon-2022.jpeg?rlkey=pk8viv1mddtztezcvz2ak83f5&raw=1" group-title="Film Asia",  Seoul Vibe (Seoul Daejakjeon) (2022)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ekuwn6f020k0mgwgkjph9/Seoul-Vibe-Seoul-Daejakjeon-2022.jpeg?rlkey=pk8viv1mddtztezcvz2ak83f5&raw=1" group-title="Asia",  Seoul Vibe (Seoul Daejakjeon) (2022)
 https://www.googleapis.com/drive/v3/files/1jrTZMo1HVW293-sJbyka_4KfkOOV_HAm?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0xgi06nxfbtihszhqn8wx/Decision-to-Leave-Heojil-kyolshim-2022.jpeg?rlkey=c7yx1g4c9zn8hanqlcoxxtxgq&raw=1" group-title="Film Asia",  Decision to Leave (Heojil kyolshim) (2022)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0xgi06nxfbtihszhqn8wx/Decision-to-Leave-Heojil-kyolshim-2022.jpeg?rlkey=c7yx1g4c9zn8hanqlcoxxtxgq&raw=1" group-title="Asia",  Decision to Leave (Heojil kyolshim) (2022)
 https://www.googleapis.com/drive/v3/files/18WJp1zuVN-LIAm2Im9K0S1D9QgW5kjLM?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zt1xxokphk5eigm81tjyn/Godzilla-Minus-One-2023.jpg?rlkey=zn8xk5bbz0xzln9kcrynmtq0t&raw=1" group-title="Film Asia",  Godzilla Minus One (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zt1xxokphk5eigm81tjyn/Godzilla-Minus-One-2023.jpg?rlkey=zn8xk5bbz0xzln9kcrynmtq0t&raw=1" group-title="Asia",  Godzilla Minus One (2023)
 https://www.googleapis.com/drive/v3/files/1jnt5bWbMplrbZoXSfFrmiwycSkUTJhJ9?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ahm3zi74huxd9xhzlv11y/Hello-Ghost-2023.jpg?rlkey=s904ax2ryffvh66931inwbz9l&raw=1" group-title="Film Asia",  Hello Ghost (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ahm3zi74huxd9xhzlv11y/Hello-Ghost-2023.jpg?rlkey=s904ax2ryffvh66931inwbz9l&raw=1" group-title="Asia",  Hello Ghost (2023)
 https://www.googleapis.com/drive/v3/files/1SCGXJC8LUkWWDs9s7WB-sqyO6w7xOXM3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s1bg2r3r3d38lu9md0huo/Exhuma-2024.jpg?rlkey=od6d0l6doxxkreufzwb3t92lk&raw=1" group-title="Film Asia",  Exhuma (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/s1bg2r3r3d38lu9md0huo/Exhuma-2024.jpg?rlkey=od6d0l6doxxkreufzwb3t92lk&raw=1" group-title="Asia",  Exhuma (2024)
 https://www.googleapis.com/drive/v3/files/1WJu5UgoqxSNzo21yAXLxdjZXeGapa7CR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/89lodl3qn1gpde3d4hqfz/LOST-IN-THE-STARS-2023.jpg?rlkey=k1y8hyeeoraz1m4041ku3akjk&raw=1" group-title="Film Asia",  Lost In The Stars (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/89lodl3qn1gpde3d4hqfz/LOST-IN-THE-STARS-2023.jpg?rlkey=k1y8hyeeoraz1m4041ku3akjk&raw=1" group-title="Asia",  Lost In The Stars (2023)
 https://www.googleapis.com/drive/v3/files/1EXEHGA_ZwQOTWZ0nF63SeWfFMxh8qsri?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/f2mha6ikh4kl7hf0g8r27/The-Invisible-Guest-2023.jpg?rlkey=dk43ueu05jmqc3w7i4vonklk4&raw=1" group-title="Film Asia",  The Invisible Guest (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/f2mha6ikh4kl7hf0g8r27/The-Invisible-Guest-2023.jpg?rlkey=dk43ueu05jmqc3w7i4vonklk4&raw=1" group-title="Asia",  The Invisible Guest (2023)
 https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#Film Indonesia
+#Indonesia
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1dk276f3bdjcshkv5fw31/Ipar-Adalah-Maut-2024.jpeg?rlkey=0z4chk3ri9dpj55snfb9x12gy&st=0bisaagr&raw=1" group-title="Film Indonesia",  Ipar Adalah Maut (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1dk276f3bdjcshkv5fw31/Ipar-Adalah-Maut-2024.jpeg?rlkey=0z4chk3ri9dpj55snfb9x12gy&st=0bisaagr&raw=1" group-title="Indonesia",  Ipar Adalah Maut (2024)
 https://www.googleapis.com/drive/v3/files/1I1tvuGbxzylRhTMYH2aSPANn9ByFGvyb?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/prax8z1ix9d3reh0mjlor/Janji-Darah-2024.jpeg?rlkey=740l3kjsykhm26adav1s9qzrt&st=27kbubcr&raw=1" group-title="Film Indonesia",  Janji Darah (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/prax8z1ix9d3reh0mjlor/Janji-Darah-2024.jpeg?rlkey=740l3kjsykhm26adav1s9qzrt&st=27kbubcr&raw=1" group-title="Indonesia",  Janji Darah (2024)
 https://www.googleapis.com/drive/v3/files/1moN863EeKFu60igs31bkFXqbQCBtOkxg?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5baqnegl5nc3zqacwi0dr/Pasutri-Gaje-2024.jpeg?rlkey=59o8lo21nz3n9g194ff2fjrb3&raw=1" group-title="Film Indonesia",  Pasutri Gaje (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5baqnegl5nc3zqacwi0dr/Pasutri-Gaje-2024.jpeg?rlkey=59o8lo21nz3n9g194ff2fjrb3&raw=1" group-title="Indonesia",  Pasutri Gaje (2024)
 https://www.googleapis.com/drive/v3/files/15rMAbZlkLskzUsez6bn_5sDgRAhkTSuE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5pz08dbdy1w6l4lflenhk/Agak-Laen-2024.jpg?rlkey=tt6fd2ux4569hwvcoerx6uqws&raw=1" group-title="Film Indonesia",  Agak Laen (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5pz08dbdy1w6l4lflenhk/Agak-Laen-2024.jpg?rlkey=tt6fd2ux4569hwvcoerx6uqws&raw=1" group-title="Indonesia",  Agak Laen (2024)
 https://www.googleapis.com/drive/v3/files/19uGmX2fb0XHnKDWRVb2WsY9_tVju3GG8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/aj5yjm80jipljdyrl7wu6/Ngeri-Ngeri-Sedap-2022.jpeg?rlkey=xma3wdcahmw8jck5y5kwnephr&raw=1" group-title="Film Indonesia",  Ngeri Ngeri Sedap (2022)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/aj5yjm80jipljdyrl7wu6/Ngeri-Ngeri-Sedap-2022.jpeg?rlkey=xma3wdcahmw8jck5y5kwnephr&raw=1" group-title="Indonesia",  Ngeri Ngeri Sedap (2022)
 https://www.googleapis.com/drive/v3/files/1e1ukUrEJiZe7bJeyDDFrwKvvykTAlpdj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/u5365tdqp4blvul072l3h/Mukidi-2024.jpeg?rlkey=flu6dhjtrx5lottkk9ujqescz&raw=1" group-title="Film Indonesia",  Mukidi (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/u5365tdqp4blvul072l3h/Mukidi-2024.jpeg?rlkey=flu6dhjtrx5lottkk9ujqescz&raw=1" group-title="Indonesia",  Mukidi (2024)
 https://www.googleapis.com/drive/v3/files/1PtUkPmya56LNGnF1RyreRzzdh1lKDWM8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mc0npl1ei356em8o87qlr/Monster-2023.jpeg?rlkey=jj83bvk5qarzlj0mj1tuov389&raw=1" group-title="Film Indonesia",  Monster (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mc0npl1ei356em8o87qlr/Monster-2023.jpeg?rlkey=jj83bvk5qarzlj0mj1tuov389&raw=1" group-title="Indonesia",  Monster (2023)
 https://www.googleapis.com/drive/v3/files/1zA5pvIY7NVE1ZdtNBX9efjedJZST_8DD?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mkk1d2nt1ifh29ud28zjz/Gampang-Cuan-2023.jpeg?rlkey=zwcjyfw286irk8uki5bzk4c5t&raw=1" group-title="Film Indonesia",  Gampang Cuan (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/mkk1d2nt1ifh29ud28zjz/Gampang-Cuan-2023.jpeg?rlkey=zwcjyfw286irk8uki5bzk4c5t&raw=1" group-title="Indonesia",  Gampang Cuan (2023)
 https://www.googleapis.com/drive/v3/files/1QJBMAgNscj13ZqGkZNGqTBf48H5n95Bc?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#Film India
+#India
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/59tc71rn5nhw809yq9ldo/Do-Patti-2024.jpeg?rlkey=p6z9v8gbm7gf5icsa5vcq59ni&st=qhyme3g4&raw=1" group-title="Film India",  Do Patti (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/59tc71rn5nhw809yq9ldo/Do-Patti-2024.jpeg?rlkey=p6z9v8gbm7gf5icsa5vcq59ni&st=qhyme3g4&raw=1" group-title="India",  Do Patti (2024)
 https://www.googleapis.com/drive/v3/files/11IcQgbFsmB3kIoPG0Vz_jsZvh1XtHfVS?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/54gwyvud4pswvu9ytoktd/Bougainvillea-2024.jpeg?rlkey=n22aaa1wz4fvemz9zwy63ul9m&st=ybg0q6t1&raw=1" group-title="Film India",  Bougainvillea (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/54gwyvud4pswvu9ytoktd/Bougainvillea-2024.jpeg?rlkey=n22aaa1wz4fvemz9zwy63ul9m&st=ybg0q6t1&raw=1" group-title="India",  Bougainvillea (2024)
 https://www.googleapis.com/drive/v3/files/1x_vQVPwyRJejEVSedMz5KxEJu5UisJi6?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jmk12qidued38dfbxmog6/Kishkindha-Kaandam-2024.jpeg?rlkey=knp1sqaxbfpwlckz5wafnosgm&st=7t75r7j0&raw=1" group-title="Film India",  Kishkindha Kaandam (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/jmk12qidued38dfbxmog6/Kishkindha-Kaandam-2024.jpeg?rlkey=knp1sqaxbfpwlckz5wafnosgm&st=7t75r7j0&raw=1" group-title="India",  Kishkindha Kaandam (2024)
 https://www.googleapis.com/drive/v3/files/1DSYMbIhoa3KXgZAlgpq3LEF-ZZljGhc4?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2nf8prrnbn9jdmpafar81/Black-2024.jpeg?rlkey=btpkemc3228wxf8zeos0jqofa&st=0dw335e5&raw=1" group-title="Film India",  Black (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2nf8prrnbn9jdmpafar81/Black-2024.jpeg?rlkey=btpkemc3228wxf8zeos0jqofa&st=0dw335e5&raw=1" group-title="India",  Black (2024)
 https://www.googleapis.com/drive/v3/files/1QD8FpCNvuJ3VNXeQNuGqJU1rdeEOa79_?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5fx6u2x2iglegx789ntgo/Ulajh-2024.jpg?rlkey=jnvavehcd2xdkkkhfdf5yknam&st=unc9h7vz&raw=1" group-title="Film India",  Ulajh (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5fx6u2x2iglegx789ntgo/Ulajh-2024.jpg?rlkey=jnvavehcd2xdkkkhfdf5yknam&st=unc9h7vz&raw=1" group-title="India",  Ulajh (2024)
 https://www.googleapis.com/drive/v3/files/1Aqu1I7ORHg0BWihZogfFhQnIaUuUPwF-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/3v2n3ztwfc3sbwvt7oto0/Auron-Mein-Kahan-Dum-Tha-2024.jpg?rlkey=hhb67fanozf3200vac0rapj90&st=fpjp6do4&raw=1" group-title="Film India",  Auron Mein Kahan Dum Tha (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/3v2n3ztwfc3sbwvt7oto0/Auron-Mein-Kahan-Dum-Tha-2024.jpg?rlkey=hhb67fanozf3200vac0rapj90&st=fpjp6do4&raw=1" group-title="India",  Auron Mein Kahan Dum Tha (2024)
 https://www.googleapis.com/drive/v3/files/1AbatB2izJTvwnRSm0l_4FEqfyBBEmTcR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/dqiachrdqp3glvac4mn7n/Phir-Aayi-Hasseen-Dillruba-2024.jpg?rlkey=5sqdrnawb9kko7ka650v3373s&st=tn9dy72p&raw=1" group-title="Film India",  Phir Aayi Hasseen Dillruba (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/dqiachrdqp3glvac4mn7n/Phir-Aayi-Hasseen-Dillruba-2024.jpg?rlkey=5sqdrnawb9kko7ka650v3373s&st=tn9dy72p&raw=1" group-title="India",  Phir Aayi Hasseen Dillruba (2024)
 https://www.googleapis.com/drive/v3/files/1NMa1V_jM9kHvhc0Prs2wfLgV8zE4CaYX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/y219pwsexez5cew5z1r2y/Savi-Tum-hi-ho-2024.jpg?rlkey=salfz8tko422jeokdb4m5pxsg&raw=1" group-title="Film India",  Savi (Tum hi ho) (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/y219pwsexez5cew5z1r2y/Savi-Tum-hi-ho-2024.jpg?rlkey=salfz8tko422jeokdb4m5pxsg&raw=1" group-title="India",  Savi (Tum hi ho) (2024)
 https://www.googleapis.com/drive/v3/files/1K88vej8jtgRehHV-Eq_YM_9-vyRyLxJG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2p3m0rg7fa9naf1gihscq/Kill-2024.jpg?rlkey=lry5w5convvg8w77txbv82qa8&raw=1" group-title="Film India",  Kill (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2p3m0rg7fa9naf1gihscq/Kill-2024.jpg?rlkey=lry5w5convvg8w77txbv82qa8&raw=1" group-title="India",  Kill (2024)
 https://www.googleapis.com/drive/v3/files/10FdUs6QxO8CbS_AhrQszTj_C0_qW7b3A?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/lskr6kixak1dqywgm681f/Maharaja-2024.jpg?rlkey=ar7t307rgipfumrnbr0o3pj88&raw=1" group-title="Film India",  Maharaja (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/lskr6kixak1dqywgm681f/Maharaja-2024.jpg?rlkey=ar7t307rgipfumrnbr0o3pj88&raw=1" group-title="India",  Maharaja (2024)
 https://www.googleapis.com/drive/v3/files/1z6BILCIBF8fOCpaTJJ8M-jOIS2wvzBoi?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kzlsytmhj5bp64r5yerki/Crew-2024.jpeg?rlkey=1xzckydi7hoeiq440h67o4baw&raw=1" group-title="Film India",  Crew (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kzlsytmhj5bp64r5yerki/Crew-2024.jpeg?rlkey=1xzckydi7hoeiq440h67o4baw&raw=1" group-title="India",  Crew (2024)
 https://www.googleapis.com/drive/v3/files/1HpZrvC-gnqsPKsYjvKJoZuNKX1zBHMDL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/65qgvjd7687ibhqzaff8v/Sajini-Shinde-Ka-Viral-Video-2023.jpg?rlkey=fo2gnzc41tb3ozcqsit28dy8p&raw=1" group-title="Film India",  Sajini Shinde Ka Viral Video (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/65qgvjd7687ibhqzaff8v/Sajini-Shinde-Ka-Viral-Video-2023.jpg?rlkey=fo2gnzc41tb3ozcqsit28dy8p&raw=1" group-title="India",  Sajini Shinde Ka Viral Video (2023)
 https://www.googleapis.com/drive/v3/files/1_QvbxJKZaNF6aRk95qx9gGWV9je2td1R?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xxb3ysccsvac0ru8iz6mi/Merry-Christmas-2024.jpeg?rlkey=rir6938ex7rxnd9dpjusu4vw9&raw=1" group-title="Film India",  Merry Christmas (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/xxb3ysccsvac0ru8iz6mi/Merry-Christmas-2024.jpeg?rlkey=rir6938ex7rxnd9dpjusu4vw9&raw=1" group-title="India",  Merry Christmas (2024)
 https://www.googleapis.com/drive/v3/files/12vDGzlsXBmuH_O-ln9JYnbhAHoEwulpk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/a96uhf83793pexgcmd3c6/Jailer-2023.jpeg?rlkey=biioigiijnb3hugjjg0f4rdh6&raw=1" group-title="Film India",  Jailer (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/a96uhf83793pexgcmd3c6/Jailer-2023.jpeg?rlkey=biioigiijnb3hugjjg0f4rdh6&raw=1" group-title="India",  Jailer (2023)
 https://www.googleapis.com/drive/v3/files/1iWxXZp-iQkwzIqww-ZBePRZXmuKffxny?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2ntuv95ehtn01a6jzu7an/Chor-Nikal-Ke-Bhaga-2023.jpeg?rlkey=xqyvl321y148lapozob8tioib&raw=1" group-title="Film India",  Chor Nikal Ke Bhaga (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2ntuv95ehtn01a6jzu7an/Chor-Nikal-Ke-Bhaga-2023.jpeg?rlkey=xqyvl321y148lapozob8tioib&raw=1" group-title="India",  Chor Nikal Ke Bhaga (2023)
 https://www.googleapis.com/drive/v3/files/1TgRGEUwsYBeUWDgStvWwNWpPl6isetVs?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7sdf7dpboxm0tmxyn5xfq/Shaitaan-2024.jpeg?rlkey=0v33kew78wpap25ai26cqxr70&raw=1" group-title="Film India",  Shaitaan (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7sdf7dpboxm0tmxyn5xfq/Shaitaan-2024.jpeg?rlkey=0v33kew78wpap25ai26cqxr70&raw=1" group-title="India",  Shaitaan (2024)
 https://www.googleapis.com/drive/v3/files/1dzFIblD5P5G5k9z8q3ZTjwyo6uypmRHe?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9ygl511t9s4mi9cxhfa8/Freddy-2022.jpeg?rlkey=ud8yhqaziqwwk1azinqyotf7w&raw=1" group-title="Film India",  Freddy (2022)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9ygl511t9s4mi9cxhfa8/Freddy-2022.jpeg?rlkey=ud8yhqaziqwwk1azinqyotf7w&raw=1" group-title="India",  Freddy (2022)
 https://www.googleapis.com/drive/v3/files/1wjijgVfpAAPZD8vp4WPYhFDxsSgubgsx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/98cswgq05gm0b5hbqpnpq/Siren-2024.jpeg?rlkey=c4kgh32k9gzeg4v3qqw0920jk&raw=1" group-title="Film India",  Siren (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/98cswgq05gm0b5hbqpnpq/Siren-2024.jpeg?rlkey=c4kgh32k9gzeg4v3qqw0920jk&raw=1" group-title="India",  Siren (2024)
 https://www.googleapis.com/drive/v3/files/1LL2PR8NtOEzz_myv-dP7lR2JiDm4qfoK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/9auvq68qzcsydt1l841vd/Monkey-Man-2024.jpeg?rlkey=8p7dmgb25yl8u2h1fr0kt9g0p&raw=1" group-title="Film India",  Monkey Man (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/9auvq68qzcsydt1l841vd/Monkey-Man-2024.jpeg?rlkey=8p7dmgb25yl8u2h1fr0kt9g0p&raw=1" group-title="India",  Monkey Man (2024)
 https://www.googleapis.com/drive/v3/files/1ccmrhAU1KZqP9AZTqoFfnPb6qPLLZy2r?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/d252u8z52z7bx6wc8jqpb/Tiger-3-2023.jpeg?rlkey=2e38y44un0h46d6tuzm6dexju&raw=1" group-title="Film India",  Tiger 3 (2023)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/d252u8z52z7bx6wc8jqpb/Tiger-3-2023.jpeg?rlkey=2e38y44un0h46d6tuzm6dexju&raw=1" group-title="India",  Tiger 3 (2023)
 https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#Series Korea
+#Asia Series
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 1 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/1sCrfYO7d3zDEm_607rfAhG24ELlq52ip?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 2 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 2 (2024)
 https://www.googleapis.com/drive/v3/files/1chG2oIxJTJYMt-3u1UJYeyV1ADjZDwdI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 3 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 3 (2024)
 https://www.googleapis.com/drive/v3/files/18iTYHVEsqy9Qi6Cj4u-L-f3jdjhhxfM1?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 4 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 4 (2024)
 https://www.googleapis.com/drive/v3/files/1nxB9VmDH5371jq9F1sLKOGe9qrdpEMo3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 5 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 5 (2024)
 https://www.googleapis.com/drive/v3/files/16ZKRep6jWUUG2ZgvIMCuD0MoAXPcjpmF?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 6 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 6 (2024)
 https://www.googleapis.com/drive/v3/files/1WHOMVa6YE3hIzapxpMpiFJy0exSdJO43?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Series Korea",  Squid Game - Season 2 Episode 7 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 7 (2024)
 https://www.googleapis.com/drive/v3/files/1BrJm25slJp2NNZq1u8WXVcyQCo7V0QgO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 1 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/1hfP8ei6BLKCJS6cDx2kc_tBE3CH3z5_Y?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 2 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 2 (2024)
 https://www.googleapis.com/drive/v3/files/1ALfOLJjCFNHbtn4cgIvFIXleSGCM7dhg?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 3 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 3 (2024)
 https://www.googleapis.com/drive/v3/files/13GrDLTlHBFZAKVjtF4KhSeu1rQuY_RVO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 4 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 4 (2024)
 https://www.googleapis.com/drive/v3/files/1YH0dP5buZVVRfm8aAjQ1FoMLF5tMsqGj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 5 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 5 (2024)
 https://www.googleapis.com/drive/v3/files/1894Xio6gcNDEaeXYjo5eO9RjtPtBD6mt?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 6 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 6 (2024)
 https://www.googleapis.com/drive/v3/files/123L3xzr56s09Oysfcml5xhzD08A8si0Q?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 7 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 7 (2024)
 https://www.googleapis.com/drive/v3/files/1dD7l1DKnqK4zCAShQDijCVet5K5GtyFN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Series Korea",  Light Shop - Season 1 Episode 8 (2024)
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 8 (2024)
 https://www.googleapis.com/drive/v3/files/1Zmb3NrKKHjOgqV6urOpbiacnfdy0qrhv?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Series Korea",  Bargain (2023) EP 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Asia Series",  Bargain (2023) EP 1
 https://www.googleapis.com/drive/v3/files/1nx2ze4s3i8w6nWNExGQgp3DX0gcmQs60?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Series Korea",  Bargain (2023) EP 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Asia Series",  Bargain (2023) EP 2
 https://www.googleapis.com/drive/v3/files/16ixJZs6QSeXopZnrCFnb2Z5Sb5gEIONk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Series Korea",  Bargain (2023) EP 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Asia Series",  Bargain (2023) EP 3
 https://www.googleapis.com/drive/v3/files/1rpi0cl8PshHNUSgg3DdAOjq_zfRBReoI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Series Korea",  Bargain (2023) EP 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Asia Series",  Bargain (2023) EP 4
 https://www.googleapis.com/drive/v3/files/1S4fhr8nZE5Jakb4Uhz7k9gkDE-hh2ptn?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Series Korea",  Bargain (2023) EP 5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Asia Series",  Bargain (2023) EP 5
 https://www.googleapis.com/drive/v3/files/1TouNK7IUA2WLmI-gzO9t6b5LsFnRkpTW?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Series Korea",  Bargain (2023) EP 6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/qau9qsra3i2jz7p1j60e9/Bargain-2023.jpeg?rlkey=do53gmzc7o0517s8i2c0nm2gc&raw=1" group-title="Asia Series",  Bargain (2023) EP 6
 https://www.googleapis.com/drive/v3/files/11pMKd2MrHoN2G6JcKxOPw4mipOT4kR8O?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Asia Series",  A Killer Paradox (2024) EP 1
 https://www.googleapis.com/drive/v3/files/1WoSue2FnIXIMoAE1ThwrNaw2_jxZgUDj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Asia Series",  A Killer Paradox (2024) EP 2
 https://www.googleapis.com/drive/v3/files/1WZnhZPJDe1t-oUYyGxqgYkU0mKOJCuDQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Asia Series",  A Killer Paradox (2024) EP 3
 https://www.googleapis.com/drive/v3/files/19OC3wiyn5MQhCREJ_SPX4lCjNgPUmkEl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Asia Series",  A Killer Paradox (2024) EP 4
 https://www.googleapis.com/drive/v3/files/1Gp16Yo8U-rqmsvc5ygedHTv-L5UskHmn?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Asia Series",  A Killer Paradox (2024) EP 5
 https://www.googleapis.com/drive/v3/files/1pwMGOfMMT0fQN1F30dSRowjhArv6pqRK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Asia Series",  A Killer Paradox (2024) EP 6
 https://www.googleapis.com/drive/v3/files/1JfF8x21FC3vvy1zeBrYo1q1PsG_C9RzT?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Asia Series",  A Killer Paradox (2024) EP 7
 https://www.googleapis.com/drive/v3/files/1mJjXwHxmdl4HgBlTW9X6UH4rNcAd4xXl?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Series Korea",  A Killer Paradox (2024) EP 8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b8ttoskuvtend6f6rxu0a/A-Killer-Paradox-2024.jpg?rlkey=n1yiwohgrejsaypdzcecx5ipk&raw=1" group-title="Asia Series",  A Killer Paradox (2024) EP 8
 https://www.googleapis.com/drive/v3/files/1F2NqJUrD0gAkBXN5em-tZsFIGNyKDiM7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 1
 https://www.googleapis.com/drive/v3/files/1SLds4dY0Wv0hVhXlM1ZWbZcUwWuG3Q_b?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 2
 https://www.googleapis.com/drive/v3/files/1Ejs86l0Xkxf1uUGqOjF5LKlXqJdS3V1m?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 3
 https://www.googleapis.com/drive/v3/files/161MoAM-JiGN48BwWylL5DYQZupnur_D-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 4
 https://www.googleapis.com/drive/v3/files/1fljiAZYt8-BtpCdPTh8XZ3kWQ0oM-29G?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 5
 https://www.googleapis.com/drive/v3/files/1DF2xIYgiTPEIAsPqzAyXqkuj2Byzywmc?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 6
 https://www.googleapis.com/drive/v3/files/1c44a518PbVm69PLS-qZMCfvdgtsdZrOb?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 7
 https://www.googleapis.com/drive/v3/files/1WxfoZuWevM0b77vfDp39Nxo5yPLJ0KyG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 8
 https://www.googleapis.com/drive/v3/files/1vcJZdD39-jKG9wYjWTVHljt9qku1rMob?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 9
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 9
 https://www.googleapis.com/drive/v3/files/13rF0qwC6CTR618UzO8ZRBtt1tfLTau2C?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 10
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 10
 https://www.googleapis.com/drive/v3/files/1I5Ix8UrkTdAwqeYehk8WswJRcQdCG8vb?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 11
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 11
 https://www.googleapis.com/drive/v3/files/1Fy9j1XyymsBOiGrhOPldMTPhwLmmVnXf?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Series Korea",  The Impossible Heir (2024) EP 12
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/vsa9x7h50y4024nj6awwx/The-Impossible-Heir-2024.jpeg?rlkey=qqdlzx20a4843b7ss51rgxyng&raw=1" group-title="Asia Series",  The Impossible Heir (2024) EP 12
 https://www.googleapis.com/drive/v3/files/1hm8DY11phs3TgH2SIqbMhtnk5xs8HhkS?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Asia Series",  Hide (2024) EP 1
 https://www.googleapis.com/drive/v3/files/1wbSnuQk1fgVz4271YrtX_F6qaCbARwNY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Asia Series",  Hide (2024) EP 2
 https://www.googleapis.com/drive/v3/files/1n2BoTf2JDyMlgUBb9Qc8s2F42-mbRu0E?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Asia Series",  Hide (2024) EP 3
 https://www.googleapis.com/drive/v3/files/1g5EMkzzFiN1MBY6HGaVoYEJhwzz20Yr8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Asia Series",  Hide (2024) EP 4
 https://www.googleapis.com/drive/v3/files/1ceZ14HOinGbukiRy9uvobh25FGJnOmUG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Asia Series",  Hide (2024) EP 5
 https://www.googleapis.com/drive/v3/files/1uccl_yIfMJHLOx8LS6YQX36C_F1oFMXb?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Series Korea",  Hide (2024) EP 6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yoi0dk52u1k2mt2iway9x/Hide-2024.jpeg?rlkey=xb6eqwxapx3m9znehssobqjvi&raw=1" group-title="Asia Series",  Hide (2024) EP 6
 https://www.googleapis.com/drive/v3/files/12yoWRJprUp73PA9VXVX7hRk6EsFIetFI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 1
 https://www.googleapis.com/drive/v3/files/1d0rizb3kO3EK8sgVPtHf7DjJCefywnpE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 2
 https://www.googleapis.com/drive/v3/files/1FriFBhmIzH8MwSVd51337zNeMDIugqlV?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 3
 https://www.googleapis.com/drive/v3/files/1h60KNj7D8Wt2LKgJbFqPj6iTxZSH63qx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 4
 https://www.googleapis.com/drive/v3/files/1cETuLRP5CffUqbMuhvaBo7PW5q5pyYef?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 5
 https://www.googleapis.com/drive/v3/files/1nXYJPlnxELwuA011Ml2GkB450CRXAWcX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 6
 https://www.googleapis.com/drive/v3/files/1qZ7nIFRuPNuSOE7Tvh-QeJnmxm9ELbJd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 7
 https://www.googleapis.com/drive/v3/files/1eCw9fiJsU2FNJS8w93xDRxekJ8lQNy2R?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 8
 https://www.googleapis.com/drive/v3/files/1m5Y-4wiPGGV7cXSqTwuI4Lj87tmCT3C1?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 9
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 9
 https://www.googleapis.com/drive/v3/files/1FVi0OvoHmo1cSgu56RwNrzasWt9ox5FG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 10
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 10
 https://www.googleapis.com/drive/v3/files/1Lz4UcFaaSU3h90d31iStZjARipwUM56M?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 11
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 11
 https://www.googleapis.com/drive/v3/files/1hlT51dWD0fLbBJAM-pJHxx4C-81JxrBZ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 12
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 12
 https://www.googleapis.com/drive/v3/files/1qoN1qCxuAx-er23-UwLZF0IFYS9iAYhJ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 13
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 13
 https://www.googleapis.com/drive/v3/files/1Ay00X7f0eW-dBrPz0k6LoxHk52oktQ71?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 14
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 14
 https://www.googleapis.com/drive/v3/files/1zKngWnGC8HJTyjTNc5KF23vg3LBor8GF?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 15
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 15
 https://www.googleapis.com/drive/v3/files/1Y2tF4QsrwlkH3s2h6ExGxH4sJLncJz7C?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Series Korea",  FLEXXCOP (2024) EP 16
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ocv4yohf8rfb7n7isja40/FLEXXCOP-2024-EP-1.jpg?rlkey=q3zbtxvv5n4q7i7a949wu5frb&raw=1" group-title="Asia Series",  FLEXXCOP (2024) EP 16
 https://www.googleapis.com/drive/v3/files/1gsAsIiBL7239QimP5HX_ue4Bcup-HwVy?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Asia Series",  Vigilante (2023) EP 1
 https://www.googleapis.com/drive/v3/files/1Q7iai76vBU8q87JE_HylNsbrdaGQ9aF3?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Asia Series",  Vigilante (2023) EP 2
 https://www.googleapis.com/drive/v3/files/180-U_vGJ6_EfY-fISQG16gI79uLxGQzX?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Asia Series",  Vigilante (2023) EP 3
 https://www.googleapis.com/drive/v3/files/1EPwlDvRtfg5y-RmK8gatHbgJzjUdPmnJ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Asia Series",  Vigilante (2023) EP 4
 https://www.googleapis.com/drive/v3/files/17ePIPTG9yqwdOqaQk57w_2m9jYS3l6Ri?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Asia Series",  Vigilante (2023) EP 5
 https://www.googleapis.com/drive/v3/files/1tAUYis40S1Mmx9KyaLHs424YaYodTPyI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Asia Series",  Vigilante (2023) EP 6
 https://www.googleapis.com/drive/v3/files/1maF4fhbcJEKP0uDRV-M_Rafcng6OFN01?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Asia Series",  Vigilante (2023) EP 7
 https://www.googleapis.com/drive/v3/files/105u0LQH9ezYHVMTPIKK3FG_NbXnA86nR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Series Korea",  Vigilante (2023) EP 8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nusv8wa3ma6b47j1ic9un/Vigilante-2023.jpg?rlkey=8ewja7s45ers8xffdsqshgw5r&raw=1" group-title="Asia Series",  Vigilante (2023) EP 8
 https://www.googleapis.com/drive/v3/files/1plsF8dlPnnLIRv7yhOnw-luMDy7p-ncd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 1
 https://rvVmM6POT8As.enaak-cdn.com/v/01/00462/04irdz8nxxr1_h/D21.FUN-The-Killing-Vote-S01e01-1691812278.mp4?t=frJQkLuCajGx6ws6LN0RwD7JrLDMyaosgH2Mw7ee6U0&s=1712901773&e=129600&f=2311068&sp=400&i=180.252
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 2
 https://www.googleapis.com/drive/v3/files/1nhtDLAFVppjsdoNNMIo_cAcmbqCMzUnn?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 3
 https://www.googleapis.com/drive/v3/files/1qKq0STppZKLu-vE18YPQ0o8jhMF8l_o6?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 4
 https://www.googleapis.com/drive/v3/files/1DxZuLggpO58SN4euQ5D41ONw47iDZ2vJ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 5
 https://www.googleapis.com/drive/v3/files/1HtIDro6qw_FIo6eVsuYKkGAu0nwop0t4?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 6
 https://www.googleapis.com/drive/v3/files/1W5yU1V-fTz09ncq-Gvn6qBjoBOllE4fD?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 7
 https://www.googleapis.com/drive/v3/files/1f6wOJvg7bL7z_XEOnlyeEZfFhvWx8J1C?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 8
 https://www.googleapis.com/drive/v3/files/1QrNkttLpy31T35SBZkQEcuWdwzd83stq?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 9
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 9
 https://www.googleapis.com/drive/v3/files/1xiV7FXacBNcVE2PCsgSyG7Jxn-oq3y3-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 10
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 10
 https://www.googleapis.com/drive/v3/files/1gnmnDnKARt-YzgnkBHSIc0Massq5Nyn-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 11
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 11
 https://www.googleapis.com/drive/v3/files/1Yy_Q5mceolglAKwZBgnKctdpLpf2FaAY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Series Korea",  The Killing Vote (2023) EP 12
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/599udqvv0t5bdd563un89/The-Killing-Vote-2023.png?rlkey=kdbjrhnqtymbnaydwbgskub6u&raw=1" group-title="Asia Series",  The Killing Vote (2023) EP 12
 https://www.googleapis.com/drive/v3/files/1K5cb9EUmFc93mboFqeEdCDC3KmlLY0jw?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 
