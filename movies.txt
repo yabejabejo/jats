@@ -325,6 +325,21 @@ https://www.googleapis.com/drive/v3/files/1iMe1A6Ij9f8YXXN259MECrS8IVHIYjec?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 7 (2024)
 https://www.googleapis.com/drive/v3/files/1L1tbb4iuo8oSk2nSZD7aZzkG5a8uMtuA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gp8b5fk5klfvigivov691/Family-Plan-Season-1-2024.jpeg?rlkey=2osk1hk2fvjnisdzradwzlywv&st=wjunqupp&raw=1" group-title="Asia Series",  Family Plan - Season 1 Episode 1 (2024)
+https://www.googleapis.com/drive/v3/files/1ISTmNft0vqxS9GPFMR8CFKA5fvmN1BzP?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gp8b5fk5klfvigivov691/Family-Plan-Season-1-2024.jpeg?rlkey=2osk1hk2fvjnisdzradwzlywv&st=wjunqupp&raw=1" group-title="Asia Series",  Family Plan - Season 1 Episode 2 (2024)
+https://www.googleapis.com/drive/v3/files/1Y5QqXyKSvxBoUmQeyBARvDNKz1IAfbvi?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gp8b5fk5klfvigivov691/Family-Plan-Season-1-2024.jpeg?rlkey=2osk1hk2fvjnisdzradwzlywv&st=wjunqupp&raw=1" group-title="Asia Series",  Family Plan - Season 1 Episode 3 (2024)
+https://www.googleapis.com/drive/v3/files/1rHTQYAbTFPo8PRlmz21QHU3FM8Q5Ru8z?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gp8b5fk5klfvigivov691/Family-Plan-Season-1-2024.jpeg?rlkey=2osk1hk2fvjnisdzradwzlywv&st=wjunqupp&raw=1" group-title="Asia Series",  Family Plan - Season 1 Episode 4 (2024)
+https://www.googleapis.com/drive/v3/files/1NyHa4jBQwylSgMaYyZJMUGlINxgUdDFw?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gp8b5fk5klfvigivov691/Family-Plan-Season-1-2024.jpeg?rlkey=2osk1hk2fvjnisdzradwzlywv&st=wjunqupp&raw=1" group-title="Asia Series",  Family Plan - Season 1 Episode 5 (2024)
+https://www.googleapis.com/drive/v3/files/1glwy6r73r3L2fJhxY7RLJVeTVfp-UXsN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/1hfP8ei6BLKCJS6cDx2kc_tBE3CH3z5_Y?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
