@@ -340,6 +340,9 @@ https://www.googleapis.com/drive/v3/files/1NyHa4jBQwylSgMaYyZJMUGlINxgUdDFw?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gp8b5fk5klfvigivov691/Family-Plan-Season-1-2024.jpeg?rlkey=2osk1hk2fvjnisdzradwzlywv&st=wjunqupp&raw=1" group-title="Asia Series",  Family Plan - Season 1 Episode 5 (2024)
 https://www.googleapis.com/drive/v3/files/1glwy6r73r3L2fJhxY7RLJVeTVfp-UXsN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gp8b5fk5klfvigivov691/Family-Plan-Season-1-2024.jpeg?rlkey=2osk1hk2fvjnisdzradwzlywv&st=wjunqupp&raw=1" group-title="Asia Series",  Family Plan - Season 1 Episode 6 (2024)
+https://www.googleapis.com/drive/v3/files/1EjvREozIojVGro3qPOa1ws4DGWfyI0XF?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ngtk69op9bgff95rm6m1l/Light-Shop-Season-1-2024.jpeg?rlkey=7xcxh533qsznsm6cxfjrosbky&st=tu92fz4c&raw=1" group-title="Asia Series",  Light Shop - Season 1 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/1hfP8ei6BLKCJS6cDx2kc_tBE3CH3z5_Y?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
