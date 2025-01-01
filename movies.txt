@@ -38,9 +38,11 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # West
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hssf0uys3lmq15hdihaz7/Red-One-2024.jpeg?rlkey=etr2o0dos9pbcy5ld292wv71f&st=p2q5zkgx&raw=1" group-title="West",  Red One (2024)
+https://www.googleapis.com/drive/v3/files/1ljwRrDwl_niA9SrptwZSyGZqk2iaF14o?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/3hoe2vscsbywl11sj77xw/Venom-The-Last-Dance-2024.jpeg?rlkey=g9fbub6cml9du6mafmdb8sx3p&st=14dkpggl&raw=1" group-title="West",  Venom: The Last Dance (2024)
 https://www.googleapis.com/drive/v3/files/1IR5fbDBmkD_pAyHUoRXTgOACfcZW08Z4?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6zd2fn175y3zm8vvh5ssj/Carry-On-2024.jpeg?rlkey=fpu1cz5srv7hkkm7coth9rz7s&st=pjcdzhtq&raw=1" group-title="West",  Carry On (2024)
 https://www.googleapis.com/drive/v3/files/1Rwn_DugEmT3EJwXFveNIvuHfENeaofBd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
