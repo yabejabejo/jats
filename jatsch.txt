@@ -30,7 +30,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 http://rr2.dens.tv/s/s13/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Local",Elshinta TV
-http://rr2.dens.tv/s/s10/01.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.dropbox.com/s/raw/tnu2778dfjoncm5/gtv.png",GTV
 #http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
@@ -41,24 +41,24 @@ http://rr2.dens.tv/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg" group-title="Local",Jak TV
 #http://rr3.dens.tv/s/s12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bopkjc56bdwpb1k/jtv.png" group-title="Local",JTV
-http://rr3.dens.tv/s/s91/index.m3u8
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="Local",Jak TV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8?app_type=web&userid=lite&chname=Jak_tv
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="Local",Kompas TV
 #http://rr2.dens.tv/s/s104/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="Local",Metro TV
-https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.dropbox.com/s/raw/fgt1c82o97ws7h5/mnctv.png",MNC TV
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683098&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/105.jpg" group-title="Local",My TV
-#http://rr3.dens.tv/s/s88/index2.m3u8
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="Local",Magna Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8?app_type=web&userid=lite&chname=Magna_Channel
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="Local",NET.
-http://rr2.dens.tv/s/s08/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite&chname=NET.
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="Local",O Channel
 http://rr2.dens.tv/s/s41/01.m3u8
@@ -67,7 +67,7 @@ http://rr2.dens.tv/s/s41/01.m3u8
 #http://iptv.rajawebtv.my.id:25461/live/b8U7IKE3wi/r79AkE2gsn/25665.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="Local",RTV
-http://rr1.dens.tv/h/h10/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8?app_type=web&userid=lite&chname=RTV
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="Local",SCTV
 http://rr2.dens.tv/s/s03/01.m3u8
@@ -84,10 +84,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1636721390_b544100_
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8?app_type=web&userid=lite&chname=tvOne
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="Local",TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8?app_type=web&userid=lite&chname=TVRI
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png" group-title="Local",TVRI World
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="Local",TVRI Sport
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jakarta-id.png" group-title="Local",TVRI DKI Jakarta
 #http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
