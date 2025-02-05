@@ -26,8 +26,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/a0k543b0zsdrwjb/cnn.png" group-title="Local",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="Local",Channel Jowo 
+https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="Local",Daai TV
-http://rr2.dens.tv/s/s13/01.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8?app_type=web&userid=lite&chname=DAAI_TV
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Local",Elshinta TV
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
@@ -36,10 +39,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8?app_type=web&userid=l
 #http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="Local",Indosiar
-http://rr2.dens.tv/s/s04/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg" group-title="Local",Jak TV
-#http://rr3.dens.tv/s/s12/index.m3u8
+http://rr2.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="Local",Jak TV
 https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8?app_type=web&userid=lite&chname=Jak_tv
@@ -51,14 +51,14 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8?app_type=web&userid=lite
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="Local",Metro TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
-#EXTINF:-1 group-title="Local" tvg-logo="https://www.dropbox.com/s/raw/fgt1c82o97ws7h5/mnctv.png",MNC TV
-#http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683098&extension=m3u8&play_token=xdbt7BgLik
-
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="Local",Magna Channel
 https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8?app_type=web&userid=lite&chname=Magna_Channel
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="Local",NET.
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite&chname=NET.
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="Local",Nusantara TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-.
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="Local",O Channel
 http://rr2.dens.tv/s/s41/01.m3u8
@@ -68,6 +68,9 @@ http://rr2.dens.tv/s/s41/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="Local",RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8?app_type=web&userid=lite&chname=RTV
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg" group-title="Local",Rodja TV
+https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8?app_type=web&userid=lite&chname=RodjaTV
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="Local",SCTV
 http://rr2.dens.tv/s/s03/01.m3u8
