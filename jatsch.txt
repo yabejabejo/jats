@@ -8,10 +8,10 @@
 ## Lokal
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="Local",ANTV 
-https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?app_type=web&userid=lite&chname=antv
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8?app_type=web&userid=lite&chname=antv
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/w2wcc22mgk942ut/balitv.png" group-title="Local",Bali TV 
-http://rr.dens.tv/h/h159/index2.m3u8
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="Local",BTV 
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8?app_type=web&userid=lite&chname=BTV
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="Local",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -46,7 +46,7 @@ http://rr3.dens.tv/s/s91/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="Local",Kompas TV
 #http://rr2.dens.tv/s/s104/01.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8?app_type=web&userid=lite&chname=Kompas_TV
+https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="Local",Metro TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
@@ -81,7 +81,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w513006151_b544100_sle
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1636721390_b544100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="Local",TV One
-https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8?app_type=web&userid=lite&chname=tvOne
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8?app_type=web&userid=lite&chname=tvOne
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="Local",TVRI
 http://rr2.dens.tv/s/s11/01.m3u8
