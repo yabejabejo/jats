@@ -39,7 +39,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8?app_type=web&userid=l
 #http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="Local",Indosiar
-http://rr2.dens.tv/s/s07/01.m3u8
+#http://rr2.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="Local",Jak TV
 https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8?app_type=web&userid=lite&chname=Jak_tv
@@ -73,7 +73,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8?app_type=web&userid=lite&
 https://op-group1-swiftservesd-1.dens.tv/s/s14/01.m3u8?app_type=web&userid=lite&chname=RodjaTV
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="Local",SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
+#http://rr2.dens.tv/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="Local",Trans 7
 #http://rr.dens.tv/h/h11/index.m3u8
