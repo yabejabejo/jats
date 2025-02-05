@@ -61,7 +61,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-.
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="Local",O Channel
-http://rr2.dens.tv/s/s41/01.m3u8
+#http://rr2.dens.tv/s/s41/01.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.dropbox.com/s/raw/977wlyr756tgtvv/rcti.png",RCTI
 #http://iptv.rajawebtv.my.id:25461/live/b8U7IKE3wi/r79AkE2gsn/25665.m3u8
