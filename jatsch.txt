@@ -7,6 +7,21 @@
 
 ## Lokal
 
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="Local",Dens Play
+https://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Local",Dens Lifestyle
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="Local",Dens Food Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" group-title="Local",Dens Showbiz
+https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8?app_type=web&userid=lite&chname=DensShowBiz
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="Local",Dens Knowledge
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="Local",ANTV 
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8?app_type=web&userid=lite&chname=antv
 
