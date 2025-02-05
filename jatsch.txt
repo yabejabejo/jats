@@ -33,7 +33,7 @@ http://rr2.dens.tv/s/s13/01.m3u8
 http://rr2.dens.tv/s/s10/01.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.dropbox.com/s/raw/tnu2778dfjoncm5/gtv.png",GTV
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
+#http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="Local",Indosiar
 http://rr2.dens.tv/s/s04/01.m3u8
@@ -49,7 +49,7 @@ http://rr3.dens.tv/s/s91/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="Local",Metro TV
-http://rr.dens.tv/h/h12/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.dropbox.com/s/raw/fgt1c82o97ws7h5/mnctv.png",MNC TV
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683098&extension=m3u8&play_token=xdbt7BgLik
