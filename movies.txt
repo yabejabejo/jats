@@ -165,6 +165,10 @@ https://www.googleapis.com/drive/v3/files/1DgHd3bOI0dxRrdNDl1XCDGJtbjSbzpze?alt=
 https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #Asia
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/rg1198fzjdn21b3qazfod/Death-Whisperer-2-2024.jpeg?rlkey=1wx755589e037iqtsfn4atru8&st=cs0564dk&raw=1" group-title="Asia",  Death Whisperer 2 (2024)
+https://www.googleapis.com/drive/v3/files/15mkkwF2cKx_r1AdAsjspPB1UW5wzKjp6?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/nlmt8napp35sio9d3ipjr/New-Normal-2023.jpeg?rlkey=kvb08o81jd1q7pqlz3mtwk3ef&st=xhenowz0&raw=1" group-title="Asia",  New Normal (2023)
 https://www.googleapis.com/drive/v3/files/14dFM-JY0LG4Vn17JnAQth4IiKPjz1yxx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
