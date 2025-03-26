@@ -1,7 +1,7 @@
 # Live Streaming
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gkm2yuczxg7lstol5rxwe/Kualifikasi-Piala-Dunia-2026-Asia.jpeg?rlkey=gtkd4fp49aydh27j4gpy8g2bw&st=i63pjuf4&raw=1?rlkey=ntqpxml3unhvylmvkpmsyltku&st=vgyyyh87&raw=1" group-title="Live Streaming",  Indonesia VS Bahrain 2025
-https://91a2c0haoqiu-play.qqqrqq.com/live/sd-1-4146383.m3u8?txSecret=a475f7806dd93fdde262a0d8e0767f03&txTime=1742904622
+#https://91a2c0haoqiu-play.qqqrqq.com/live/sd-1-4146383.m3u8?txSecret=a475f7806dd93fdde262a0d8e0767f03&txTime=1742904622
 
 # Kids
 
