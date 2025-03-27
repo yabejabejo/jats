@@ -174,6 +174,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 #Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2xpnedc9m5l4a2esezs35/Big-World-2024.jpg?rlkey=do1gpzap75u8s8djdihgsink2&st=nnwbm6v5&raw=1" group-title="Asia",  Big World (2024)
+https://www.googleapis.com/drive/v3/files/1fjY5k5SvP6LCVGed5NOt1S2PaCHhhmLu?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/rg1198fzjdn21b3qazfod/Death-Whisperer-2-2024.jpeg?rlkey=1wx755589e037iqtsfn4atru8&st=cs0564dk&raw=1" group-title="Asia",  Death Whisperer 2 (2024)
 https://www.googleapis.com/drive/v3/files/15mkkwF2cKx_r1AdAsjspPB1UW5wzKjp6?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
