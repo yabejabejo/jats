@@ -5,6 +5,9 @@
 
 # Kids
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/6138kxdr6z9lz18l4q8m9/Dongeng-Sang-Kancil-2024.jpeg?rlkey=plp5cmsn5m5rc367plu1upneh&st=dl31atfa&raw=1" group-title="Kids",  Dongeng Sang Kancil (2024)
+https://www.googleapis.com/drive/v3/files/1yxz_geRgF_h3b8CUtetqEjBRcTALCKbC?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/eakfs74qhjoiiz0wwe7vz/The-Wild-Robot-2024.jpeg?rlkey=ntqpxml3unhvylmvkpmsyltku&st=vgyyyh87&raw=1" group-title="Kids",  The Wild Robot (2024)
 https://www.googleapis.com/drive/v3/files/19RvQjy8v-aynXsEjxUrO6ZQeUQslTOGC?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
