@@ -5,6 +5,9 @@
 
 # Kids
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ebo7nfi6gduhbupen214z/Crayon-Shin-chan-Oras-Dinosaur-Diary-2024.jpeg?rlkey=ppr6rxbqtrmtzwncffkkapwq8&st=63hwrk87&raw=1" group-title="Kids",  Crayon Shin-chan: Ora\'s Dinosaur Diary (2024)
+https://www.googleapis.com/drive/v3/files/1xe4Y288DGTHMPPA9pXg50FKfUoXXnC5D?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/30vluqssmykw0q3i038j7/Moana-2-2024.jpeg?rlkey=62tfeo9h0jpx9vy0vbrq5ubz9&st=idqmm7cd&raw=1" group-title="Kids",  Moana 2 (2024)
 https://www.googleapis.com/drive/v3/files/1_plBRh-ivcSqc1PhaLE8n4iPZBDCnfqo?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
