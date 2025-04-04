@@ -186,6 +186,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 #Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/b38ei3ltgzpre9j5dko14/Dead-Talents-Society-2024.jpeg?rlkey=95cpgd9kq3cjyjehf9kt8l1a1&st=9bah6026&raw=1" group-title="Asia",  Dead Talents Society (2024)
+https://www.googleapis.com/drive/v3/files/1UQNnX0s4g0HjDpJEyns3VXinDSDiXFqd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5zl0u8wj507ab7qmii5nr/4PM-2024.jpeg?rlkey=jpvjmp6hgezdyii3mtpa4znr2&st=nn7fpewz&raw=1" group-title="Asia",  4PM (2024)
 https://www.googleapis.com/drive/v3/files/1xmXdThXxV4wR3jiNHLlLm16_vM3JP8JO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
