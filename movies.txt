@@ -397,19 +397,19 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 https://www.googleapis.com/drive/v3/files/1sN3vg69UIxrTjIYR295pFhCTVtUxpurK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0ausj4og40u5jks8symy0/Karma-Season-1-2025.jpeg?rlkey=ilgr7t3gljio2u47mwnw0ht73&st=1cr2xux0&raw=1" group-title="Asia Series",  Karma - Season 1 Episode 2 (2025)
-https://www.googleapis.com/drive/v3/files/1sCrfYO7d3zDEm_607rfAhG24ELlq52ip?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1aJd1Bct1s5xM4OWZSS8hB2yxwyScW5ZO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0ausj4og40u5jks8symy0/Karma-Season-1-2025.jpeg?rlkey=ilgr7t3gljio2u47mwnw0ht73&st=1cr2xux0&raw=1" group-title="Asia Series",  Karma - Season 1 Episode 3 (2025)
-https://www.googleapis.com/drive/v3/files/1sCrfYO7d3zDEm_607rfAhG24ELlq52ip?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1WDP9QxnQx8rV-qQhJRC7YAx4Udro-snY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0ausj4og40u5jks8symy0/Karma-Season-1-2025.jpeg?rlkey=ilgr7t3gljio2u47mwnw0ht73&st=1cr2xux0&raw=1" group-title="Asia Series",  Karma - Season 1 Episode 4 (2025)
-https://www.googleapis.com/drive/v3/files/1sCrfYO7d3zDEm_607rfAhG24ELlq52ip?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1XBOrXJLn_p3bujXBWg0JRyLuzUiCnHa8?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0ausj4og40u5jks8symy0/Karma-Season-1-2025.jpeg?rlkey=ilgr7t3gljio2u47mwnw0ht73&st=1cr2xux0&raw=1" group-title="Asia Series",  Karma - Season 1 Episode 5 (2025)
-https://www.googleapis.com/drive/v3/files/1sCrfYO7d3zDEm_607rfAhG24ELlq52ip?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1JIn3hhM0AsPmRFqEdPuc7YIp2pZqmGRp?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/0ausj4og40u5jks8symy0/Karma-Season-1-2025.jpeg?rlkey=ilgr7t3gljio2u47mwnw0ht73&st=1cr2xux0&raw=1" group-title="Asia Series",  Karma - Season 1 Episode 6 (2025)
-https://www.googleapis.com/drive/v3/files/1sCrfYO7d3zDEm_607rfAhG24ELlq52ip?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1mJAe6FB7TzGnj2EmEOssr32LLlokdVHW?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w0ucwopppk78fqfe5ptsn/Squid-Game-Season-2-2024.jpeg?rlkey=v3bd0wd3n9t3m6ypbu1fthohk&st=kwh5ajlp&raw=1" group-title="Asia Series",  Squid Game - Season 2 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/1sCrfYO7d3zDEm_607rfAhG24ELlq52ip?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
