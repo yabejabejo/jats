@@ -394,13 +394,13 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 #Asia Series
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kp2vbww7o4tlzr7k1anud/Hyper-Knife-Season-1-2025.jpeg?rlkey=4uyrm1z5w3djeiddzu08f41ar&st=vxbo9wwu&raw=1" group-title="Asia Series",  Hyper Knife - Season 1 Episode 1 (2025)
-https://www.googleapis.com/drive/v3/files/1sN3vg69UIxrTjIYR295pFhCTVtUxpurK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1vRRPFhD3BxZpvZCluLnF_LQJkAmRskP7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kp2vbww7o4tlzr7k1anud/Hyper-Knife-Season-1-2025.jpeg?rlkey=4uyrm1z5w3djeiddzu08f41ar&st=vxbo9wwu&raw=1" group-title="Asia Series",  Hyper Knife - Season 1 Episode 2 (2025)
-https://www.googleapis.com/drive/v3/files/1sN3vg69UIxrTjIYR295pFhCTVtUxpurK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1ic4BFnR6Kd0qs7G73ZVIn7vqF7U-z3tr?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kp2vbww7o4tlzr7k1anud/Hyper-Knife-Season-1-2025.jpeg?rlkey=4uyrm1z5w3djeiddzu08f41ar&st=vxbo9wwu&raw=1" group-title="Asia Series",  Hyper Knife - Season 1 Episode 3 (2025)
-https://www.googleapis.com/drive/v3/files/1sN3vg69UIxrTjIYR295pFhCTVtUxpurK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/18enSoKqWDqU6KvClNTnv7VV7chfDvHmp?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kp2vbww7o4tlzr7k1anud/Hyper-Knife-Season-1-2025.jpeg?rlkey=4uyrm1z5w3djeiddzu08f41ar&st=vxbo9wwu&raw=1" group-title="Asia Series",  Hyper Knife - Season 1 Episode 4 (2025)
 https://www.googleapis.com/drive/v3/files/1sN3vg69UIxrTjIYR295pFhCTVtUxpurK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
