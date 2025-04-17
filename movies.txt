@@ -195,6 +195,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 #Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5jna69g1i7dczhyvq33a6/Upstream-2024.jpeg?rlkey=2bqsc8dz7tet92i3kvdqrafq0&st=ircr2d87&raw=1" group-title="Asia",  Upstream (2024)
+https://www.googleapis.com/drive/v3/files/1Q_bd0E2UGTzzZvBNbfVusCn8QX8FO5kf?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/bnh1h16jkwmgpp6lge86k/The-Prosecutor-2024.jpeg?rlkey=piz8ftqx6rf5l4kd7bp0gz6nr&st=ub2e7dkt&raw=1" group-title="Asia",  The Prosecutor (2024)
 https://www.googleapis.com/drive/v3/files/1GSTNa7EfHFSnU0nZbuR1tZ7s-SYEssOj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
