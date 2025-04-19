@@ -5,6 +5,9 @@
 
 # Kids
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1zibh91rv1r1cliw08rcw/Plankton-The-Movie-Dubbing-Indonesia-2025.jpg?rlkey=61s1fdnnrrp5bsoisv5xkrijp&st=8ec1p96c&raw=1" group-title="Kids",  Plankton The Movie Dubbing Indonesia (2025)
+https://www.googleapis.com/drive/v3/files/1Z67B_dxX7hpnWGJ6sHHt_nGMbw2QonRG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/2g3mcpvuc6vz9nii35oi0/Sonic-the-Hedgehog-3-2024.jpeg?rlkey=1p4qlh0785v1g9xfq6jxhg3ua&st=bu94cjmy&raw=1" group-title="Kids",  Sonic the Hedgehog 3 (2024)
 https://www.googleapis.com/drive/v3/files/1s4T4OvNSQXOutinmf1_gv_0X5ITwni39?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
