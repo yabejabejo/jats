@@ -294,7 +294,7 @@ https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=
 #Indonesia
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hv57ptvn71on1jbhchvbt/Hutang-Nyawa-2024.jpeg?rlkey=6vs1rnivm7fpp2g8y18gym82e&st=y94j853p&raw=1" group-title="Indonesia",  Hutang Nyawa (2024)
-https://www.googleapis.com/drive/v3/files/1kOw6gth1LkMyHQ5c2Z8uBgY8kGZ_DxGO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1_UlWVyHB3cMVhzHABpNkqEOdpIWTqdOk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/l1z2xibnkvds13tlddb13/Sumala-2024.jpeg?rlkey=odpy2ow3cbb5nnrdqa3tnjl91&st=yr17nukx&raw=1" group-title="Indonesia",  Sumala (2024)
 https://www.googleapis.com/drive/v3/files/1kOw6gth1LkMyHQ5c2Z8uBgY8kGZ_DxGO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
