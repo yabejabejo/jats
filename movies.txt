@@ -61,8 +61,8 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/pn54tvnqty0f0ouvaoae4/Locked-2025.jpg?rlkey=39w6gwicb1wlw7i8nxx4gah2p&st=rflgf739&raw=1" group-title="West",  Locked (2025)
 https://www.googleapis.com/drive/v3/files/1mBv7lybEBBTFmC4KKnWs7XBNOHtxuVYA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/iyzfxv5qu50nn2qe506ea/Novocaine-2025.jpeg?rlkey=qkswiadh8dfvqcds2o6otcscd&st=zgo2frf3&raw=1" group-title="West",  Novocaine (2025)
-https://www.googleapis.com/drive/v3/files/12TsD6O3tOgNC88Zx9MEt5hHJ6MeAqDSy?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/sppzc7ajegcoo8fv218zi/A-Working-Man-2025.jpeg?rlkey=vanxh7air52gojfjbhp6u6ryi&st=qzyc37wh&raw=1" group-title="West",  A Working Man (2025)
+https://www.googleapis.com/drive/v3/files/17V61Bh926qLVD9ArzDRC22GMizk6JMI5?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/iyzfxv5qu50nn2qe506ea/Novocaine-2025.jpeg?rlkey=qkswiadh8dfvqcds2o6otcscd&st=zgo2frf3&raw=1" group-title="West",  Novocaine (2025)
 https://www.googleapis.com/drive/v3/files/12TsD6O3tOgNC88Zx9MEt5hHJ6MeAqDSy?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
