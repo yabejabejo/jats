@@ -299,6 +299,9 @@ https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=
 
 #Indonesia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/4v9rtzzfulb8q8eqrt26d/2nd-Miracle-in-Cell-No.-7-2024.jpeg?rlkey=btzkgt9hk708sx5vlwo2t0b69&st=k76jipk7&raw=1" group-title="Indonesia",  2nd Miracle in Cell No. 7 (2024)
+https://www.googleapis.com/drive/v3/files/1_UlWVyHB3cMVhzHABpNkqEOdpIWTqdOk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hv57ptvn71on1jbhchvbt/Hutang-Nyawa-2024.jpeg?rlkey=6vs1rnivm7fpp2g8y18gym82e&st=y94j853p&raw=1" group-title="Indonesia",  Hutang Nyawa (2024)
 https://www.googleapis.com/drive/v3/files/1_UlWVyHB3cMVhzHABpNkqEOdpIWTqdOk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
