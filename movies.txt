@@ -346,6 +346,9 @@ https://www.googleapis.com/drive/v3/files/1QJBMAgNscj13ZqGkZNGqTBf48H5n95Bc?alt=
 
 #India
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/odzf91pfmayghtfkah51p/Jewel-Thief-The-Heist-Begins-2025.jpeg?rlkey=ofoem5m2udr6s8c29ft4z1jey&st=cq5udirm&raw=1" group-title="India",  Jewel Thief: The Heist Begins (2025)
+https://www.googleapis.com/drive/v3/files/1pLC5TL6sVv-Pv3BL3vlpKkdDepxf7ayK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/frezc97lzd7l10zdh6c5x/Dragon-2025.jpeg?rlkey=b4z030hci2iy19l0hni83vheu&st=qeci8dgr&raw=1" group-title="India",  Dragon (2025)
 https://www.googleapis.com/drive/v3/files/18R-RFJt4TK3HvYCzC2NYEfBeFyfL_ySQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
