@@ -207,6 +207,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 #Asia
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/frsb4e883oz5vdtn3gr0e/Kill-Boksoon-2023.jpeg?rlkey=eqlo45m29zdtvx0n4ln3wndl4&st=kt0lb6hz&raw=1" group-title="Asia",  Kill Boksoon (2023)
+https://www.googleapis.com/drive/v3/files/1E2vPARZKk_KcwtDrHpaSadPRRMMu-GpI?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5jna69g1i7dczhyvq33a6/Upstream-2024.jpeg?rlkey=2bqsc8dz7tet92i3kvdqrafq0&st=ircr2d87&raw=1" group-title="Asia",  Upstream (2024)
 https://www.googleapis.com/drive/v3/files/1Q_bd0E2UGTzzZvBNbfVusCn8QX8FO5kf?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
