@@ -42,7 +42,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="Local",Channel Jowo 
-https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="Local",Daai TV
 https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8?app_type=web&userid=lite&chname=DAAI_TV
@@ -69,7 +69,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8?app_type=web&userid=lite&
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="Local",Magna Channel
 https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8?app_type=web&userid=lite&chname=Magna_Channel
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="Local",NET.
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" group-title="Local",MD TV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite&chname=NET.
 
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="Local",Nusantara TV
