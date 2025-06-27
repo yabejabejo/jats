@@ -423,6 +423,24 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Asia Series
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9m8dqvhoro0lve2a8fel/Squid-Game-Season-3.png?rlkey=k0m593ahqs6y062ixq7o0tngo&st=7oapp20w&raw=1" group-title="Asia Series",  Squid Game Season 3 Ep 1 (2025)
+https://www.googleapis.com/drive/v3/files/1Z4xKdqkWoSe-HlGLKJp-5-NTWKlTsPb-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9m8dqvhoro0lve2a8fel/Squid-Game-Season-3.png?rlkey=k0m593ahqs6y062ixq7o0tngo&st=7oapp20w&raw=1" group-title="Asia Series",  Squid Game Season 3 Ep 2 (2025)
+https://www.googleapis.com/drive/v3/files/1vRRPFhD3BxZpvZCluLnF_LQJkAmRskP7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9m8dqvhoro0lve2a8fel/Squid-Game-Season-3.png?rlkey=k0m593ahqs6y062ixq7o0tngo&st=7oapp20w&raw=1" group-title="Asia Series",  Squid Game Season 3 Ep 3 (2025)
+https://www.googleapis.com/drive/v3/files/1vRRPFhD3BxZpvZCluLnF_LQJkAmRskP7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9m8dqvhoro0lve2a8fel/Squid-Game-Season-3.png?rlkey=k0m593ahqs6y062ixq7o0tngo&st=7oapp20w&raw=1" group-title="Asia Series",  Squid Game Season 3 Ep 4 (2025)
+https://www.googleapis.com/drive/v3/files/1vRRPFhD3BxZpvZCluLnF_LQJkAmRskP7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9m8dqvhoro0lve2a8fel/Squid-Game-Season-3.png?rlkey=k0m593ahqs6y062ixq7o0tngo&st=7oapp20w&raw=1" group-title="Asia Series",  Squid Game Season 3 Ep 5 (2025)
+https://www.googleapis.com/drive/v3/files/1vRRPFhD3BxZpvZCluLnF_LQJkAmRskP7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9m8dqvhoro0lve2a8fel/Squid-Game-Season-3.png?rlkey=k0m593ahqs6y062ixq7o0tngo&st=7oapp20w&raw=1" group-title="Asia Series",  Squid Game Season 3 Ep 6 (2025)
+https://www.googleapis.com/drive/v3/files/1vRRPFhD3BxZpvZCluLnF_LQJkAmRskP7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kp2vbww7o4tlzr7k1anud/Hyper-Knife-Season-1-2025.jpeg?rlkey=4uyrm1z5w3djeiddzu08f41ar&st=vxbo9wwu&raw=1" group-title="Asia Series",  Hyper Knife - Season 1 Episode 1 (2025)
 https://www.googleapis.com/drive/v3/files/1vRRPFhD3BxZpvZCluLnF_LQJkAmRskP7?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
