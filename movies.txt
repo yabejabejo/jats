@@ -58,6 +58,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # West
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fd5i8h97etrhtq3tsgfum/The-Amateur-2025.jpeg?rlkey=5ehz91hfmapy0dz3dgcj7yuu8&st=opne4p61&raw=1" group-title="West",  The Amateur (2025)
+https://www.googleapis.com/drive/v3/files/1Er3BfC8O36BxwNTZskOK_w0dHj_RiSjv?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/uv0mrkbn1ct0ywinu5xp9/Brick-2025.jpeg?rlkey=7b21ipz16du8chx3m07qtvl95&st=hq3p6hwq&raw=1" group-title="West",  Brick (2025)
 https://www.googleapis.com/drive/v3/files/1f9E7puVjk-U9RMwfGGcSlYyaoteW2JDJ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
