@@ -58,6 +58,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # West
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/gmgmepp6rqwthfaal4ask/The-Accountant-2-2025.jpeg?rlkey=7vyftioi8880rlt68z389pcae&st=k5io8bb6&raw=1" group-title="West",  The Accountant 2 (2025)
+https://www.googleapis.com/drive/v3/files/1sgnPWjOyu_6BoRwNBYcCgN1XMbPL1EaK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/n1vervdif7k7etl6yp46q/Ballerina-2025.jpeg?rlkey=wk7rxefj189wufvyfadluekg6&st=db98wkvo&raw=1" group-title="West",  Ballerina (2025)
 https://www.googleapis.com/drive/v3/files/1x4owrfRXXVXoGFBTq8QCyhcmTSJ3wrXE?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
