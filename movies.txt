@@ -58,6 +58,9 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # West
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wa0l4j7su1pdrtr6ebvlg/M3GAN-2.0-2025.jpeg?rlkey=ud1xxm24nt07qizr7tfgvylhk&st=0nwt02sn&raw=1" group-title="West",  M3GAN 2.0 (2025)
+https://www.googleapis.com/drive/v3/files/1L5ctbupQt5OsG6HStK6AGuvS_7SPOOAM?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ssk8zsuvxgw6qx8o19kvr/Final-Destination-Bloodlines-2025.jpg?rlkey=38tdmradipf5y8epg6rnxhlk5&st=fzpcwxqq&raw=1" group-title="West",  Final Destination: Bloodlines (2025)
 https://www.googleapis.com/drive/v3/files/1Zp5Dif5BRzsrqHz-mR3NciQ18coo-QG0?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
