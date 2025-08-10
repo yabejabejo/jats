@@ -148,6 +148,30 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8?app_type=web&userid=lite&
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg" group-title="Premium",tvN Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
 
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" group-title="Premium",My Cinema Asia
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="Premium",My Cinema Europe
+https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg" group-title="Premium",TV5Monde Style
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?app_type=web&userid=lite&chname=TV5MONDE_Style_HD
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg" group-title="Premium",Crema TV
+https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8?app_type=web&userid=lite&chname=Crema_TV
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1744344467_tvchannels_v1.jpg" group-title="Premium",Qwest TV
+https://op-group1-swiftservehd-1.dens.tv/h/h153/S4/mnf.m3u8?app_type=web&userid=lite&chname=Qwest_TV
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg" group-title="Premium",Stingray Classica
+https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8?app_type=web&userid=lite&chname=Stingray_Classica
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423538_tvchannels_v1.jpg" group-title="Premium",Dance TV
+https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8?app_type=web&userid=lite&chname=Dance_TV
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="Premium",Motorvision
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+
 ## Entertainment
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="Entertainment",Animax
