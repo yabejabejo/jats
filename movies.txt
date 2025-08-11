@@ -453,6 +453,21 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Asia Series
 
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 1 (2025)
+https://www.googleapis.com/drive/v3/files/1NcnjInbqiN4FlgZAeVW0I-mKuHjqjegU?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 2 (2025)
+https://www.googleapis.com/drive/v3/files/1kwCGHcjPsGcrJTtfPaLZQ-AsZNmcewbp?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 3 (2025)
+https://www.googleapis.com/drive/v3/files/1n6O3Vw5kAlZiG5c942V4sM_46ttc3Sof?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 4 (2025)
+https://www.googleapis.com/drive/v3/files/1Tkn1TXcjyzB9GFjOGVXljTPaxocOFHgv?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 5 (2025)
+https://www.googleapis.com/drive/v3/files/12MpwAdHzHQFy8Ohx_2BGWvNuP-2XdvrS?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9m8dqvhoro0lve2a8fel/Squid-Game-Season-3.png?rlkey=k0m593ahqs6y062ixq7o0tngo&st=7oapp20w&raw=1" group-title="Asia Series",  Squid Game Season 3 Ep 1 (2025)
 https://www.googleapis.com/drive/v3/files/1Z4xKdqkWoSe-HlGLKJp-5-NTWKlTsPb-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
