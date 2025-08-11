@@ -376,6 +376,9 @@ https://www.googleapis.com/drive/v3/files/1QJBMAgNscj13ZqGkZNGqTBf48H5n95Bc?alt=
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/07/film-sarzameen-2025-lk21-d21.jpg.webp" group-title="India",  Sarzameen (2025)
 https://www.googleapis.com/drive/v3/files/1tEiLbUkjdKoPi_g25SQGRFw_zRjX86_O?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/07/film-kuberaa-2025-lk21-d21.jpg.webp" group-title="India",  Kuberaa (2025)
+https://www.googleapis.com/drive/v3/files/1OvOzksQRSsYZGk51GKvpCiOzKkqYCiqj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/odzf91pfmayghtfkah51p/Jewel-Thief-The-Heist-Begins-2025.jpeg?rlkey=ofoem5m2udr6s8c29ft4z1jey&st=cq5udirm&raw=1" group-title="India",  Jewel Thief: The Heist Begins (2025)
 https://www.googleapis.com/drive/v3/files/1pLC5TL6sVv-Pv3BL3vlpKkdDepxf7ayK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
