@@ -468,6 +468,24 @@ https://www.googleapis.com/drive/v3/files/1Tkn1TXcjyzB9GFjOGVXljTPaxocOFHgv?alt=
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 5 (2025)
 https://www.googleapis.com/drive/v3/files/12MpwAdHzHQFy8Ohx_2BGWvNuP-2XdvrS?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 6 (2025)
+https://www.googleapis.com/drive/v3/files/1swQgibmF1Xc29HCtP9yT0uobF51OMDZv?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 7 (2025)
+https://www.googleapis.com/drive/v3/files/130Ld1pDYKpEQgVy-3BgToSpE5z5wIxpa?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 8 (2025)
+https://www.googleapis.com/drive/v3/files/1xNQC0h57CUUo9wZtc5RbsQbx-RJ0fTwk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 9 (2025)
+https://www.googleapis.com/drive/v3/files/1ckrgxTUtdcK7r3GK-wPr3uqNJQC66Ir2?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 10 (2025)
+https://www.googleapis.com/drive/v3/files/1eE9MM7S9jVunJyF2eQm1iqiNjyIfDvfg?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 11 (2025)
+https://www.googleapis.com/drive/v3/files/13cP0uM40Bhucvu5ZfZicV9T_0u-F24NQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w9m8dqvhoro0lve2a8fel/Squid-Game-Season-3.png?rlkey=k0m593ahqs6y062ixq7o0tngo&st=7oapp20w&raw=1" group-title="Asia Series",  Squid Game Season 3 Ep 1 (2025)
 https://www.googleapis.com/drive/v3/files/1Z4xKdqkWoSe-HlGLKJp-5-NTWKlTsPb-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
