@@ -453,6 +453,30 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Asia Series
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 1 (2024)
+https://www.googleapis.com/drive/v3/files/100JRexhlT-Kxjbpa2nGIYXC_TQmreZUd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 2 (2024)
+https://www.googleapis.com/drive/v3/files/1fklezwXKaNkrtaX0gHN1j8v4nrRhqzsv?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 3 (2024)
+https://www.googleapis.com/drive/v3/files/1lm0Sxy-R1_Z9wuvaZb1v92dLWzoWnpaL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 4 (2024)
+https://www.googleapis.com/drive/v3/files/1CIiqDPoto9yioGP4vELQWcweWk317YYb&export=download?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 5 (2024)
+https://www.googleapis.com/drive/v3/files/1Ga4MZqMSJPMFRiaALh64NP7LXp0yCdxg?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 6 (2024)
+https://www.googleapis.com/drive/v3/files/1XLU1ZGFnOpKOBOydJMDmwqAIdcxnzegu?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 7 (2024)
+https://www.googleapis.com/drive/v3/files/1oQO2ug77hO-KefjWFXxMKBGW1wYOqI4H?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 8 (2024)
+https://www.googleapis.com/drive/v3/files/1ZGncv0NWaHO7t0tK54213qD9SpgNFgIA?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/05/film-nine-puzzle-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Nine Puzzle - Season 1 Episode 1 (2025)
 https://www.googleapis.com/drive/v3/files/1NcnjInbqiN4FlgZAeVW0I-mKuHjqjegU?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
