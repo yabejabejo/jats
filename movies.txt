@@ -453,6 +453,21 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Asia Series
 
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 1 (2025)
+https://www.googleapis.com/drive/v3/files/1gUSqyEhqNC4fpcC3GheBv3x0ZLtct1xL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 2 (2025)
+https://www.googleapis.com/drive/v3/files/1ZsLQJJciyPeLGGxobSQFYYQpeJ_LRgOK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 3 (2025)
+https://www.googleapis.com/drive/v3/files/1kI3JEYQETxRBJ2HYLXXeyq0gNLwWachz?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 4 (2025)
+https://www.googleapis.com/drive/v3/files/1DCd6jj9fm49f2OLjEfHVg_4Txm2aDZpT?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 5 (2025)
+https://www.googleapis.com/drive/v3/files/1SphHL3VQ1zFztZapRzzp9ml0r2B17A6q?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/100JRexhlT-Kxjbpa2nGIYXC_TQmreZUd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
