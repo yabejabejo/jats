@@ -468,6 +468,21 @@ https://www.googleapis.com/drive/v3/files/1DCd6jj9fm49f2OLjEfHVg_4Txm2aDZpT?alt=
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 5 (2025)
 https://www.googleapis.com/drive/v3/files/1SphHL3VQ1zFztZapRzzp9ml0r2B17A6q?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 6 (2025)
+https://www.googleapis.com/drive/v3/files/1ccmN06CqO_tcdeyBFt3hNRzKJbRnz2KD?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 7 (2025)
+https://www.googleapis.com/drive/v3/files/1nlbgTBkpmjDGrZQQ0FYzy7CMxAaDsiNW?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 8 (2025)
+https://www.googleapis.com/drive/v3/files/1sc_69Xw5zvpJYbFLDdK30sTB8UGRVGvK?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 9 (2025)
+https://www.googleapis.com/drive/v3/files/1A5pzjqo5LEE4PVPgqhxmumINB3Pl5Q7b?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 10 (2025)
+https://www.googleapis.com/drive/v3/files/1CXhPmfcK74tc1Zx3jeecPP5KJk7DS0nd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-8-show-2024-lk21-d21.jpg.webp" group-title="Asia Series",  The 8 Show - Season 1 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/100JRexhlT-Kxjbpa2nGIYXC_TQmreZUd?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
