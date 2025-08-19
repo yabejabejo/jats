@@ -58,6 +58,12 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # West
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-mission-impossible-the-final-reckoning-2025-lk21-d21.jpg.webp" group-title="West",  Mission: Impossible - The Final Reckoning (2025)
+https://www.googleapis.com/drive/v3/files/1raWhtCQTXgeTUQZF5g3zYQVO8OOI17gP?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp" group-title="West",  Superman (2025)
+https://www.googleapis.com/drive/v3/files/1ajRUszZPtsk1oLfUqzcIWBFLsdj6PJ-e?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fd5i8h97etrhtq3tsgfum/The-Amateur-2025.jpeg?rlkey=5ehz91hfmapy0dz3dgcj7yuu8&st=opne4p61&raw=1" group-title="West",  The Amateur (2025)
 https://www.googleapis.com/drive/v3/files/1Er3BfC8O36BxwNTZskOK_w0dHj_RiSjv?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
