@@ -58,6 +58,12 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 
 # West
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-i-know-what-you-did-last-summer-2025-lk21.jpg.webp" group-title="West",  I Know What You Did Last Summer (2025)
+https://www.googleapis.com/drive/v3/files/1cASSrTyjAN1ndQYzeHRZyUhTfSNCunP6?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-f1-the-movie-2025-lk21-d21.jpg.webp" group-title="West",  F1: The Movie (2025)
+https://www.googleapis.com/drive/v3/files/1EuDiPj1KzakZsONj9RKwjC6_K6NyOUNq?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-mission-impossible-the-final-reckoning-2025-lk21-d21.jpg.webp" group-title="West",  Mission: Impossible - The Final Reckoning (2025)
 https://www.googleapis.com/drive/v3/files/1raWhtCQTXgeTUQZF5g3zYQVO8OOI17gP?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
