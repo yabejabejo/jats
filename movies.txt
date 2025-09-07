@@ -508,22 +508,22 @@ https://www.googleapis.com/drive/v3/files/1i5hVN9khDGazbAxWmHv-cQvv7VxSegoz?alt=
 https://www.googleapis.com/drive/v3/files/1pFQ4QrgpYqjQ_44qefGNKwoE690D35bM?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-moving-2023-lk21-d21.jpg.webp" group-title="Asia Series",  Moving - Season 1 Episode 15 (2023)
-https://www.googleapis.com/drive/v3/files1m46YyB_VtwCaMTsoemy1lV7elsBFEzYN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1m46YyB_VtwCaMTsoemy1lV7elsBFEzYN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-moving-2023-lk21-d21.jpg.webp" group-title="Asia Series",  Moving - Season 1 Episode 16 (2023)
-https://www.googleapis.com/drive/v3/files1m46YyB_VtwCaMTsoemy1lV7elsBFEzYN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1UK-fE_ABgvpDHPI9ZnBHYEpUKX9uqBBv?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-moving-2023-lk21-d21.jpg.webp" group-title="Asia Series",  Moving - Season 1 Episode 17 (2023)
-https://www.googleapis.com/drive/v3/files1m46YyB_VtwCaMTsoemy1lV7elsBFEzYN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1YltQ3ERrEfbMjPmGYiTpizeYO2JYHncR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-moving-2023-lk21-d21.jpg.webp" group-title="Asia Series",  Moving - Season 1 Episode 18 (2023)
-https://www.googleapis.com/drive/v3/files1m46YyB_VtwCaMTsoemy1lV7elsBFEzYN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1tYqI_n7Xhhs30gvi2UWtu9nFkCnUHwlR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-moving-2023-lk21-d21.jpg.webp" group-title="Asia Series",  Moving - Season 1 Episode 19 (2023)
-https://www.googleapis.com/drive/v3/files1m46YyB_VtwCaMTsoemy1lV7elsBFEzYN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/18_SXmKx-lXCaF2B0WTYctpb8jqbFECZj?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-moving-2023-lk21-d21.jpg.webp" group-title="Asia Series",  Moving - Season 1 Episode 20 (2023)
-https://www.googleapis.com/drive/v3/files1m46YyB_VtwCaMTsoemy1lV7elsBFEzYN?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/12x6m2qt-Lb-N5kHdVCg4myoPTm9peAb_?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/07/film-trigger-2025-lk21-d21.jpg.webp" group-title="Asia Series",  Trigger - Season 1 Episode 1 (2025)
 https://www.googleapis.com/drive/v3/files/1gUSqyEhqNC4fpcC3GheBv3x0ZLtct1xL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
