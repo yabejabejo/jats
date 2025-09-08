@@ -480,6 +480,21 @@ https://www.googleapis.com/drive/v3/files/18G6wGaQ4klPC84j_WztWQIRRcGHOxAeG?alt=
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 5 (2024)
 https://www.googleapis.com/drive/v3/files/1JW7TU9S-aMYYn7rBtDinvVOyBmkM5cGY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 6 (2024)
+https://www.googleapis.com/drive/v3/files/1730oLO2u476vBewm-0et7uG4b_2YUJ1G?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 7 (2024)
+https://www.googleapis.com/drive/v3/files/114MW9MIyEp-MliYRn_8JAFnHFmxmbGJT?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 8 (2024)
+https://www.googleapis.com/drive/v3/files/https://drive.usercontent.google.com/download?id=1fdSW4VM4KCvvAXy2hXn_T0ZcJxQKd16T&export=download&authuser=0?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 9 (2024)
+https://www.googleapis.com/drive/v3/files/141mf5CDrL6FcaNj31TWJiZRqI7Lp-sr0?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 10 (2024)
+https://www.googleapis.com/drive/v3/files/1nXf_9EkeLPo7DBe4MjbNLnmWkGmE8Yc-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-moving-2023-lk21-d21.jpg.webp" group-title="Asia Series",  Moving - Season 1 Episode 1 (2023)
 https://www.googleapis.com/drive/v3/files/1iw5_P5IixCHhjnfEXVJls1Wx9XCzEkWk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
