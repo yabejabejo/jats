@@ -465,6 +465,21 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Asia Series
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 1 (2024)
+https://www.googleapis.com/drive/v3/files/13NUPJKw8Tf0IYmh8hH2fzL-yFhyFiv1V?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 2 (2024)
+https://www.googleapis.com/drive/v3/files/1tEMLA-b-3kwhHN-c4AUKC2c6lKAlSFZO?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 3 (2024)
+https://www.googleapis.com/drive/v3/files/1q45IkzsLWBm7Y-UMG-TCxfLJS_dMc_gC?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 4 (2024)
+https://www.googleapis.com/drive/v3/files/18G6wGaQ4klPC84j_WztWQIRRcGHOxAeG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 5 (2024)
+https://www.googleapis.com/drive/v3/files/1JW7TU9S-aMYYn7rBtDinvVOyBmkM5cGY?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/08/film-moving-2023-lk21-d21.jpg.webp" group-title="Asia Series",  Moving - Season 1 Episode 1 (2023)
 https://www.googleapis.com/drive/v3/files/1iw5_P5IixCHhjnfEXVJls1Wx9XCzEkWk?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
