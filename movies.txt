@@ -468,6 +468,18 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Asia Series
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-confidence-queen-kr-2025-lk21.jpg.webp" group-title="Asia Series",  Confidence Queen KR - Season 1 Episode 1 (2025)
+https://www.googleapis.com/drive/v3/files/1M4r7wPghJlH9CdyjG2wQtbVOJe6GnXdF?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-confidence-queen-kr-2025-lk21.jpg.webp" group-title="Asia Series",  Confidence Queen KR - Season 1 Episode 2 (2025)
+https://www.googleapis.com/drive/v3/files/10kHcjK3p07PV0u4yB4LdXzlTqyEed24-?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-confidence-queen-kr-2025-lk21.jpg.webp" group-title="Asia Series",  Confidence Queen KR - Season 1 Episode 3 (2025)
+https://www.googleapis.com/drive/v3/files/13nr1peqWYebyNdgPY7_tyHSFcqls-cdC?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-confidence-queen-kr-2025-lk21.jpg.webp" group-title="Asia Series",  Confidence Queen KR - Season 1 Episode 4 (2025)
+https://www.googleapis.com/drive/v3/files/1t6Ef_IaULjLKU0v5Y3yGk__bJgp_12Oh?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/03/film-acmagame-2024-lk21-d21.jpg.webp" group-title="Asia Series",  ACMA:GAME - Season 1 Episode 1 (2024)
 https://www.googleapis.com/drive/v3/files/13NUPJKw8Tf0IYmh8hH2fzL-yFhyFiv1V?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
