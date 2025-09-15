@@ -5,6 +5,9 @@
 
 # Kids
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-doraemon-movie-nobitas-art-world-tales-2025-lk21.jpg.webp" group-title="Kids",  Doraemon the Movie: Nobita's Art World Tales (2025)
+https://www.googleapis.com/drive/v3/files/1xnqV3AgABdik6zFtfuffJ5zgZ2KrxDxw?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1zibh91rv1r1cliw08rcw/Plankton-The-Movie-Dubbing-Indonesia-2025.jpg?rlkey=61s1fdnnrrp5bsoisv5xkrijp&st=8ec1p96c&raw=1" group-title="Kids",  Plankton The Movie Dubbing Indonesia (2025)
 https://www.googleapis.com/drive/v3/files/1Z67B_dxX7hpnWGJ6sHHt_nGMbw2QonRG?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
