@@ -468,21 +468,6 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Asia Series
 
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-genie-make-wish-2025-lk21.jpg.webp" group-title="Asia Series",  Genie, Make a Wish - Season 1 Episode 1 (2025)
-https://www.googleapis.com/drive/v3/files/1roLxVDuEkkj8myQtvyojqGHHu8ZjZgL0?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-genie-make-wish-2025-lk21.jpg.webp" group-title="Asia Series",  Genie, Make a Wish - Season 1 Episode 2 (2025)
-https://www.googleapis.com/drive/v3/files/1rTnTjyqQCBykpPS5yj0u6eG6uWXz3o8p?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-genie-make-wish-2025-lk21.jpg.webp" group-title="Asia Series",  Genie, Make a Wish - Season 1 Episode 3 (2025)
-https://www.googleapis.com/drive/v3/files/1nmFv1PiOnYz365T0OrbySttlHgPEPxUL?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-genie-make-wish-2025-lk21.jpg.webp" group-title="Asia Series",  Genie, Make a Wish - Season 1 Episode 4 (2025)
-https://www.googleapis.com/drive/v3/files/1gjIqENNL3jYZTqEo3Ro73uV479eywHk1?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-genie-make-wish-2025-lk21.jpg.webp" group-title="Asia Series",  Genie, Make a Wish - Season 1 Episode 5 (2025)
-https://www.googleapis.com/drive/v3/files/1LrMJxdxuCa6MKP3_8gcSHpXTguHeiERQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-confidence-queen-kr-2025-lk21.jpg.webp" group-title="Asia Series",  Confidence Queen KR - Season 1 Episode 1 (2025)
 https://www.googleapis.com/drive/v3/files/1wna0ZOmMqwUvGYm5KN_pg1DDcW2q1kwC?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
