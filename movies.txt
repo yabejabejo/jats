@@ -471,6 +471,24 @@ https://www.googleapis.com/drive/v3/files/1CHQeYS8JkQ_WABRQzVcugu4xZLZj1PiY?alt=
 
 #Asia Series
 
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-manipulated-2025-lk21.jpg.webp" group-title="Asia Series",  The Manipulated - Season 1 Episode 1 (2025)
+https://www.googleapis.com/drive/v3/files/1InElpQ4yZq-5qdhti12sQpiHJsAo28Dm?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-manipulated-2025-lk21.jpg.webp" group-title="Asia Series",  The Manipulated - Season 1 Episode 2 (2025)
+https://www.googleapis.com/drive/v3/files/1cosPnbqfOr8ir2pCm8Ws4PeyatCs9jRb?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-manipulated-2025-lk21.jpg.webp" group-title="Asia Series",  The Manipulated - Season 1 Episode 3 (2025)
+https://www.googleapis.com/drive/v3/files/1oYvpuASfzbH7-YQ43aBwk8CN-808S1vW?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-manipulated-2025-lk21.jpg.webp" group-title="Asia Series",  The Manipulated - Season 1 Episode 4 (2025)
+https://www.googleapis.com/drive/v3/files/1ZDfJ8VHjlMWAPDXrBfh_i5JbKCO-6rFt?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-manipulated-2025-lk21.jpg.webp" group-title="Asia Series",  The Manipulated - Season 1 Episode 5 (2025)
+https://www.googleapis.com/drive/v3/files/1AFrrlAmI1xkQj9IAJJmUWp82oAxKLVJQ?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-manipulated-2025-lk21.jpg.webp" group-title="Asia Series",  The Manipulated - Season 1 Episode 6 (2025)
+https://www.googleapis.com/drive/v3/files/1VFACvl5IFVilv8d4HSsXIO0TjS-xLpBm?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-confidence-queen-kr-2025-lk21.jpg.webp" group-title="Asia Series",  Confidence Queen KR - Season 1 Episode 1 (2025)
 https://www.googleapis.com/drive/v3/files/1wna0ZOmMqwUvGYm5KN_pg1DDcW2q1kwC?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
