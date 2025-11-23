@@ -9,6 +9,12 @@ rtp://@239.1.1.200:8164
 rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/78fecjp16b3ebsz/tvri.png" group-title="Local",  TVRI HD
 rtp://@239.1.1.238:8016
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zqxwqwneerrczjll9vzu9/champions-tv.png?rlkey=3yrumxy1fpy4afootyk8mos4s&raw=1" group-title="Local",  TVRI World HD
+rtp://@239.1.2.32:8190
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w2xuec8mdort52kodqbi5/champions5.png?rlkey=5i5dgcd4zetjj6qr1k4fyn3mx&raw=1" group-title="Local",  RCTI HD
+rtp://@239.1.2.45:8193
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1ks5tccu03u0bh7esm19m/champions6.png?rlkey=0v7o48um51eazyggkdldqdue5&raw=1" group-title="Local",  GTV HD
+rtp://@239.1.2.47:8195
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/so8a4ce3na4yddj/metrotv.png" group-title="Local",  Metro TV HD
 rtp://@239.1.2.2:7986
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/843yd4kpfvps3v6/cnn.png" group-title="Local",  CNN Indonesia HD
@@ -132,13 +138,13 @@ rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/bcsn9y4mdolmcvx/fight.png" group-title="Sport",  Fight Sport HD
 rtp://@239.1.2.209:9196
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zqxwqwneerrczjll9vzu9/champions-tv.png?rlkey=3yrumxy1fpy4afootyk8mos4s&raw=1" group-title="Sport",  Champions TV 1 HD
-rtp://@239.1.2.32:8190
+#rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/yzu2pj46vnatjepvcfc2e/champions-tv2.png?rlkey=r0xzs7z5n7ywzh9aixu7z2r9p&raw=1" group-title="Sport",  Champions TV 2 HD
-rtp://@239.1.2.35:8181
+#rtp://@239.1.2.35:8181
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/w2xuec8mdort52kodqbi5/champions5.png?rlkey=5i5dgcd4zetjj6qr1k4fyn3mx&raw=1" group-title="Sport",  Champions TV 5 HD
-rtp://@239.1.2.45:8193
+#rtp://@239.1.2.45:8193
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1ks5tccu03u0bh7esm19m/champions6.png?rlkey=0v7o48um51eazyggkdldqdue5&raw=1" group-title="Sport",  Champions TV 6 HD
-rtp://@239.1.2.47:8195
+#rtp://@239.1.2.47:8195
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/rk0pkr3t23cj9om/nbatv.png" group-title="Sport",  NBA TV HD
 rtp://@239.1.2.210:9444
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/wwcowudxpbgv55t7vdy0c/volitv.png?rlkey=nl6gqilodbwdgd06w5xa8c2e3&raw=1" group-title="Sport",  Voli TV HD
@@ -366,3 +372,4 @@ rtp://@239.1.2.237:9348
 
 
 ###
+
