@@ -243,6 +243,9 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 #Asia
 
+#EXTINF:-1 tvg-logo="https://new27.ngefilm.site/wp-content/uploads/2025/11/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg" group-title="Asia",  No Other Choice (2025)
+https://www.googleapis.com/drive/v3/files/1iJFh1_GxbqPFVfKPrrGes7sFURHjb0LR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/38u2g9gk73zmsa75b74hl/Wall-to-Wall-2025.jpeg?rlkey=9ymibvzwdyitydg5xvmbc8gsg&st=nbi89hog&raw=1" group-title="Asia",  Wall to Wall (2025)
 https://www.googleapis.com/drive/v3/files/1E2b66umM82UmJ16jjDkRTnG_U199Q2e1?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
