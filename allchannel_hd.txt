@@ -98,7 +98,7 @@ rtp://@239.1.1.83:8472
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/hbaiwhxvpxb19ub/celestial.png" group-title="Movie",  Celestial Movies HD
 rtp://@239.1.1.232:8014
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qnea1cinsvfvlvj/mycinema.png" group-title="Movie",  My Cinema HD
-rtp://@239.1.2.225:9318
+#rtp://@239.1.2.225:9318
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/qjxov2h6aakknzq/tvnmovies.png" group-title="Movie",  TVN Movies HD
 rtp://@239.1.2.72:8408
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/7xuxqide1dg54d4/zee.png" group-title="Movie",  Z Bioskop
@@ -118,7 +118,7 @@ rtp://@239.1.1.145:8844
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/a3ryzq4tqc5kuna/galaxy_premium.png" group-title="Movie",  Galaxy Movie Premium HD
 rtp://@239.1.2.100:9518
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/49ht23tqpnk9q5t/mycinema.asia.png" group-title="Movie",  My Cinema Asia HD
-rtp://@239.1.1.231:8062
+#rtp://@239.1.1.231:8062
 
 ###
 
@@ -300,9 +300,9 @@ rtp://@239.1.2.239:9354
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/pzhhjxiw4ailwx4/k%2B.png" group-title="Entertainment",  K+ HD
 rtp://@239.1.1.202:9186
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/9xfjp0wvwpovdk6/formosa.png" group-title="Entertainment",  Formosa
-rtp://@239.1.2.198:9386
+#rtp://@239.1.2.198:9386
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/2esttlgm8udf86l/cti.png" group-title="Entertainment",  CTI Asia
-rtp://@239.1.2.200:9168
+#rtp://@239.1.2.200:9168
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/wf615j3fyha8env/dunialain.png" group-title="Entertainment",  Dunia Lain HD
 rtp://@239.1.2.148:8026
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/fi63uwkapcxcsw4/abc.australia.png" group-title="Entertainment",  ABC Australia HD
@@ -322,7 +322,7 @@ rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/oam6opnfgbrz2n1/shenzen.png" group-title="Entertainment",  Shenzen International
 rtp://@239.1.1.156:8910
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/p86o9qn1a9dsli7/ebc.png" group-title="Entertainment",  EBC Asia
-rtp://@239.1.2.196:9406
+#rtp://@239.1.2.196:9406
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/y388esho5hopti6/newtv.png" group-title="Entertainment",  New TV
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/raw/t4e0go5s8cy1ppl/chinese_drama.png" group-title="Entertainment",  Chinese Drama
@@ -372,4 +372,5 @@ rtp://@239.1.2.237:9348
 
 
 ###
+
 
