@@ -246,9 +246,6 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 #Asia
 
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-bu-feng-zhui-ying-2025-lk21-4.jpg.webp" group-title="Asia",  The Shadow's Edge (2025)
-https://www.googleapis.com/drive/v3/files/13MHLS8TmeMiYw8ohXbv_5zc_YIvJjfKe?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
-
 #EXTINF:-1 tvg-logo="https://new27.ngefilm.site/wp-content/uploads/2025/11/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg" group-title="Asia",  No Other Choice (2025)
 https://www.googleapis.com/drive/v3/files/1iJFh1_GxbqPFVfKPrrGes7sFURHjb0LR?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
