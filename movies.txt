@@ -62,7 +62,7 @@ https://www.googleapis.com/drive/v3/files/1L8JhnMK8VctOWfdoNGNPHPv-Xp6gxkR7?alt=
 # West
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/11/film-now-you-see-me-now-you-dont-2025-lk21.jpg.webp" group-title="West",  Now You See Me: Now You Don't (2025)
-https://www.googleapis.com/drive/v3/files/1-jgz8UFyp1FeG9_5xKYvXrVqj6rkgWwx?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+https://www.googleapis.com/drive/v3/files/1cLhUl15JpO9_Svx7i738BTsqBRJ-UHvz?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/10/film-woman-cabin-10-2025-lk21.jpg.webp" group-title="West",  The Woman in Cabin 10 (2025)
 https://www.googleapis.com/drive/v3/files/1UaCnRmdl3XQD_tJgG7-y68gbT6BvN3sv?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
