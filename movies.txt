@@ -246,7 +246,7 @@ https://www.googleapis.com/drive/v3/files/1CuDnNn2TAi3laOlHPyrKCoEEBigZEGMd?alt=
 
 #Asia
 
-#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-bu-feng-zhui-ying-2025-lk21-4.jpg.webp" group-title="Asia",  King of Painting (2025)
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-king-of-painting-2025-lk21-d21.jpg.webp" group-title="Asia",  King of Painting (2025)
 https://www.googleapis.com/drive/v3/files/1updtWGGqVI3cT7YgNBHfufw3p-CITuEh?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-bu-feng-zhui-ying-2025-lk21-4.jpg.webp" group-title="Asia",  The Shadow's Edge (2025)
