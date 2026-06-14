@@ -356,6 +356,9 @@ https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=
 
 #Indonesia
 
+#EXTINF:-1 tvg-logo="https://new36.ngefilm.site/wp-content/uploads/2026/06/weSbXv273UHJW6ChOHBRtcJMRwK-170x255.webp" group-title="Indonesia",  Pulau Hantu (2024)
+https://www.googleapis.com/drive/v3/files/17TbC8behkiVJ_YV_q0g4QZN0G4N-nw5U?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
+
 #EXTINF:-1 tvg-logo="https://new16.ngefilm.site/wp-content/uploads/2025/08/nwmR5EL5m8tcPBud6OwUyt8p5z1.jpg" group-title="Indonesia",  Pabrik Gula (2025)
 https://www.googleapis.com/drive/v3/files/1VtoblZ-4xP7wPF-axjvC6FCqEIpi-qPt?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
