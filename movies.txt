@@ -359,7 +359,7 @@ https://www.googleapis.com/drive/v3/files/1Vh7hBtfbrBpw2xEnJ_6yFFFfj9ftebzO?alt=
 #EXTINF:-1 tvg-logo="https://new36.ngefilm.site/wp-content/uploads/2026/02/pv6Swei96497ZnqXiZzFSZ0ApBT.jpg" group-title="Indonesia",  Tukar Takdir (2025)
 https://www.googleapis.com/drive/v3/files/1U5NIt8HN3ywJ__ZT9REnI6pqJ6MSYydm?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
-#EXTINF:-1 tvg-logo="https://new36.ngefilm.site/wp-content/uploads/2026/05/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK.jpg" group-title="Indonesia",  AGAK LAEN: MENYALA PANTIKU (2025)
+#EXTINF:-1 tvg-logo="https://new36.ngefilm.site/wp-content/uploads/2026/05/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK.jpg" group-title="Indonesia",  Agak Laen: Menyala Pantiku (2025)
 https://www.googleapis.com/drive/v3/files/1rL9Uv85SOG9Oyn3IEY0dbfKO8iRn7Lap?alt=media&key=AIzaSyACWGTJTzzXBcNxHlvrZkU2nPXB2sjlMyY
 
 #EXTINF:-1 tvg-logo="https://new36.ngefilm.site/wp-content/uploads/2026/06/weSbXv273UHJW6ChOHBRtcJMRwK-170x255.webp" group-title="Indonesia",  Pulau Hantu (2024)
